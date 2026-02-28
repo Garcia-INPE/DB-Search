@@ -1,0 +1,1698 @@
+;22nd congress of the portuguese association of operational research, apdio 2022
+;4-d flight trajectory prediction with constrained lstm network
+;<span>d</span>ifferential post-fire vegetation recovery of boreal plains bogs and margins
+;a bayesian model for predicting monthly fire frequency in kenya
+;a bibliometric analysis of artificial intelligence-based solutions to challenges in wildfire fuel mapping
+;a cellular automata model for forest fire spread prediction: the case of the wildfire that swept through spetses island in 1990
+;a cellular automaton model of wildfire propagation and extinction
+;a comparative analysis of the use of noaa-avhrr ndvi and fwi data for forest fire risk assessment
+;a comparative assessment of prediction capabilities of modified analytical hierarchy process (m-ahp) and mamdani fuzzy logic models using netcad-gis for forest fire susceptibility mapping
+;a comparative review on wildfire simulators
+;a comparative study of a deep reinforcement learning solution and alternative deep learning models for wildfire prediction
+;a comparative study on forest fire prediction using arima, sarima, lstm, and gru methods
+;a comparison of landscape fuel treatment strategies to mitigate wildland fire risk in the urban interface and preserve old forest structure
+;a comparison of remote sensing products and forest fire statistics for improving fire information in mediterranean europe
+;a comparison of three approaches for simulating fine-scale surface winds in support of wildland fire management: part i. model formulation and comparison against measurements
+;a comprehensive analysis of the effect of radiation and sherwood numbers in wildfire model with moisture convection and diffusion mechanisms
+;a comprehensive bibliometric review of forest fires in iran
+;a comprehensive comparison study of traditional classifiers and deep neural networks for forest fire detection
+;a comprehensive review of empirical and dynamic wildfire simulators and machine learning techniques used for the prediction of wildfire in australia
+;a comprehensive survey of research towards ai-enabled unmanned aerial systems in pre-, active-, and post-wildfire management
+;a comprehensive survey of the machine learning pipeline for wildfire risk prediction and assessment
+;a comprehensive taxonomy for forest fire risk assessment: bridging methodological gaps and proposing future directions
+;a comprehensive taxonomy of cellular automata
+;a computationally efficient method for updating fuel inputs for wildfire behavior models using sentinel imagery and random forest classification
+;a cutting-edge approach to forest fire region identification through deep learning
+;a data-driven analysis and optimization of the impact of prescribed fire programs on wildfire risk in different regions of the usa
+;a data-driven model for interaction-aware pedestrian motion prediction in object cluttered environments
+;a decision-making framework for wildfire suppression
+;a deep learning framework: predicting fire radiative power from the combination of polar-orbiting and geostationary satellite data during wildfire spread
+;a deep learning model using geostationary satellite data for forest fire detection with reduced detection latency
+;a doppler radar and conceptual analysis of a horizontal longitudinal vortex influencing the bastrop complex wildfire
+;a focused review on wildfire evacuation and infrastructure resilience in canada: trends and insights (2013-2023)
+;a forest fire prediction model based on cellular automata and machine learning
+;a forest fire propagation simulator for bogot\'{a}
+;a forest fire risk assessment using noaa avhrr images in the valencia area, eastern spain
+;a forest-fire model for technology risk transfer
+;a four-dimensional agent-based model: a case study of forest-fire smoke propagation
+;a framework for defining fire danger to support fire management operations in australia
+;a generative model for surrogates of spatial-temporal wildfire nowcasting
+;a geo-information system approach for forest fire likelihood based on causative and anti-causative factors
+;a geospatial model for real-time predicting rural fire propagation velocity using dynamic algorithms and open data for advanced emergency management
+;a gis based operational system for wildland fire crisis management ii. system architecture and case studies
+;a gis-based fire spread simulator integrating a simplified physical wildland fire model and a wind field model
+;a gis-supported model for the simulation of the spatial structure of wildland fire, cass basin, new zealand
+;a google earth engine approach for anthropogenic forest fire assessment with remote sensing data in rema-kalenga wildlife sanctuary, bangladesh
+;a hierarchical lstm-based vehicle trajectory prediction method considering interaction information
+;a high resolution coupled fire-atmosphere forecasting system to minimize the impacts of wildland fires: applications to the chimney tops ii wildland event
+;a high-fidelity ensemble simulation framework for interrogating wildland-fire behaviour and benchmarking machine learning models
+;a high-precision forest fire smoke detection approach based on argnet
+;a hybrid deep learning model by combining convolutional neural network and recurrent neural network to detect forest fire
+;a journey to children's perceptions on forest fire through drawings in canakkale province, turkey: exploring the needs for alternative educative approaches
+;a large-scale fireline global positioning method based on a single unmanned aerial vehicle
+;a lightweight cnn model for uav-based image classification
+;a logical remote sensing based disaster management and alert system using ai-assisted internet of things technology
+;a machine learning solution for operational remote sensing of active wildfires
+;a macroeconomic model for credit spread prediction in china's corporate bond market
+;a method for ensemble wildland fire simulation
+;a model-based approach to wildland fire reconstruction using sediment charcoal records
+;a multi-fidelity framework for wildland fire behavior simulations over complex terrain
+;a multimodal framework for forest fire detection and monitoring
+;a national approach for integrating wildfire simulation modeling into wildland urban interface risk assessments within the united states
+;a neural adaptive level set method for wildland forest fire tracking
+;a neural network model of wildfire spread for arbitrary topography, fuel load distribution, and wind field
+;a new formulation and algorithm for the maximum leaf spanning tree problem with an application in forest fire detection
+;a new intelligent fire color space approach for forest fire detection
+;a new paradigm for forest fire spread prediction: faster decisions at high resolution
+;a new process for organizing assessments of social, economic, and environmental outcomes: case study of wildland fire management in the usa
+;a new product growth for model consumer durables
+;a novel framework for identifying causes of forest fire events using environmental and temporal characteristics of the ignition point in fire footprint
+;a novel method for estimation of wild fire intensity based on ash ph and soil microarthropod community
+;a novel urban vegetation mapping approach for fire risk assessment: a mediterranean case study
+;a novel wildfire digital-twin framework using interactive wildfire spread simulator
+;a numerical study of atmospheric perturbations induced by heat from a wildland fire: sensitivity to vertical canopy structure and heat source strength
+;a perspective and survey on the implementation and uptake of tools to support decision-making in canadian wildland fire management
+;a physical model for wildland fires
+;a physical-based cellular automaton model for forest-fire propagation
+;a playful wildfire simulation system in two minigames
+;a probabilistic approach to wildfire spread prediction using a denoising diffusion surrogate model
+;a probabilistic landscape analysis supporting the management of unplanned ignitions at sequoia and kings canyon national parks
+;a real-time deep learning forest fire monitoring algorithm based on an improved pruned + kd model
+;a real-time risk assessment tool supporting wildland fire decisionmaking
+;a real-time web-based wildfire simulation system
+;a recent review of fire behavior and fire effects on native vegetation in central chile
+;a regret theory-based multi-granularity three-way decision model with incomplete t-spherical fuzzy information and its application in forest fire management
+;a reinforcement learning approach for wildfire tracking with uav swarms
+;a remote sensing based approach to determine forest fire cycle: case study of the yenisei ridge dark taiga
+;a retrospective approach to valuation of natural resources in wildland fire litigation
+;a review of a new generation of wildfire-atmosphere modeling
+;a review of approaches to estimate wildfire plume injection height within large-scale atmospheric chemical transport models
+;a review of challenges to determining and demonstrating efficiency of large fire management
+;a review of dynamic obstacle avoidance for unmanned aerial vehicles (uavs)
+;a review of environmental factors for an ontology-based risk analysis for pandemic spread
+;a review of fire interactions and mass fires
+;a review of firebrand studies on generation and transport
+;a review of forest fire and policy response for resilient adaptation under changing climate in the eastern himalayan region
+;a review of forest fire combating efforts, challenges and future directions in peninsular malaysia, sabah, and sarawak
+;a review of forest fire surveillance technologies: mobile ad-hoc network routing protocols perspective
+;a review of genetic algorithm approaches for wildfire spread prediction calibration
+;a review of initial attack fire crew productivity and effectiveness
+;a review of machine learning applications in wildfire science and management
+;a review of pathways for building fire spread in the wildland urban interface part ii: response of components and systems and mitigation strategies in the united states
+;a review of prescribed burning effectiveness in fire hazard reduction
+;a review of radiant heat flux models used in bushfire applications
+;a review of recent advances in risk analysis for wildfire management
+;a review of recent forest and wildland fire management decision support systems research
+;a review of risk assessment of transmission lines under wildfire disaster
+;a review of the applications of remote sensing in fire ecology
+;a review of the effects of wildfire smoke on the health and behavior of wildlife
+;a review of the environmental trigger and transmission components for prediction of cholera
+;a review of the forest service remote automated weather station (raws) network
+;a review of the main driving factors of forest fire ignition over europe
+;a review of the relationships between drought and forest fire in the united states
+;a review of traffic models for wildland-urban interface wildfire evacuation
+;a review of train delay prediction approaches
+;a review of wildland fire spread modelling, 1990-present 3: mathematical analogues and simulation models
+;a review of wildland fire spread modelling, 1990-present, 1: physical and quasi-physical models
+;a review on early forest fire detection using iot-enabled wsn
+;a review on forest fire detection and monitoring systems
+;a review on status, implications and recent trends of forest fire management
+;a review on the role of machine learning in predicting the spread of infectious diseases
+;a review: antimicrobial resistance data mining models and prediction methods study for pathogenic bacteria
+;a review: mechanism of ground fissure development in coalfield fire areas and its mutually reinforcing on the spread of coal fire
+;a robust machine learning model for forest fire detection using drone images
+;a robust optimisation approach for the placement of forest fire suppression resources
+;a self-adaptive uav routing for forest fire risk mitigation: a conceptual model
+;a semi-supervised wildfire image segmentation network with multi-scale structural fusion and pixel-level contrastive consistency
+;a shift from human-directed to undirected wild land disturbances in the usa
+;a simple physical model for forest fire spread
+;a simulation model of the population dynamics and evolution of myxomatosis
+;a simulation of probabilistic wildfire risk components for the continental united states
+;a statistical investigation of how slope affects a wildfire’s rate of spread
+;a statistical model linking siberian forest fire scars with early summer rainfall anomalies
+;a stochastic forest fire model for future land cover scenarios assessment
+;a stochastic model for forest fire growth
+;a stochastic programming model with endogenous uncertainty for incentivizing fuel reduction treatment under uncertain landowner behavior
+;a strategy to elaborate forest fire spread models for management tools including a computer time-saving algorithm
+;a survey of applications of artificial neural networks in wireless sensor networks
+;a survey of machine learning algorithms based forest fires prediction and detection systems
+;a survey on anomaly detection in evolving data: [with application to forest fire risk prediction]
+;a survey on rainfall prediction using artificial neural network
+;a survey on systematic approaches in managing forest fires
+;a survey on technologies for automatic forest fire monitoring, detection, and fighting using unmanned aerial vehicles and remote sensing techniques
+;a synergistic approach using machine learning and deep learning for forest fire susceptibility in himalayan forests
+;a systematic review and bibliometric analysis of wildland fire behavior modeling
+;a systematic review of applications of machine learning techniques for wildfire management decision support
+;a systematic review of dengue outbreak prediction models: current scenario and future directions
+;a systematic review of empirical evidence for landscape-level fuel treatment effectiveness
+;a systematic review of models for fire spread in wildfires by spotting
+;a time-dependent spatial queueing model for the daily deployment of airtankers for forest fire control
+;a transformer-based neural network for ignition location prediction from the final wildfire perimeter
+;a trust management framework using forest fire model to propagate emergency messages in the internet of vehicles (iov)
+;a two-dimensional model of fire spread across a fuel bed including wind combined with slope conditions
+;a two-dimensional reaction-advection-diffusion model of the spread of fire in wildlands
+;a wildfire risk assessment framework for land and resource management
+;a wildland fire model with data assimilation
+;a wildland-urban interface typology for forest fire risk management in mediterranean areas
+;absorption properties and graphitic carbon emission factors of forest fire aerosols
+;abstract submitted for the dfd20 meeting of the american physical society ensemble predictions of wildfire spread through tpu-compatible tensorflow acceleration1
+;accelerating wild fire simulator using gpu
+;accord: a programming framework for autonomic applications
+;active forest fire monitoring in uttaranchal state, india using multi-temporal dmsp-ols and modis data
+;adaptations can indicate fire regimes
+;adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of sprinkler systems
+;addressing the role of forest fire in global climate change context: a critical examination
+;adjusted ∆nbr index thresholds for forest fire severity mapping: a study in central amazonia
+;adriafirepropagator and adriafirerisk: user friendly web based wildfire propagation and wildfire risk prediction software
+;advanced automatic wildfire surveillance and monitoring network
+;advancements in artificial intelligence applications for forest fire prediction
+;advancements in fire detection: a review of computer vision and deep learning approaches
+;advancements in wildfire detection and prediction: an in-depth review
+;advancements in wildfire prediction and detection: a systematic review
+;advances in forest fire detection, prediction and behavior: a comprehensive survey
+;advances in the prediction of spread through air spaces with imaging in lung cancer: a narrative review
+;advances in understanding and managing wildland fire: communicating wildland fire research to land-management practitioners
+;advancing forest fire management practices: policies and strategies
+;advancing forest fire management: innovations in technology and intervention strategies
+;advancing forest fire prediction: a multi-layer stacking ensemble model approach
+;advancing wildfire predictive models: a novel dataset for next-day wildfire spread
+;aegis: a wildfire prevention and management information system
+;aerial images-based forest fire detection for firefighting using optical remote sensing techniques and unmanned aerial vehicles
+;agent-based modeling and simulation of wildland fire suppression
+;agent-based modelling for wildfire behaviour prediction
+;ai driven fire risk indices integrating climate, fuel, and terrain for wildfire prediction and management
+;ai for wildfire management: from prediction to detection, simulation, and impact analysis-bridging lab metrics and real-world validation
+;ai web service solution for&nbsp-real-time forest fire prevention
+;airborne forest fire mapping with an adaptive infrared sensor
+;alberta forest-fire smoke-24 september 1950
+;alternatives to evacuation during wildland fire: exploring adaptive capacity in one idaho community
+;american forest fire control methods
+;an accurate fire-spread algorithm in the weather research and forecasting model using the level-set method
+;an adaptable dead fuel moisture model for various fuel types and temporal scales tailored for wildfire danger assessment
+;an analysis of seasonal predictability in coupled model forecasts
+;an application of ahp-based fire vulnerability assessment for 20th century mountainous built heritage
+;an approach to operational forest fire growth predictions for canada
+;an approach to&#xa0-conserve wildlife habitat by&#xa0-predicting forest fire using machine learning technique
+;an assessment of fire-damaged forest using spatial analysis techniques
+;an assessment of the effects of forest-related policies upon wildland fires in the european union: applying the subsidiarity principle
+;an attention-guided deep-learning-based network with bayesian optimization for forest fire classification and localization
+;an automated and optimized geo-computation approach for spatial fire risk modelling using geo-web service orchestration
+;an automl-powered analysis framework for forest fire forecasting: adapting to climate change dynamics
+;an effective forest fire detection framework using heterogeneous wireless multimedia sensor networks
+;an effective graph embedded yolov5 model for forest fire detection
+;an efficient fire detection algorithm based on mamba space state linear attention
+;an efficient fire detection system based on deep neural network for real-time applications
+;an efficient matheuristic integration with benders decomposition for unmanned aerial vehicle routing problem in forest fire surveillance
+;an end to end process development for uav-sfm based forest monitoring: individual tree detection, species classification and carbon dynamics simulation
+;an enhanced wildfire spread prediction using multimodal satellite imagery and deep learning models
+;an evaluation of the utility of noaa avhrr images for monitoring forest fire risk in spain
+;an experimental approach to detect forest fire using machine learning mathematical models and iot
+;an experimental frame for the simulation of forest fire spread
+;an experimental investigation into the wildland fire burning characteristics of loblolly pine needles
+;an historical review of the simplified physical fire spread model phyfire: model and numerical methods
+;an improved bald eagle search algorithm with deep learning model for forest fire detection using hyperspectral remote sensing images
+;an improved low power wide area network node location algorithm for forest fire monitoring system
+;an innovative conceptual model of a forest fire management information and decision-support system for brandenburg state, germany abstract research and development conducted within the forest fire…
+;an innovative tool for mapping forest fire risk and danger: case studies from eastern mediterranean
+;an integrated approach of artificial intelligence and geoinformation techniques applied to forest fire risk modeling in gachsaran, iran
+;an integrated framework for wildfire emergency response and post-fire debris flow prediction: a case study from the wildfire event on 20 april 2021 in mianning, sichuan, china
+;an integrative review of empirical research on perceptions and behaviors related to prescribed burning and wildfire in the united states
+;an interactive data-driven hpc system for forecasting weather, wildland fire, and smoke
+;an interpretable wildfire spreading model for real-time predictions
+;an iot based forest fire detection system using integration of cat swarm with lstm model
+;an iot-based forest fire detection system: design and testing
+;an optimum design and simulation of an innovative mobile robotic nurse unit to assist paraplegic patients
+;an overview of mountain meteorological effects relevant to fire behaviour and bushfire risk
+;analysing fire propagation models: a case study on farsite for prolonged wildfires
+;analysis of evacuation behavior in a wildfire event
+;analysis of modis ndvi time series to calculate indicators of mediterranean forest fire susceptibility
+;analysis of noaa-avhrr ndvi inter-annual variability for forest fire risk estimation
+;analysis of wild fire behaviour in wild conservation area using image data mining
+;analysis of wildfire visualization systems for research and training: are they up for the challenge of the current state of wildfires?
+;analysis of wsn routing protocols for the application of forest fire prevention
+;analytical and numerical insights into wildfire dynamics: exploring the advection-diffusion-reaction model
+;analytical model for determining thermal radiance of fire plumes with implication to wildland fire
+;analyzing localized climate impacts with the changed climate fire modeling system
+;analyzing swarm robotics approaches in natural disaster scenarios: a comparative study
+;analyzing wildland fire smoke emissions data using compositional data techniques
+;android-based forest fire danger rating information system for early prevention of forest / land fires
+;application and issues of blockchain technology
+;application of artiﬁcial intelligence-based regression methods in the problem of covid-19 spread prediction: a systematic review
+;application of deep learning in forest fire prediction: a systematic review
+;application of explainable artificial intelligence in predicting wildfire spread: an aspp-enabled cnn approach
+;application of human-centered design in citizen engagement in wildfire management
+;application of the artificial neural network and support vector machines in forest fire prediction in the guangxi autonomous region, china
+;application of the ceres-wheat model for within-season prediction of winter wheat yield in the united kingdom
+;application of the socio-ecological system framework to forest fire risk management: a systematic literature review
+;application of wildfire risk assessment results to wildfire response planning in the southern sierra nevada, california, usa
+;applications of simulation-based burn probability modelling: a review
+;applying probability theory for the quality assessment of a wildfire spread prediction framework based on genetic algorithms
+;approximate solutions of a dynamic forecast-inventory model
+;archetypes and change in wildfire risk perceptions, behaviours and intentions among adults in tasmania, australia
+;are forest gullies refuges for birds when burnt? the value of topographical heterogeneity to avian diversity in a fire-prone landscape
+;are the applications of wildland fire behaviour models getting ahead of their evaluation again?
+;are we ready for bushfire? perceptions of residents, landowners and fire authorities on lower eyre peninsula, south australia
+;artificial intelligence for antimicrobial resistance prediction: challenges and opportunities towards practical implementation
+;assessing carbon fluxes from contemporary forest disturbances using a grid-based carbon accounting model
+;assessing changes in global fire regimes
+;assessing different measures of fire risk for cultural world heritage sites
+;assessing ecological uncertainty and simulation model sensitivity to evaluate an invasive plant species’ potential impacts to the landscape
+;assessing fire hazard using remote sensing and fire behaviour models in the telagh region of sidi bel abbes, algeria
+;assessing forest cover, carbon stocks and fire dynamics in india and economic valuation of forest carbon in asia: a meta-analysis
+;assessing forest fire and vegetation recovery in the black hills, south dakota
+;assessing forest fire dynamics and risk zones in central indian forests: a comparative study of the khandwa and north betul forest divisions of madhya pradesh
+;assessing hyrcanian forest fire vulnerability: socioeconomic and environmental perspectives
+;assessing improvements in models used to operationally predict wildland fire rate of spread
+;assessing landscape vulnerability to wildfire in the usa
+;assessing skill of operational forest fire emissions model
+;assessing telecommunication vulnerabilities to wildfire in alberta, canada
+;assessing the causes of tropical forest degradation using landsat time series: a case study in the brazilian amazon
+;assessing the intensity of a major forest fire using resurs-01 satellite imagery
+;assessing the potential for evaluation of wildland fire models using remotely sensed data-summary proceedings from a u.s. geological survey workshop in 2024
+;assessing the potential of harvested rainwater for forest fire suppression using insar and the analytic hierarchy process (ahp)
+;assessing trends in wildland-urban interface fire research through text mining: a comprehensive analysis of published literature
+;assessing wild fire risk in the united states using social media data
+;assessing wildfiregpt: a comparative analysis of ai models for quantitative wildfire spread prediction
+;assessment and validation of a computer vision algorithm for wildfire rate of spread estimation
+;assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 maui fires
+;assessment of forest fire danger conditions in southern spain from noaa images and meteorological indices
+;assessment of forest fire danger in a boreal forest environment: description and evaluation of the operational system applied in finland
+;assessment of forest fire emissions in uttarakhand state, india, using open geospatial data and google earth engine
+;assessment of forest fire severity and land surface temperature using google earth engine: a case study of gujarat state, india
+;assessment of forest fire vulnerability zones in missouri, united states of america
+;assessment of seasonal forest fire risk using noaa-avhrr: a case study in central mexico
+;assessment of spatial autocorrelation and scalability in fine-scale wildfire random forest prediction models
+;assessment of the reliability of wireless sensor networks for forest fire monitoring systems considering fatal combinations of multiple sensor failures
+;assessment of wildfire risk on transmission assets
+;assessment of wildfire susceptibility and wildfire threats to ecological environment and urban development based on gis and multi-source data: a case study of guilin, china
+;assessment of wildland fire impacts on watershed annual water yield: analytical framework and case studies in the united states
+;assimilating uav-based observation data for wildfire spread simulation
+;assimilation of perimeter data and coupling with fuel moisture in a wildland fire-atmosphere dddas
+;atmospheric interactions with wildland fire behaviour-i. basic surface interactions, vertical profiles and synoptic structures
+;atmospheric interactions with wildland fire behaviour-ii. plume and vortex dynamics
+;atmospheric losses of four plant nutrients during a forest fire
+;atmospheric turbulence and wildland fires: a review
+;atmospheric turbulence, meteorological modeling and aerodynamics
+;attributing human mortality from fire pm<sub>2.5</sub> to climate change
+;australia and the united states have many similarities and differences in prescribed fire management: learning from each other
+;author ' s personal copy a modeling and spatio-temporal analysis framework for monitoring environmental change using npp as an ecosystem indicator
+;auto-identification of forest fire-points in noaa images based on neural network
+;auto-organization approach with adaptive frame periods for ieee 802.15.4/zigbee forest fire detection system
+;automated fire and flood hazard protection system
+;automatic detection of forest fire disturbance based on dynamic modelling from modis time-series observations
+;automatic evolutionary adjustment of&nbsp-cellular automata model for&nbsp-forest fire propagation
+;automatic forest fire danger rating calibration: exploring clustering techniques for regionally customizable fire danger classification
+;automatic wildfire detection and simulation using optical information from unmanned aerial systems
+;autonomous decisional high-level planning for uavs-based forest-fire localization
+;autonomous unmanned aerial vehicles in bushfire management: challenges and opportunities
+;awareness of wildfire smoke among us adults with and without asthma
+;awareness, departure, and preparation time in no-notice wildfire evacuations
+;bark charcoal reflectance may have the potential to estimate the heat delivered to tree boles by wildland fires
+;bark-beetle-attacked trees produced more charcoal than unattacked trees during a forest fire on the kenai peninsula, southern alaska
+;barriers and opportunities for implementing prescribed fire: lessons from managers in the mid-atlantic region, united states
+;base camp personnel exposure to particulate matter during wildland fire suppression activities
+;bayesian spatio-temporal modeling of the brazilian fire spots between 2011 and 2022
+;behavior assessment model for trace organics in soil: i. model description
+;behavioral adaptation to climate change in wildfire-prone forests
+;behavioral response of young rainbow trout (oncorhynchus mykiss) to forest fire-retardant chemicals in the laboratory
+;being there: effectiveness of a 360-degree virtual tour for increasing understanding of forest treatments for fire hazard reduction in california, usa
+;belonging probability inverse image approach for forest fire detection
+;benchmarking of wildland fire colour segmentation algorithms
+;beyond transmission: an analysis of communication frameworks in australian bushfire preparedness
+;bim-integrated construction operation simulation for just-in-time production management
+;biosolids applications affect runoff water quality following forest fire
+;birth-jump processes and application to forest fire spotting
+;black carbon concentrations in snow at tronsen meadow in central washington from 2012 to 2013: temporal and spatial variations and the role of local forest fire activity
+;boreal forest fire causes daytime surface warming during summer to exceed surface cooling during winter in north america
+;brazilian pemphigus foliaceus, endemic pemphigus foliaceus, or fogo selvagem (wild fire)
+;breaking barriers in fire detection-a lightweight model for forest surveillance
+;bseiffs: blockchain-secured edge-intelligent forest fire surveillance
+;building bushfire resilience in horticultural production systems: important insights from australia
+;burn probability simulation and subsequent wildland fire activity in alberta, canada-implications for risk assessment and strategic planning
+;burning of woody debris dominates fire emissions in the amazon and cerrado
+;burning, fire prevention and landscape productions among the pemon, gran sabana, venezuela: toward an intercultural approach to wildland fire management in neotropical savannas
+;bushfire building damage survey-a nsw perspective
+;bushfire rate-of-spread forecasting: deterministic and statistical approaches to fire modelling
+;bushfire resilient building cladding assessment-a review based on the australian context
+;bushfire simulators and analysis in australia: insights into an emerging sociotechnical practice
+;calculation of spotting particles maximum distance in idealised forest fire scenarios
+;calibration of hybrid species distribution models: the value of general-purpose vs. targeted monitoring data
+;california wildfire spread prediction using farsite and the comparison with the actual wildfire maps using statistical methods
+;can forest fire cognizance garner community support for fire prevention? evidence from the sal forest of northern india
+;can satellite-based data substitute for surveyed data to predict the spatial probability of forest fire? a geostatistical approach to forest fire in the republic of korea
+;can wildland fire management alter 21st-century subalpine fire and forests in grand teton national park, wyoming, usa?
+;capturing and interpreting wildfire spread dynamics: attention-based spatiotemporal models using convlstm networks
+;capturing sub-grid temperature and moisture variations for wildland fire modeling
+;carbon dynamics of north american boreal forest after stand replacing wildfire and clearcut logging
+;catching fire? social interactions, beliefs, and wildfire risk mitigation behaviors
+;categorization of meteorological parameters and systems in support of the assessment of the dispersion of forest fire related air emissions
+;cats, foxes and fire: quantitative review reveals that invasive predator activity is most likely to increase shortly after fire
+;cbm-cfs 3: a model of carbon-dynamics in forestry and land-use change implementing ipcc standards
+;cell2fire: a cell-based forest fire growth model to support strategic landscape management planning
+;cellular automata-based simulators for the design of prescribed fire plans: the case study of liguria, italy
+;cffdrs: an r package for the canadian forest fire danger rating system
+;challenges and future applications for irnss with machine learning algorithms
+;challenges and opportunities in remote sensing-based fuel load estimation for wildfire behavior and management: a comprehensive review
+;challenges in&#xa0-fire spread modeling-from bench scale up&#xa0-to&#xa0-wildfire scale
+;challenges of wildland fire management in botswana: towards a community inclusive fire management approach
+;changes in net ecosystem production associated with forest fire in taiga ecosystems, near yakutsk, russia
+;changes in potential wildland fire suppression costs due to restoration treatments in northern arizona ponderosa pine forests
+;changes in snow accumulation and ablation following the las conchas forest fire, new mexico, usa
+;changes to the permafrost environment after forest fire, da xi'an ridge, gu lian mining area, china
+;changing weather extremes call for early warning of potential for catastrophic fire
+;chapter 11: wildland fire danger rating and early warning systems
+;chapter 13 climate variability, climate change, and western wildfire with implications for the urban-wildland interface
+;chapter 3 characterizing sources of emissions from wildland fires
+;chapter 4 chemical composition of wildland fire emissions
+;chapter 5: wildland fire spread models
+;chapter 6 airborne remote sensing of wildland fires
+;characterizing climate-and fire-driven habitat vulnerability for an old-forest species
+;characterizing forest fuel properties and potential wildfire dynamics in xiuwu, henan, china
+;characterizing potential wildland fire fuel in live vegetation in the mediterranean region
+;characterizing temporal changes in forest fire ignitions: looking for climate change signals in a region of the canadian boreal forest
+;characterizing wildfire perimeter polygons from&nbsp-quic-fire
+;charts for interpreting wildland fire behavior characteristics
+;chemical tomography in a fresh wildland fire plume: a large eddy simulation (les) study
+;classification of vegetation to estimate forest fire danger using landsat 8 images: case study
+;climate change and fire management in the mid-atlantic region
+;climate change impact on future wildfire danger and activity in southern europe: a review
+;climate change impacts on wildfire risk indices forecast based on an improved genetic neural network algorithm: a case study of guangxi, china
+;climate change mitigation-adaptation relationships in forest management: perspectives from the fire-prone american west
+;climate change, bushfire risk, and environmental values: examining a potential risk perception threshold in peri-urban south australia
+;climate influences on future fire severity: a synthesis of climate-fire interactions and impacts on fire regimes, high-severity fire, and forests in the western united states
+;climate predicts wildland fire extent across china
+;climatic influences on forest fire and mountain pine beetle outbreaks and resulting runoff effects in large watersheds in british columbia, canada
+;climatic stress increases forest fire severity across the western united states
+;climatological evaluation of haines forest fire weather index over the mediterranean basin
+;cloud-based urgent computing for forest fire spread prediction
+;cloud-based urgent computing for forest fire spread prediction under data uncertainties
+;cloud-to-ground lightning downwind of the 2002 hayman forest fire in colorado
+;cnn-bilstm: a novel deep learning model for near-real-time daily wildfire spread prediction
+;coarse filter ecosystem management in a nonequilibrating forest
+;cohesive fire management within an uncertain environment: a review of risk handling and decision support systems
+;collective emotions, triggering events, and self-organization: the forest-fire model of cultural identity conflict escalation
+;color models aware dynamic feature extraction for forest fire detection using machine learning classifiers
+;combination four different ensemble algorithms with the generalized linear model (glm) for predicting forest fire susceptibility
+;combined estimation of fire perimeters and fuel adjustment factors in farsite for forecasting wildland fire propagation
+;combining mcts and a3c for prediction of spatially spreading processes in forest wildfire settings
+;combining spatial and elementary analysis with qualitative approaches: a novel approach of forest fire risk detection, mitigation, and impact analysis
+;combustion dynamics of large-scale wildfires
+;commentary on cloud-based urgent computing for forest fire spread prediction by fraga et al
+;commentary on the article burn probability simulation and subsequent wildland fire activity in alberta, canada-implications for risk assessment and strategic planning by j.l. beverly and n. mcloughlin
+;communicating with the public about wildland fire preparation, response, and recovery: a review of recent literature
+;community perceptions on wildfires in mount kenya forest: implications for fire preparedness and community wildfire management
+;community wildfire preparedness: a global state-of-the-knowledge summary of social science research
+;comparative analysis of wildfire simulation tools: discrepancies in rothermel model-based software under varying wind and slope conditions
+;comparative and interpretative analysis of cnn and transformer models in predicting wildfire spread using remote sensing data
+;comparative study of machine learning and deep learning models for prediction and detection of forest fire
+;comparing accuracy of wildfire spread prediction models under different data deficiency conditions
+;comparing money and labour payment in contingent valuation: the case of forest fire prevention in vietnamese context
+;comparing next-day wildfire predictability of modis and viirs satellite data
+;comparing production function models for wildfire risk analysis in the wildland-urban interface
+;comparing satellite data for next-day wildfire predictability
+;comparison and simulation of building thermal models for effective energy management
+;comparison of firebrand propagation prediction by a plume model and a coupled-fire/atmosphere large-eddy simulator
+;comparison of meteorological drivers of two large coastal slope-land wildfire events in croatia and south-east australia
+;comparison of the genotoxic activities of extracts from ambient and forest fire polluted air
+;comparison of wildfire meteorology and climate at the adriatic coast and southeast australia
+;comparisons between wildfire and forest harvesting and their implications in forest management
+;comparisons of diverse machine learning approaches for wildfire susceptibility mapping
+;complex dynamics may limit prediction in marine fisheries
+;computational analysis of wildland fire resistance for transmission line tower
+;computational modeling of extreme wildland fire events: a synthesis of scientific understanding with applications to forecasting, land management, and firefighter safety
+;computer vision-driven forest wildfire and smoke recognition via iot drone cameras
+;computing grassland and forest fire behaviour, relative humidity and drought index by pocket calculator
+;conflict and collaboration in wildfire management: the role of mission alignment
+;considerations on operational wildfire spread modelling
+;construction and assessment of a fire risk index system for typical grasslands in xinjiang, china
+;contribution to understanding the influence of fires on the mercury cycle: systematic review, dynamic modelling and application to sustainable hypothetical scenarios
+;contributions of wildland fire to terrestrial ecosystem carbon dynamics in north america from 1990 to 2012
+;cooperative forest fire surveillance using a team of small unmanned air vehicles
+;corrigendum to: interdependencies between flame length and fireline intensity in predicting crown fire initiation and crown scorch height
+;coupled atmosphere-wildland fire modeling with wrf-fire version 3.3
+;coupled atmosphere-wildland fire modelling
+;coupled dynamic data-driven framework for forest fire spread prediction
+;coupling diagnostic and prognostic models to a dynamic data driven forest fire spread prediction system
+;coupling of a simplified flow with a phenomenological fire spread model
+;coupling wildfire spread and erosion models to quantify post-fire erosion before and after fuel treatments
+;coupling wildfire spread and erosion models to quantify post-fire erosion in northern sardinia, italy
+;coupling wind dynamics into a dddas forest fire propagation prediction system
+;creating a forest fire database for the far east of asia using noaa/avhrr observation
+;cross-border collaborative forest fire management: an integrated approach for forest fire management in the era of climate change
+;crowd-sourced wildfire spread prediction with remote georeferencing using smartphones
+;current approaches to modelling the spread of wildland fire: a review
+;current status of enso prediction skill in coupled ocean-atmosphere models
+;current wildland fire patterns and challenges in europe: a synthesis of national perspectives
+;data assimilation for wildland fires
+;data injection at execution time in grid environments using dynamic data driven application system for wildland fire spread prediction
+;data mining techniques applied to wireless sensor networks for early forest fire detection
+;data resolution effects on a coupled data driven system for forest fire propagation prediction
+;data-driven simulations of wildfire spread at regional scales
+;data-driven spatio-temporal analysis of wildfire risk to power systems operation
+;data-driven wildfire spread modeling of european wildfires using a spatiotemporal graph neural network
+;dddas approaches to wildland fire modeling and contaminant tracking
+;dead fuel moisture content in wildfire propagation potential estimation for split-dalmatia county
+;decadal (2012-2023) account of spatio-temporal variability in satellite-detected biomass fires on indian landmass and their fire radiative power
+;decadal predictability and forecast skill
+;decadal predictability of soil water, vegetation, and wildfire frequency over north america
+;decadal prediction skill in a multi-model ensemble
+;decadal prediction skill in the geos-5 forecast system
+;decentralized estimation of forest fire spread using reactive and cognitive mobile sensors
+;decision methods for forest resource management
+;decision support system for forest fire management using ontology with big data and llms
+;deep learning and transformer approaches for uav-based wildfire detection and segmentation
+;deep learning approaches for wildland fires using satellite remote sensing data: detection, mapping, and prediction
+;deep learning for wildfire risk prediction: integrating remote sensing and environmental data
+;deep learning methods for lung cancer detection, classification and prediction-a review
+;deep reinforcement learning for optimal firebreak placement in forest fire prevention
+;deepfire: a novel dataset and deep transfer learning benchmark for forest fire detection
+;defining extreme wildfire events: difficulties, challenges, and impacts
+;delft university of technology modeling wildfire spread in wildland-industrial interfaces using dynamic bayesian network
+;dengue spread prediction using time series model
+;density forecasting of intraday call center arrivals using models based on exponential smoothing
+;deploying wildland fire suppression resources with a scenario-based standard response model
+;derivation of a bayesian fire spread model using large-scale wildfire observations
+;deriving forest fire ignition risk with biogeochemical process modelling
+;describing wildland surface fuel loading for fire management: a review of approaches, methods and systems
+;design of a zero-power forest fire suppression product interaction system
+;design of multi-data sources based forest fire monitoring and early warning system
+;designing operationally relevant daily large fire containment strategies using risk assessment results
+;detecting critical nodes in forest landscape networks to reduce wildfire spread
+;detection of fake hotel reviews using anfis and natural language processing techniques
+;detection of forest fire using deep convolutional neural networks with transfer learning approach▪
+;detection, emission estimation and risk prediction of forest fires in china using satellite sensors and simulation models in the past three decades-an overview
+;determination of forest fire risk with fuzzy analytic hierarchy process and its mapping with the application of gis: the case of turkey/çakırlar
+;determination of the power transmission line ageing failure probability due to the impact of forest fire
+;developing a disaster-ready power grid agent through geophysically-informed fault event scenarios
+;developing the us wildland fire decision support system
+;development and application of process-based simulation models for cotton production: a review of past, present, and future directions
+;development and structure of prometheus: the canadian wildland fire growth simulation model
+;development of a smoke dispersion forecast system for korean forest fires
+;devs-fire: design and application of formal discrete event wildfire spread and suppression models
+;devs-fire: towards an integrated simulation environment for surface wildfire spread and containment
+;different responses of pinus sylvestris l. and larix decidua mill. to forest fire in central england (uk)
+;different scales for studying the effectiveness of long-term forest fire retardants
+;differential impacts of a wildfire and post-fire sedimentation event on platypus and fish populations in a victorian upland river
+;digital soil mapping for fire prediction and management in rangelands
+;dionysus: a stochastic fire growth scenario generator
+;discrete wildfire simulation case study
+;distance in the forest fire model how far are you from eve?
+;distributed spacecraft with heuristic intelligence to monitor wildfire spread for responsive control
+;distributed wildfire surveillance with autonomous aircraft using deep reinforcement learning
+;distribution patterns of fire regime in the pendjari biosphere reserve, west africa
+;disturbance refugia within mosaics of forest fire, drought, and insect outbreaks
+;disturbances and the sustainability of long-term site productivity in lodgepole pine forests in the central interior of british columbia-an ecosystem modeling approach
+;diverging rationalities between forest fire management services and the general public after the 21st-century mega-fires in greece
+;dmpnet: a lightweight remote sensing forest wildfire detection network based on multi-scale heterogeneous attention mechanism and dynamic scaling fusion strategy
+;do thinning and/or burning treatments in western usa ponderosa or jeffrey pine-dominated forests help restore natural fire behavior?
+;do vegetation fuel reduction treatments alter forest fire severity and carbon stability in california forests?
+;does it make sense to restore wildland fire in changing climate?
+;does wildfire exposure influence corporate disaster preparedness? a study of natural resources extraction firms in canada
+;dome: drone-assisted monitoring of emergent events for wildland fire resilience
+;doppler lidar observations of russian forest fire plumes over helsinki
+;drought and fire in the western usa: is climate attribution enough?
+;dynamic correction of forest fire spread prediction using observation error covariance matrix estimation technique based on flc-gru
+;dynamic fire-atmosphere interaction in the 2020 montana bridger foothills wildfire as revealed by wrf-sfire simulations
+;dynamic load determination of a multi-purpose forest fire fighting vehicle when operating on forestry road
+;dynamic properties of a forest fire model
+;dynamic risk assessment of wildfire-induced transmission line breakdown based on data assimilation method
+;dynamic simulation of fire propagation in forests and rangelands using a gis-based cellular automata model
+;dynamic uav path planning under wildfire scenarios using ppo algorithm
+;dynamics monitoring and disaster assessment for watershed management using time-series satellite images
+;early adaptive evaluation scheme for data-driven calibration in forest fire spread prediction
+;early detection of forest fire using mixed learning techniques and uav
+;early warning systems: enhancing fire prediction and response
+;ecology of fire-dependent ecosystems: wildland fire science, policy and management
+;edgefiresmoke++: a novel lightweight algorithm for real-time forest fire detection and visualization using internet of things-human machine interface
+;edif: boosting unsupervised cross-domain forest fire smoke detection with enhanced domain-invariant features
+;eeffl: energy efficient data forwarding for forest fire detection using localization technique in wireless sensor network
+;effect of forest fire prevention treatments on bacterial communities associated with productive boletus edulis sites
+;effect of forest fire suppression on buff-breasted flycatchers
+;effect of weather forecast errors on fire growth model projections
+;effects of agricultural land-use change and forest fire on n2o emission from tropical peatlands, central kalimantan, indonesia
+;effects of an intense prescribed forest fire: is it ecological restoration?
+;effects of bark beetle-caused tree mortality on wildfire
+;effects of biotic feedback and harvest management on boreal forest fire activity under climate change
+;effects of climate oscillations on wildland fire potential in the continental united states
+;effects of fire and fire-induced changes in soil properties on post-burn soil respiration
+;effects of forest fire on headwater stream macroinvertebrate communities in eastern washington, u.s.a
+;effects of high-density gradients on wildland fire behavior in coupled atmosphere-fire simulations
+;effects of large mammalian herbivores and lagomorphs on post-fire plant regeneration in mediterranean-type ecosystems
+;effects of moisture on ignition behavior of moist california chaparral and utah leaves
+;effects of wind and tree density on forest fire patterns in a mixed-tree species forest
+;efficacy of communication techniques and health outcomes of bushfire smoke exposure: a scoping review
+;efficacy of remote sensing in early forest fire detection: a thermal sensor comparison
+;efficient cloud-based calibration of input data for forest fire spread prediction
+;efficient forest fire occurrence prediction for developing countries using two weather parameters
+;efficient simulation of wildfire spread on an irregular grid
+;eighteen year record of forest fire effects on ground thermal regimes and permafrost in the central mackenzie valley, nwt, canada
+;elaboration of a wild fire hazard model for the eparchy of pylias (sw-messinia, greece) based upon remote sensing and gis
+;eleven-year variability in ecosystem functions and multifunctionality after a wildfire and post-fire management in pine forests of central eastern spain
+;embedded ann-based forest fire prediction case study of algeria
+;empirical-based models for predicting head-fire rate of spread in australian fuel types
+;emulation of wildland fire spread simulation using deep learning
+;engineering of holonic multi agent intelligent forest fire monitoring system
+;enhanced contextual forest fire detection with prediction interval analysis of surface temperature using vegetation amount
+;enhanced forest fire susceptibility mapping by integrating feature selection genetic algorithm and bagging-based support vector machine with artificial neural networks
+;enhanced interpolation with semi-supervised algorithm and greedy forwarding technique for forest fire prediction over wireless sensor and actuator networks
+;enhanced yolov8 for forest fire detection: integrating slimneck-mca architecture and mpdiou loss function
+;enhancing alaskan wildfire prediction and carbon flux estimation: a two-stage deep learning approach within a process-based model
+;enhancing computational efficiency on forest fire forecasting by time-aware genetic algorithms
+;enhancing emergency decision-making skills through game-based learning: a forest fire simulation exercise game
+;enhancing forest fire susceptibility mapping in xichang city, china using dbscan-based non-fire point selection integrated with deep neural network
+;enhancing forest fires classification using a hybrid convolutional and bilstm deep learning model
+;enhancing multi-model forest fire spread prediction by exploiting multi-core parallelism
+;enhancing the&nbsp-realism of&nbsp-wildfire simulation using composite b\'{e}zier curves
+;enhancing wildfire spread modelling by building a gridded fuel moisture content product with machine learning
+;ensemble framework by using nature inspired algorithms for the early-stage forest fire rescue-a case study of dynamic optimization problems
+;ensemble modeling of cmes using the wsa-enlil+cone model
+;environmental factors that influence wildfire protective-action recommendations
+;epidemic forecasting is messier than weather forecasting: the role of human behavior and internet data streams in epidemic forecast
+;erlangian approximations for the transient analysis of a fluid queue model for forest fire perimeter
+;error function impact in dynamic data-driven framework applied to forest fire spread prediction
+;establishing propagation nodes as a basis for preventing large wildfires: the proposed methodology
+;estimating forest fire losses using stochastic approach: case study of the kroumiria mountains (northwestern tunisia)
+;estimating population spread: what can we forecast and how well?
+;estimating the spatial pattern of human-caused forest fires using a generalized linear mixed model with spatial autocorrelation in south korea
+;estimating valley fever endemicity with environmental parameters
+;estimating wildfire behavior and effects
+;estimation of fire severity by use of landsat tm images and its relevance to vegetation and topography in the 2000 samcheok forest fire
+;estimation of forest fuel load from radar remote sensing
+;estimation of the total amount of enhanced rainfall for a cloud seeding experiment: case studies of preventing forest fire, drought, and dust
+;estimation of wildfire size and risk changes due to fuels treatments
+;eu-integrated multifunctional forest and fire management, policies, and practices: challenges between as-is and to-be state
+;evacuation behavior of affected individuals and households in response to the 2018 attica wildfires: from empirical data to models
+;evacuation decision-making and behavior in wildfires: past research, current challenges and a future research agenda
+;evacuation simulation under threat of wildfire-an overview of research, development, and knowledge gaps
+;evaluating a model for predicting active crown fire rate of spread using wildfire observations
+;evaluating an attempt to restore summer fire in the northern great plains
+;evaluating australian forest fire rate of spread models using viirs satellite observations
+;evaluating benefits and costs of wildland fires: critical review and future applications
+;evaluating parameterizations in general circulation models: climate simulation meets weather prediction
+;evaluating public policies in fire-affected conservation priority areas of the brazilian pantanal
+;evaluating the impact of recursive feature elimination on machine learning models for predicting forest fire-prone zones
+;evaluating the performance of wrf in simulating winds and surface meteorology during a southern california wildfire event
+;evaluating the role of fire over a decade in a tropical mountainous forest-grassland mosaic
+;evaluation of an in-canopy wind and wind adjustment factor model for wildfire spread applications across scales
+;evaluation of forecasts by accuracy and spread in the miklip decadal climate prediction system
+;evaluation of forest fire danger indexes for eucalypt plantations in bahia, brazil
+;evaluation of forest fire risk by the analysis of environmental data and tm images
+;evaluation of gridded precipitation data and interpolation methods for forest fire danger rating in alberta, canada
+;evaluation of medium-lift forest fire helicopter using q-rung orthopair fuzzy set based alternative ranking technique based on adaptive standardized intervals approach
+;evaluation of reduced mechanism for modeling combustion of pyrolysis gas in wildland fire
+;evaluation of the fire simulation processes of the national fire management system's initial attack analysis processor
+;evidence for lack of a fuel effect on forest and shrubland fire rates of spread under elevated fire danger conditions: implications for modelling and management
+;evidence for wildland fire smoke transport of microbes from terrestrial sources to the atmosphere and back
+;evidence of smoke from wildland fire in surface water of an unburned watershed
+;evolutionary adjustment of&nbsp-a&nbsp-cellular automata-based model for&nbsp-wildfire spreading
+;evolutionary statistical system based on novelty search: a parallel metaheuristic for uncertainty reduction applied to wildfire spread prediction
+;evolvegraph: multi-agent trajectory prediction with dynamic relational reasoning
+;examining the influence of biophysical conditions on wildland-urban interface homeowners’ wildfire risk mitigation activities in fire-prone landscapes
+;expanding the horizons of wildfire risk management
+;experience: quality assessment and improvement on a forest fire dataset
+;experiences of a changing environment: strange beauty and normal change in the fire-adapted forests of victoria, australia
+;experiences with wildfire are associated with private landowners’ management decisions, relationships, and perceptions of risk
+;experimental analysis of robust forest fire detection for sustainability
+;experimental and numerical study on data-driven prediction for wildfire spread incorporating adaptive observation error adjustment
+;experimental forest fire research
+;expertise in the management of bushfires: training and decision support
+;explaining changes in perceived wildfire risk related to the mountain pine beetle outbreak in north central colorado
+;exploiting drone images for forest fire detection using metaheuristics with deep learning model
+;exploration of geo-spatial data and machine learning algorithms for robust wildfire occurrence prediction
+;exploring adoption of the wildland fire decision support system: end user perspectives
+;exploring directions for establishing forest fire containment lines through forest fire spread prediction simulations: a case study of 2022 uljin-samcheok wildfire
+;exploring progress in forest fire detection, prediction, and behavior: an in-depth survey
+;exploring the ethnobiological practices of fire in three natural regions of ecuador, through the integration of traditional knowledge and scientific approaches
+;exploring the impact of resident proximity to wildfires in the northern rocky mountains: perceptions of climate change risks, drought, and policy
+;exploring the onset of high-impact mega-fires through a forest land management prism
+;exploring the use of satellite earth observation active wildland fire hotspot data via open access web platforms
+;exploring unmanned aerial systems operations in wildfire management: data types, processing algorithms and navigation
+;extreme water quality degradation following a catastrophic forest fire
+;facilitating public involvement in strategic planning for wildland fire management∗
+;facing the wildfire spread risk challenge: where are we now and where are we going?
+;fake news detection using natural language processing and logistic regression
+;fast forest fire smoke detection using mvmnet
+;fast-moving dire wildfire evacuation simulation
+;fastfuels: advancing wildland fire modeling with high-resolution 3d fuel data and data assimilation
+;fault-tolerant time-varying elliptical formation control of multiple fixed-wing uavs for cooperative forest fire monitoring
+;fdpa internet of things system for forest fire detection, prediction and behaviour analysis
+;features of turbulence during wildland fires in forested and grassland environments
+;federal forest-fire policy in the united states
+;fiery trails: tourism's forest fire dance
+;fifty years of progress in wildland fire modelling: from empirical to fully physical cfd models
+;fifty years of wildland fire science in canada
+;fighting against forest fire: a lightweight real-time detection approach for forest fire based on synthetic images
+;fire and soils: key concepts and recent advances
+;fire at the wildland interface: the influence of experience and mass media on public knowledge, attitudes, and behavioral intentions
+;fire behavior in masticated fuels: a review
+;fire behaviour and smoke modelling: model improvement and measurement needs for next-generation smoke research and forecasting systems
+;fire behaviour, suppression and lessons from the berwick forest fire of 26 february 1995
+;fire branding: why do new residents make a burn scar their home?
+;fire danger and fire behavior modeling systems in australia, europe, and north america
+;fire detection using hsv color picker: a review
+;fire detection with deep learning: a comprehensive review
+;fire fighters exposed to electrical hazards during wildland fire operations
+;fire fundamentals
+;fire in south american wetlands
+;fire in temperate forests and shrublands
+;fire in the cerrado
+;fire intensity and spread forecast (fira): a machine learning based fire spread prediction model for air quality forecasting application
+;fire intensity, fire severity and burn severity: a brief review and suggested usage
+;fire modeling and information system technology
+;fire rate of spread and growth rate in a set of 30 global wildfires: new evidence of extreme fire behavior
+;fire regime attributes shape pre-fire vegetation characteristics controlling extreme fire behavior under different bioregions in spain
+;fire regimes of the southern appalachians may radically shift under climate change
+;fire severity as a determinant of the socioeconomic impact of wildfires
+;fire spread modeling using probabilistic cellular automata
+;fire spread prediction using a lagged weather forecast ensemble
+;fire susceptibility assessment in the carpathians using an interpretable framework
+;fire whirls
+;fire-aware planning of aerial trajectories and ignitions
+;fire-driven disruptions of global soil biochemical relationships
+;fire-net: a deep learning framework for active forest fire detection
+;fire-ppyoloe: an efficient forest fire detector for real-time wild forest fire monitoring
+;firebrands and spotting ignition in large-scale fires
+;firecast zigzag convolutional network for wildfire prediction
+;firecast: leveraging deep learning to predict wildfire spread
+;firedst: fire impact and risk evaluation decision support tool-model description
+;firefighting drone configuration and scheduling for wildfire based on loss estimation and minimization
+;firefighting multi strategy marine predators algorithm for the early-stage forest fire rescue problem
+;firepred: a hybrid multi-temporal convolutional neural network model for wildfire spread prediction
+;firesight: utilizing deep learning for wildfire prediction and determining escape routes
+;firevitnet: a hybrid model integrating vit and cnns for forest fire segmentation
+;firewise activities of full-time versus seasonal residents in the wildland-urban interface
+;fitness for wildland fire fighters
+;flammability and the heat of combustion of natural fuels: a review
+;forecast of wildfire potential across california usa using a transformer
+;forecasting and surveillance of covid-19 spread using google trends: literature review
+;forecasting hourly wildfire risk: enhancing fire danger assessment using numerical weather prediction
+;forecasting species ranges by statistical estimation of ecological niches and spatial population dynamics
+;forecasting the spread of covid-19 in kuwait using compartmental and logistic regression models
+;forest disaster detection method based on ensemble spatial-spectral genetic algorithm
+;forest fire alert system: a geo web gis prioritization model considering land susceptibility and hotspots-a case study in the carajas national forest, brazilian amazon
+;forest fire alert system: a geo web gis prioritization model considering land susceptibility and hotspots-a case study in the carajás national forest, brazilian amazon
+;forest fire analysis with remote sensing data
+;forest fire and climate change in western north america: insights from sediment charcoal records
+;forest fire and smoke detection for effective disaster resilience
+;forest fire and the natural soil erosion regime in the colorado front range
+;forest fire as a shared intergenerational experience: perceived short-term impacts on the grandparent-grandchild relationship
+;forest fire consequences under the influence of changing climate: a systematic review with bibliometric analysis in the context of sustainable development goals
+;forest fire control and use
+;forest fire control in western australia
+;forest fire detection
+;forest fire detection algorithm based on detnet-fpn feature fusion network
+;forest fire detection and prediction using hsv and mlp
+;forest fire detection on landsat images using support vector machine
+;forest fire detection system using iot and artificial neural network
+;forest fire detection using a rule-based image processing algorithm and temporal variation
+;forest fire detection using spiking neural networks
+;forest fire detection utilizing ghost swin transformer with attention and auxiliary geometric loss
+;forest fire dynamics in nepal: regional trends and socio-ecological drivers
+;forest fire dynamics in sonic organisation
+;forest fire effects on groundwater in a coastal aquifer (ravenna, italy)
+;forest fire effects on soil color and texture
+;forest fire effects on soil phyllosilicates in california
+;forest fire effects on water resources
+;forest fire emergency rescue and evacuation path planning based on improved apf
+;forest fire forecasting using ensemble learning approaches
+;forest fire fuel through the lens of remote sensing: review of approaches, challenges and future directions in the remote sensing of biotic determinants of fire behaviour
+;forest fire history in norway: from fire-disturbed pine forests to fire-free spruce forests
+;forest fire history in viena karelia, russia
+;forest fire in china
+;forest fire in india: a review of the knowledge base
+;forest fire in the central himalaya: an extent, direction and spread using irs liss-i data
+;forest fire induces short-term shifts in soil food webs with consequences for carbon cycling
+;forest fire inventory dataset for peninsular malaysia (2001-2023) generated using a framework with google earth engine and multi-source remote sensing data
+;forest fire localization: from reinforcement learning exploration to a dynamic drone control
+;forest fire management and fire suppression strategies: a systematic literature review
+;forest fire management policy
+;forest fire management using machine learning techniques
+;forest fire management, funding dynamics, and research in the burning frontier: a comprehensive review
+;forest fire modeling and analysis based on k-means clustering algorithm and time series forecasting
+;forest fire modelling using cellular automata: application to the watershed oued laou (morocco)
+;forest fire models on configuration random graphs
+;forest fire monitoring system supported by unmanned aerial vehicles and edge computing: a performance evaluation using petri nets
+;forest fire monitoring using spatial-statistical and geo-spatial analysis of factors determining forest fire in margalla hills, islamabad, pakistan
+;forest fire prediction and prevention in the brazilian amazon
+;forest fire prevention part i: prediction and web-based analysis
+;forest fire prevention, detection, and fighting based on fuzzy logic and wireless sensor networks
+;forest fire probability zonation using dnbr and machine learning models: a case study at the similipal biosphere reserve&#xa0-(sbr), odisha, india
+;forest fire propagation
+;forest fire propagation prediction based on overlapping dddas forecasts
+;forest fire regimes and plant diversity in tropical dry deciduous forests of central india
+;forest fire regimes in the northwestern himalayas: unravelling microlevel impact of topography, weather, and human activity on fire behaviour
+;forest fire rescue framework to jointly optimize firefighting force configuration and facility layout: a case study of digital-twin simulation optimization: forest fire rescue framework
+;forest fire research
+;forest fire research: the latest advances tools for understanding and managing wildland fire
+;forest fire resource planning with integer programming: an application in turkey
+;forest fire risk analysis
+;forest fire risk assessment combining remote sensing and meteorological information
+;forest fire risk assessment using gis science-a case study of south india
+;forest fire risk assessment: an illustrative example from ontario, canada
+;forest fire risk management and public participation in changing socioenvironmental conditions: a case study in a mediterranean region
+;forest fire risk management at the country scale: the case of turkey
+;forest fire risk mapping of northeastern part of alberta using satellite imagery and gis
+;forest fire risk mapping using gis and remote sensing in two major landscapes of nepal
+;forest fire risk maps: a gis open source application-a case study in norwest of portugal
+;forest fire risk modeling in mediterranean forests using gis and ahp method: case of the high rif forest massif (morocco)
+;forest fire risk modeling in uttarakhand himalaya using terra satellite datasets
+;forest fire size amplifies postfire land surface warming
+;forest fire smoke as a threat to the health of river dolphins
+;forest fire spread model based on the grey system theory
+;forest fire spread models: the local quasi-equilibrium approach
+;forest fire spread prediction using deep learning
+;forest fire spread simulating model using cellular automaton with extreme learning machine
+;forest fire spread simulation and fire extinguishing visualization research
+;forest fire spreading: a nonlinear stochastic model continuous in space and time
+;forest fire susceptibility assessment using google earth engine in gangwon-do, republic of korea
+;forest fire susceptibility mapping by integrating remote sensing and machine learning algorithms
+;forest fire susceptibility mapping of west sikkim district, india using mcda techniques
+;forest fire susceptibility modeling using hybrid approaches
+;forest fire susceptibility prediction using machine learning models with resampling algorithms, northern part of eastern ghat mountain range (india)
+;forest fire video detection based on multi-scale feature fusion with data enhancement
+;forest fire weather research in western australia
+;forest fire, bank strength and channel instability: the ‘unusual’ response of fishtrap creek, british columbia
+;forest fire, thinning, and flood in wildland-urban interface: uav and lidar-based estimate of natural disaster impacts
+;forest fire-fighting in british columbia's centennial summer
+;forest fires and other examples of self-organized criticality
+;forest fires in cool-temperate and humid-continental forests-an overview
+;forest fires in volga federal district of the russian federation (2000-2020 years)
+;forest fuel management for wildfire prevention in spain: a quantitative swot analysis
+;forest landowner values and perspectives of prescribed fire in the northeast/mid-atlantic region of the united states
+;forest management under uncertainty: the influence of management versus climate change and wildfire in the lake tahoe basin, usa
+;forest soil disturbance: implications of factors contributing to the wildland fire nexus
+;forest-fire as a model for the dynamics of disease epidemics
+;forest-fire models
+;forest-fire regimes affect thermoregulatory opportunities for terrestrial ectotherms
+;forest-fire-induced land degradation
+;forests, fire and vegetation change impacts on murray-darling basin water resources
+;fractional forest cover changes in northeast china from 1982 to 2011 and its relationship with climatic variations
+;frequent burning and limited stand-replacing fire supports mexican spotted owl pair occupancy
+;fri: a firefighter risk index using spatiotemporal modelling of wildfire spread and individual travel
+;from convolution to attention: transformer-based modeling for multi-day wildfire spread forecasting
+;from fire to recovery: temporal-shift of predator-prey interactions among mammals in mediterranean ecosystems
+;from smoke to fire: a forest fire early warning and risk assessment model fusing multimodal data
+;from spatial data warehouse into nosql document-oriented database: case study forest fire risk management
+;fruiting body development of a root pathogenic fungus, rhizina undulata, after forest fire in eastern coastal pine forests of korea
+;fuel build-up promotes an increase in fire severity of reburned areas in fire-prone ecosystems of the western mediterranean basin
+;fuel drivers of fire behaviour in coastal mallee shrublands
+;fuel modelling in terrestrial ecosystems: an overview in the context of the development of an object-orientated database for wild fire analysis
+;fueling the fires-an exploration of the drivers and the scope for management of european wildfire risk under the shared socioeconomic pathways
+;fuels and fire behavior dynamics in bark beetle-attacked forests in western north america and implications for fire management
+;fusion of physics-based wildfire spread models with satellite data using generative algorithms
+;future fire events are likely to be worse than climate projections indicate-these are some of the reasons why
+;future iot tools for covid-19 contact tracing and prediction: a review of the state-of-the-science
+;future options for fire behaviour modelling amd fire danger rating in new zealand
+;future projections of siberian wildfire and aerosol emissions
+;fuzzy based unequal clustering and context-aware routing based on glow-worm swarm optimization in wireless sensor networks: forest fire detection
+;garden design can reduce wildfire risk and drive more sustainable co-existence with wildfire
+;general mathematical model for forest fires and its applications
+;generalized approach to landscape-wide seasonal forecasting with temperature-driven simulation models
+;generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
+;generative ai as a pillar for predicting 2d and 3d wildfire spread: beyond physics-based models and traditional deep learning
+;generative algorithms for fusion of physics-based wildfire spread models with satellite data for initializing wildfire forecasts
+;generative algorithms for wildfire progression reconstruction from multi-modal satellite active fire measurements and terrain height
+;geo-information for disaster management
+;geo-referenced image data assimilation for wildfire spread simulation
+;geographic analysis of the impacts of mountain pine beetle infestation on forest fire ignition
+;geospatial wildfire risk assessment from social, infrastructural and environmental perspectives: a case study in queensland australia
+;geostatistical modeling of wildfire occurrence probability: the case study of monte catillo natural reserve in italy
+;geovisualization and analysis of landscape-level wildfire behavior using repeat pass airborne thermal infrared imagery
+;getting ahead of the wildfire problem: quantifying and mapping management challenges and opportunities
+;gis and machine learning for analysing influencing factors of bushfires using 40-year spatio-temporal bushfire data
+;gis and modeling in forest fire prevention
+;gis modeling approach for forest fire risk assessment and management
+;gis, ai, and environmental data in fire susceptibility mapping: a survey
+;gis-based forest fire risk mapping using the analytical network process and fuzzy logic
+;gis-based forest fire risk zonation mapping of kirtinagar block of garhwal himalaya, uttarakhand, india
+;gis-based forest fire susceptibility mapping in iran: a comparison between evidential belief function and binary logistic regression models
+;gis-based forest fire susceptibility modeling in pauri garhwal, india: a comparative assessment of frequency ratio, analytic hierarchy process and fuzzy modeling techniques
+;global change induced biomass growth offsets carbon released via increased forest fire and respiration of the central canadian boreal forest
+;global fire emissions linked to madden-julian oscillation
+;global fire season types and their characteristics based on modis burned area data
+;global pyrogeography: the current and future distribution of wildfire
+;global sensitivity analysis of fuel-type-dependent input variables of a simplified physical fire spread model
+;global synthesis of quantification of fire behaviour characteristics in forests and shrublands: recent progress
+;global wildland fire emissions from 1960 to 2000
+;global wildland fire season severity in the 21st century
+;goal orientation in music composition and other social behaviors leading to the common quantitative law
+;goat grazing as a wildfire prevention tool: a basic review
+;gradient modeling: a new approach to fire modeling and wilderness resource management
+;graph-based semi-supervised classification for similar wildfire dynamics
+;graph-based spatial-temporal convolutional network for vehicle trajectory prediction in autonomous driving
+;green firebreaks: potential to proactively complement wildfire management
+;greenhouse gas emission in the whole process of forest fire including rescue: a case of forest fire in beibei district of chongqing
+;ground surface displacement after a forest fire near mayya, eastern siberia, using insar: observation and implication for geophysical modeling
+;guidance on spatial wildland fire analysis: models, tools, and techniques
+;guiding principles for transdisciplinary and transformative&#xa0-fire research
+;half-duplex dynamic data driven application system for forest fire spread prediction
+;handbook of railway vehicle dynamics
+;handling back fire in forest fire spread modelling
+;hazard curve evaluation method development for a forest fire as an external hazard on nuclear power plants
+;health effects of wildfire smoke exposure
+;heuristic forest fire detection using the deep learning model with optimized cluster head selection technique
+;high-fidelity multi-rotor unmanned aircraft system (uas) simulation development for trajectory prediction under off-nominal flight dynamics
+;high-resolution rapid refresh model data analytics derived on the open science grid to assist wildland fire weather assessment
+;higher severity fire increases the long-term competitiveness of pyrophytes in an upland oak-pine forest, kentucky, usa
+;historical trajectories and current perspectives on sub-saharan wildland fire science and management in select scientific literature
+;homeowners willingness to pay to reduce wildfire risk in wildland urban interface areas: implications for targeting financial incentives
+;how forest fires kill trees: a review of the fundamental biophysical processes
+;how risk management can prevent future wildfire disasters in the wildland-urban interface
+;human-caused fire occurrence modelling in perspective: a review
+;hybrid models based on deep learning neural network and optimization algorithms for the spatial prediction of tropical forest fire susceptibility in nghe an province, vietnam
+;hydrologic recovery after wildfire: a framework of approaches, metrics, criteria, trajectories, and timescales
+;hydrologic remote sensing and land surface data assimilation
+;hydrological impact of forest-fire from paired-catchment and rainfall-runoff modelling perspectives
+;hydrological resilience to forest fire in the subarctic canadian shield
+;hyperspectral remote sensing of forest fire breakouts: a review
+;ic-gan: an improved conditional generative adversarial network for rgb-to-ir image translation with applications to forest fire monitoring
+;identification of forest fire points under clear sky conditions with himawari-8 satellite data
+;identification of forest fire-prone region in lamington national park using gis-based multicriteria technique: validation using field and sentinel-2-based observations
+;identifying hotspots for plant invasions and forecasting focal points of further spread
+;identifying optimal launch sites of high-altitude latex-balloons using bayesian optimisation for the task of station-keeping
+;image to attribute model for trees (itam-t): individual tree detection and classification in alberta boreal forest for wildland fire fuel characterization
+;impact of bushfires on seabird breeding islands in southwest australia: a case study for developing a community-based model in adaptive management
+;impact of fire-burn on soil geochemical, microbial biomass and carbon stocks in a dry tropical forest ecosystem
+;impact of forest fire frequency on tree diversity and species regeneration in tropical dry deciduous forest of panna tiger reserve, madhya pradesh, india
+;impact of haze from forest fire to respiratory health: indonesian experience
+;impact of lightning-induced wildfires on power system based on satellite data and climatological projections
+;impact of post-anthropogenic forest fire on soil carbon dynamics and physicochemical properties in tropical dry deciduous sulia reserve forest, odisha
+;impact of the arctic oscillation pattern on interannual forest fire variability in central siberia
+;impact of the el niño on fire dynamics on the african continent
+;impact of topography and combustion functions on fire front propagation in an advection-diffusion-reaction model for wildfires
+;impact of wildfire on permafrost landscapes: a review of recent advances and future prospects
+;impact of&nbsp-mixed-precision: a way to&nbsp-accelerate data-driven forest fire spread systems
+;impacts of changing fire weather conditions on reconstructed trends in u.s. wildland fire activity from 1979 to 2014
+;impacts of climate change on the fate of contaminants through extreme weather events
+;impacts of estimated plume rise on pm2.5 exceedance prediction during extreme wildfire events: a comparison of three schemes (briggs, freitas, and sofiev)
+;impacts of fire and climate change on long-term nitrogen availability and forest productivity in the new jersey pine barrens
+;impacts of fire-fighting chemicals on native fauna and ecosystems in australia: identification of key knowledge gaps and research priorities
+;impacts of wildfire smoke aerosols on radiation, clouds, precipitation, climate, and air quality
+;implementation of spatially-varying wind adjustment factor for wildfire simulations
+;implications of changing climate for global wildland fire
+;improved fire safety in the wildland-urban interface through smart technologies
+;improved formula for the drought factor in mcarthur's forest fire danger meter
+;improving fire behaviour data obtained from wildfires
+;improving the reliability and utility of operational bushfire behaviour predictions in australian vegetation
+;improving wildfire resilience of road networks through generative models
+;improving wildfire simulation accuracy using satellite active fire data for interval reinitialization and rate of spread adjustment
+;improving wildland fire spread prediction using deep u-nets
+;in situ survival of forest bryophytes in small-scale refugia after an intense forest fire
+;in-situ observations of mid-latitude forest fire plumes deep in the stratosphere
+;incidence of forest fire in india and its effect on terrestrial ecosystem dynamics, nutrient and microbial status of soil
+;incorporating a canopy parameterization within a coupled fire-atmosphere model to improve a smoke simulation for a prescribed burn
+;incorporating convective feedback in wildfire simulations using pyrogenic potential
+;incorporating stochastic wind vectors in wildfire spread prediction
+;index sensitivity analysis applied to the canadian forest fire weather index and the mcarthur forest fire danger index
+;indian summer monsoon prediction and simulation in cfsv2 coupled model
+;indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
+;indonesian forest fire data clustering using spatiotemporal data using grid density-based clustering algorithm
+;industry-specific intelligent fire management system: a survey
+;infiltration, runoff and soil loss in andisols affected by forest fire (canary islands, spain)
+;influence of forest fire episodes on the distribution of gaseous air pollutants over uttarakhand, india
+;influence of uncertainties in burned area estimates on modeled wildland fire pm2.5 and ozone pollution in the contiguous u.s. p g
+;influence of wildland fire along a successional gradient in sagebrush steppe and western juniper woodlands
+;influences of forest fires on the permafrost environment: a review
+;influences of wildfire on the forest ecosystem and climate change: a comprehensive study
+;influencing factors, prediction and prevention of depression in college students: a literature review
+;information systems in support of wildland fire management decision making in canada
+;innovations on the horizon: technology advancements for fire management
+;insuring southeast asian commercial forests: fire risk analysis and the potential for use of data in risk pricing and reduction of forest fire risk
+;integer programming based on spherical fuzzy ahp and spherical fuzzy topsis for wildfire equipment planning
+;integrated fire management as an adaptation and mitigation strategy to altered fire regimes
+;integrated national-scale assessment of wildfire risk to human and ecological values
+;integrated spatial generalized additive modeling for forest fire prediction: a case study in fujian province, china
+;integrated spatio-temporal data mining for forest fire prediction
+;integrated wildfire danger models and factors: a review
+;integrated wildfire risk assessment: framework development and application on the lewis and clark national forest in montana, usa
+;integrating farsite and gis for enhanced forest fire spread prediction and simulation
+;integrating fire behavior models and geospatial analysis for wildland fire risk assessment and fuel management planning
+;integrating multi-source remote sensing data for forest fire risk assessment
+;integrating system dynamics and fuzzy logic modelling for construction risk management
+;integrating technology and environmental policy for effective air quality monitoring in indonesia
+;integrating values and risk perceptions into a decision support system
+;integration of machine learning into geospatial modelling for forest fire risk assessment in hamirpur district, himachal pradesh (india)
+;integration of remote sensing data with bushfire prediction models
+;integrative complexity, beliefs, and attitudes: application to prescribed fire
+;interactions between resident risk perceptions and wildfire risk mitigation: evidence from simultaneous equations modeling
+;interdependencies between flame length and fireline intensity in predicting crown fire initiation and crown scorch height
+;interdependencies between flame length and fireline intensity in predicting crown fire initiation and crown scorch height (vol 21, pg 95, 2012)
+;interpretable deep one-class model for forest fire detection
+;interpreting and using outputs from the canadian forest fire danger rating system in research applications
+;inventory analysis of fire effects wrought by wind-driven megafires in relation to weather and pre-fire forest structure in the western cascades
+;inverse modelling in wildfire spread forecasting: towards a data-driven system
+;investigating forest fire causes through an integrated bayesian network and geographic information system approach
+;investigating the performance vs. computational complexity tradeoff in cross-domain fire risk detection
+;investigation of forest fire activity changes over the central india domain using satellite observations during 2001-2020
+;investigation of general indicators influencing on forest fire and its susceptibility modeling using different data mining techniques
+;investigation of wildfire risk and its mapping using gis-integrated ahp method: a case study over hoshangabad forest division in central india
+;investigation on the emission of volatile organic compounds from heated vegetation and their potential to cause an accelerating forest fire
+;ionospheric perturbations initiated due to the forest-fire over greece as a consequence of lithosphere-atmosphere-ionosphere coupling
+;iot based forest fire detection and protection system
+;ipsative crystallization effects on wildland fire attitude-policy support models
+;is wildland fire increasing in sagebrush landscapes of the western united states?
+;island vulnerability and resilience to wildfires: a case study of corsica
+;isotopic composition of carbon dioxide from a boreal forest fire: inferring carbon loss from measurements and modeling
+;iterated beam search for&nbsp-wildland fire suppression
+;iterated local search for the placement of wildland fire suppression resources
+;j 2. 4 simulation of wildfire incidents using coupled atmosphere-fire modeling
+;jarrah forest fire history from stem analysis and anthropological evidence
+;just blowing smoke? residents' social construction of communication about wildfire
+;kalman filter-based large-scale wildfire monitoring with a system of uavs
+;kernel density change: a new bitemporal lidar metric for directly mapping wildland fire fuel consumption
+;kinematic structure of a wildland fire plume observed by doppler lidar
+;land cover, more than monthly fire weather, drives fire-size distribution in southern québec forests: implications for fire risk management
+;land use and land cover change assessment and future predictions in the matenchose watershed, rift valley basin, using ca-markov simulation
+;land use change modeling through an integrated multi-layer perceptron neural network and markov chain analysis (case study: arasbaran region, iran)
+;land use planning and bushfire risk: cfa referrals and the february 2009 victorian fire area
+;land-use changes in southern appalachian landscapes: spatial analysis and forecast evaluation
+;landfire: a nationally consistent vegetation, wildland fire, and fuel assessment
+;landsat 8 data for forest fire monitoring: case of mediouna forest in tangier, morocco
+;landsat time series and lidar as predictors of live and dead basal area across five bark beetle-affected forests
+;landscape controls on fuel moisture variability in fire-prone heathland and peatland landscapes
+;landscape fire pm<sub>2.5</sub> and hospital admissions for cause-specific cardiovascular disease in urban china
+;landscape fragmentation, severe drought, and the new amazon forest fire regime
+;landscape fuel reduction, forest fire, and biophysical linkages to local habitat use and local persistence of fishers (pekania pennanti) in sierra nevada mixed-conifer forests
+;landscape identity, before and after a forest fire
+;landscape-scale fuel treatment effectiveness: lessons learned from wildland fire case studies in forests of the western united states and great lakes region
+;landscape-wildfire interactions in southern europe: implications for landscape management
+;large aerosol radiative forcing due to the 1997 indonesian forest fire
+;large forest fire spread prediction
+;large-scale assessment of antimicrobial resistance marker databases for genetic phenotype prediction: a systematic review
+;large-scale fire whirl and forest fire disasters: awareness, implications, and the need for developing preventative methods
+;late pleistocene emergence of an anthropogenic fire regime in australia’s tropical savannahs
+;late pleistocene montane forest fire return interval estimates from mount kenya
+;learning-based prediction of wildfire spread with real-time rate of spread measurement
+;learning-based smoke detection for unmanned aerial vehicles applied to forest fire surveillance
+;lessons learnt from post-bushfire surveys at the urban interface in australia
+;leveraging drone-assisted surveillance for effective forest conservation: a case study in australia’s daintree rainforest
+;leveraging extensive soil, vegetation, fire, and land treatment data to inform restoration across the sagebrush biome
+;leveraging the next generation of spaceborne earth observations for fuel monitoring and wildland fire management
+;leveraging the power of internet of things and artificial intelligence in forest fire prevention, detection, and restoration: a comprehensive survey
+;lightning-caused forest fire risk in northwestern ontario, canada, is increasing and associated with anomalies in fire weather
+;limitations on the accuracy of model predictions of wildland fire behaviour: a state-of-the-knowledge overview
+;linu-mamba: visual mamba u-net with linear attention to predict wildfire spread
+;local-scale fuel-type mapping and fire behavior prediction by employing high-resolution satellite imagery
+;long-term climate, vegetation and fire regime change in a managed municipal water supply area, british columbia, canada
+;long-term effects of forest fire on habitat use by siamangs in southern sumatra
+;long-term forest fire ecology and dynamics in southern switzerland
+;long-term growth and water balance predictions for a mountain ash (eucalyptus regnans) forest catchment subject to clear-felling and regeneration
+;los alamos forest fire impact modeling
+;lstm-based flight trajectory prediction
+;machine learning and deep learning for wildfire spread prediction: a review
+;machine learning based wildfire area estimation leveraging weather forecast data
+;machine learning methods for wildfire risk assessment
+;machine learning wildfire susceptibility mapping for germany
+;machine learning-driven wildfire susceptibility mapping in new south wales, australia using remote sensing and explainable artificial intelligence
+;magnetotropic hybrid generator with self-switching mechanism for long-term forest fire prevention
+;managing wildfire disasters in the rocky mountains
+;mapping and impact of seasonal forest fires on vegetation types, soil dynamics, and tree mortality in the forest ecosystem of uttarakhand himalaya
+;mapping erosion risk and selecting sites for simple erosion control measures after a forest fire in mediterranean france
+;mapping long-term wildfire dynamics in portugal using trajectory analysis (1975-2024)
+;mapping regional forest fire probability using artificial neural network model in a mediterranean forest ecosystem
+;mapping the probability of forest fire in the mediterranean region of türkiye using the gis-based fuzzy-ahp method
+;mapping the spatial distribution of forest fire danger using gis
+;mapping wildfire burned area using gnss-reflectometry in densely vegetated regions with complex topography: a machine learning approach
+;mapping wildfire susceptibility with the burn-p3 simulation model
+;mathematical modeling of crown forest fire initiation and spread
+;mathematical modeling of forest fire initiation
+;mathematical modeling of wildland fire initiation and spread
+;mathematical modelling of forest fire-comprehensive review
+;mathematical models and calculation systems for the study of wildland fire behaviour
+;maximum entropy-based forest fire likelihood mapping: analysing the trends, distribution, and drivers of forest fires in sikkim himalaya
+;measurement of forest fire danger
+;measuring acute pulmonary responses to occupational wildland fire smoke exposure using exhaled breath condensate
+;measuring the ecological outcomes of fire: metrics to guide fire management
+;mental health and traumatic occupational exposure in wildland fire dispatchers
+;mesoscale modeling of smoke transport from equatorial southeast asian maritime continent to the philippines: first comparison of ensemble analysis with in situ observations
+;meta-analysis of field-saturated hydraulic conductivity recovery following wildland fire: applications for hydrologic model parameterization and resilience assessment
+;metagenome analysis of forest fire soil to understand the impact of fire on the diversity of microorganisms
+;metaheuristic algorithms for calibration of two-dimensional wildfire spread prediction model
+;metaheuristic algorithms in optimizing neural network: a comparative study for forest fire susceptibility mapping in dak nong, vietnam
+;meteorological aspects of forest fire danger rating
+;methodological foundations of forecasting the spread of diseases in the world (review)
+;methodologies for wildland-urban interface (wui) fire risk assessment-case study north-eastern attica region
+;methodology and elaboration of model for map of wildfire risk: application of deep learning in the regional forest fire plan for the region of sardinia
+;methods for wildfire spread prediction and their integration with remote sensing data
+;microbial biomass and abundance after forest fire in pine forests in japan
+;minimize the bad days: wildland fire response and suppression success
+;minimum travel time algorithm for fire behavior and burn probability in a parallel computing environment
+;missing climate feedbacks in fire models: limitations and uncertainties in fuel loadings and the role of decomposition in fine fuel accumulation
+;model comparisons for estimating carbon emissions from north american wildland fire
+;model linkage to assess forest disturbance impacts on water quality: a wildfire case study using landis(ii)-velma
+;modeling and forecasting the spread of covid-19 with stochastic and deterministic approaches: africa and europe
+;modeling fire behaviour and carbon emissions
+;modeling forest fire danger from geographic information systems
+;modeling information diffusion in online social networks using a modified forest-fire model
+;modeling neighborhoods as fuel for wildfire: a review
+;modeling of wildfire digital twin: research progress in detection, simulation, and prediction techniques
+;modeling post-wildfire hydrologic response: review and future directions for applications of physically based distributed simulation
+;modeling remote sensing data relationships with spatiotemporal knowledge graphs
+;modeling the dynamics of natural forest ecosystems in the northeast of european russia under climate change and forest fires
+;modeling the forest fire risk by incorporating a new human activity factor from nighttime light data
+;modeling the interaction between wildfires and windthrows: a pilot case study for italian alps
+;modeling the spread of spatio-temporal phenomena through the incorporation of anfis and genetically controlled cellular automata: a case study on forest fire
+;modeling the systemic risks of covid-19 on the wildland firefighting workforce
+;modeling the&nbsp-forest fire occurrence in&nbsp-some regions of&nbsp-portugal. a&nbsp-first approach
+;modeling topographic influences on fuel moisture and fire danger in complex terrain to improve wildland fire management decision support
+;modeling vorticity-driven wildfire behavior using near-field techniques
+;modeling wildfire dynamics through a physics-based approach incorporating fuel moisture and landscape heterogeneity
+;modeling wildfire perimeter evolution using deep neural networks
+;modeling wildfire spread with an irregular graph network
+;modeling wildfires' spread based on low-cost sensors measuring real-time moisture content
+;modeling wildland fire propagation with level set methods
+;modeling wildland fire susceptibility using fuzzy systems
+;modelling bushfire severity and predicting future trends in australia using remote sensing and machine learning
+;modelling decisions concerning the dispatch of airtankers for initial attack on forest fires in ontario, canada
+;modelling evacuation decision-making in the 2016 chimney tops 2 fire in gatlinburg, tn
+;modelling natural disturbances in forest ecosystems: a review
+;modelling of the radiant heat flux and rate of spread of wildfire within the urban environment
+;modelling smoke transport from wildland fires: a review
+;modelling spatiotemporal patterns of wildfire risk in the garden route district biodiversity hotspots using analytic hierarchy process in south africa
+;modelling the climate factors affecting forest fire in sumatra using random forest and artificial neural network
+;modelling the introduction and spread of non-native species: international trade and climate change drive ragweed invasion
+;modelling wildfire propagation using the stochastic level-set method
+;modelling wildfire spread and spotfire merger using conformal mapping and aaa-least squares methods
+;modelling, monitoring and management of forest fires ii
+;modernizing the us national fire danger rating system (version 4): simplified fuel models and improved live and dead fuel moisture calculations
+;monsoon-driven teleconnections between holocene fire activity in central asian and neotropical ecosystems
+;monsoons: processes, predictability, and the prospects for prediction
+;monte carlo estimation of thermal radiation from wildland fires
+;monte carlo-based ensemble method for prediction of grassland fire spread
+;monthly runoff forecasting based on lstm-alo model
+;morphological approach for forest woody debris detection using multi-platform, multi-resolution lidar data
+;mountains forest fire spread simulator based on geo-cellular automaton combined with wang zhengfei velocity model
+;moving region representations on the spread of a forest fire
+;multi-decadal change in western us nighttime vapor pressure deficit
+;multi-scale 3d cellular automata modeling: application to wildland fire spread
+;multi-scale controls of historical forest-fire regimes: new insights from fire-scar networks
+;multi-scale enhancement of climate prediction over land by increasing the model sensitivity to vegetation variability in ec-earth
+;multi-scale numerical simulations of the synoptic environment, diablo windstorm, and wildfire formation mechanisms for the tubbs fire (2017)
+;multi-source tri-environmental conceptual framework for fire impact analysis
+;multi-temporal burned area mapping using logistic regression analysis and change metrics
+;multi-uav coverage strategy with v-shaped formation for patrol and surveillance
+;multi-view distance metric learning via independent and shared feature subspace with applications to face and forest fire recognition, and remote sensing classification
+;multifidelity prediction in wildfire spread simulation: modeling, uncertainty quantification and sensitivity analysis
+;multilayered cylindrical triboelectric nanogenerator to harvest kinetic energy of tree branches for monitoring environment condition and forest fire
+;multiple social and environmental factors affect wildland fire response of full or less-than-full suppression
+;multiscale simulations of complex systems by learning their effective dynamics
+;multiscale variation in drought controlled historical forest fire activity in the boreal forests of eastern fennoscandia
+;multiwavelength raman lidar observations of particle growth during long-range transport of forest-fire smoke in the free troposphere
+;national fire behaviour prediction system
+;navigating the evolving landscape of wildfire management: a systematic review of decision support tools
+;near real-time satellite monitoring of russia for forest fire protection
+;negative consequences of positive feedbacks in us wildfire management
+;neighbourhood bushfire hazard, community risk perception and preparedness in peri-urban hobart, australia
+;neural fuzzy system design in forest fire detection
+;neural machine-based forecasting of chaotic dynamics
+;new forest fire assessment model based on artificial neural network and analytic hierarchy process or fuzzy-analytic hierarchy process methodology for fire vulnerability map
+;next-generation ai for firefighter hazard prediction: exploring bert and doc2vec to advance safety and risk intelligence
+;non-native plant invasion after fire in western usa varies by functional type and with climate
+;notice of retraction: tourist aesthetic assessment and conserved management mode of natural heritage sites: a case study in the kanas nature reserve, xinjiang, china
+;novel method for a posteriori uncertainty quantification in wildland fire spread simulation
+;numerical modeling of forest fire initiation and spread
+;numerical simulation of forest fires
+;obama administration outlines new strategy for wildfire season
+;observations and impacts of long-range transported wildfire smoke on air quality across new york state during july 2021
+;observations of boreal forest fire smoke in the stratosphere by poam iii, sage ii, and lidar in 1998
+;observations of damage of a secondary nature following a wild fire at the otterford state forest
+;observed dimming effect during a forest fire in the southeastern united states and the role of aerosols
+;observed impacts of anthropogenic climate change on wildfire in california
+;observer network and forest fire detection
+;on a wildland fire model with radiation
+;on elliptical model for forest fire spread modeling and simulation
+;on the need for a theory of wildland fire spread
+;on the prediction of rare events when sampling from large data
+;on the suitability of the use of normalized difference vegetation index for forest fire risk assessment
+;on using dynamical seasonal forecasts to develop management-driven wildland fire outlooks in alaska
+;ontology-based forest fire management using complex event processing and&#xa0-large language models
+;ontology-based forest fire management using complex event processing and&nbsp-large language models
+;ontology-based modelling and reasoning for forest fire emergencies in resilient societies
+;operational application of mathematical modeling for enhanced wildfire risk management in liguria
+;operational forest-fire spread forecasting using the wrf-sfire model
+;operational wildfire suppression modelling: a review evaluating development, state of the art and future directions
+;optimal cross-validation strategies for selection of spatial interpolation models for the canadian forest fire weather index system
+;optimization models of uav route planning for forest fire monitoring
+;optimization of the resources management in fighting wildfires
+;optimizing forest fire prevention: intelligent scheduling algorithms for drone-based surveillance system
+;overview of forest fire propagation research
+;parameters of the laboratory model terrestrial forest fire created from the needles of pine (pinus nigra)
+;parametric model order reduction for a wildland fire model via the shifted pod-based deep learning method
+;parametric model order reduction for a wildland fire model via the shifted pod-based deep learning method: parametric model order reduction for a wildland fire model
+;particulate pb emission factors from wildland fires in the united states
+;passive sampling of atmospheric polycyclic aromatic hydrocarbons by silicone wristbands during wildland fires
+;past and future changes in canadian boreal wildfire activity
+;patchwise dictionary learning for video forest fire smoke detection in wavelet domain
+;pathways for climate change effects on fire: models, data, and uncertainties
+;patterns of long-term regeneration of forest fire slopes in the northern european alps-a logistic regression approach
+;paying attention to wildfire: using u-net with attention blocks on multimodal data for next day prediction
+;pde solution to uav/ugv trajectory planning problem by spatio-temporal estimation during wildfires
+;peatland-fire interactions: a review of wildland fire feedbacks and interactions in canadian boreal peatlands
+;performance evaluation of lorawan forest fire monitoring network in the wild
+;performance metrics in supply chain management
+;performance study of wireless sensor and actuator networks in forest fire scenarios
+;pervasive shifts in forest dynamics in a changing world
+;phoenix: development and application of a bushfire risk management tool
+;phragmites-fire feedbacks: the influence of fire and disturbance-altered hydrology on the abundance of <i>phragmites australis</i>
+;physical employment standard for canadian wildland fire fighters-developing and validating the test protocol
+;physical employment standard for canadian wildland fire fighters-identifying and characterising critical initial attack response tasks
+;physical model of wildland fire spread: parametric uncertainty analysis
+;physical phenomena and length scales governing the behaviour of wildfires: a case for physical modelling
+;physics-informed neural networks for parameter learning of wildfire spreading
+;plant and soil responses to biosolids application following forest fire
+;please scroll down for article journal of spatial science an assessment of fire-damaged forest using spatial analysis techniques an assessment of fire-damaged forest using spatial analysis techniques
+;policies for advancing forest fire management practices and adaptation strategies concerning climate change
+;post-conquest vegetation and fire dynamics at laguna carse, costa rica: a pollen and microscopic charcoal record
+;post-fire damage assessment of buildings at the wildland urban interface
+;post-fire delayed tree mortality in mesic coniferous forests reduces fire refugia and seed sources
+;post-fire forest recovery at high latitudes: tree regeneration dominated by fire-adapted, early-seral species increases with latitude
+;post-fire recovery dynamics and resilience of ecosystem services capacity in mediterranean-type ecosystems
+;post-fire restoration plan for sustainable forest management
+;post-fire temporal dynamics of plant-pollinator communities in a tropical savanna
+;potential changes in forest composition could reduce impacts of climate change on boreal wildfires
+;power grid resilience under wildfire: a review on challenges and solutions
+;practitioner perceptions of wildland fire management across south europe and latin america
+;practitioner perceptions ofwildland fire management across south europe and latin america
+;pre-ignition wildfire burn severity modeling with polarimetric uavsar data and machine learning
+;predicted changes in fire weather suggest increases in lightning fire initiation and future area burned in the mixedwood boreal forest
+;predicting climate change effects on wildfires requires linking processes across scales
+;predicting crown fire behavior to support forest fire management decision-making
+;predicting ecosystem dynamics at regional scales: an evaluation of a terrestrial biosphere model for the forests of northeastern north america
+;predicting fire propagation across heterogeneous landscapes using wyofire: a monte carlo-driven wildfire model
+;predicting fire spread and behaviour on the fireline. wildfire analyst pocket: a mobile app for wildland fire prediction
+;predicting rare events using training data from stratified sampling designs, with application to human-caused wildfire prediction
+;predicting the arrival of the unpredictable: an approach for foreseeing the transition to chaos of wildfire propagation
+;predicting the future of forest fires: climate models, fire behavior and fire spread
+;predicting the occurrence of forest fire in the central-south region of china
+;predicting the rate of forest fire spread toward any directions based on a cnn model considering the correlations of input variables
+;predicting the rate of spread of mixed-fuel surface fires in northeastern china using the rothermel wildfire behaviour model: a laboratory study
+;predicting the wildland fire spread using a mixed-input cnn model with both channel and spatial attention mechanisms
+;predicting wildfire induced changes to runoff: a review and synthesis of modeling approaches
+;predicting wildfire spread and behaviour in mediterranean landscapes
+;predicting wildfire spread with machine learning and a socio-ecological approach to identify areas of high vulnerability
+;predicting wildland fire behavior and emissions using a fine-scale physical model
+;prediction and mapping of boreal forest fire fuel loads using high-resolution satellite stereo imagery
+;prediction capability of the mcda-ahp model in wildfire risk zonation of a protected area in the southern western ghats
+;prediction modelling of riverine landscape dynamics in the context of sustainable management of floodplain: a geospatial approach
+;prediction models for public health containment measures on covid-19 using artificial intelligence and machine learning: a systematic review
+;prediction of fire spread in grasslands using deep learning techniques
+;prediction of forest fire risk for artillery military training using weighted support vector machine for imbalanced data
+;prediction of forest fire spread rate using uav images and an lstm model considering the interaction between fire and wind
+;prediction of global spread of covid-19 pandemic: a review and research challenges
+;prediction of wildfire fuel load for pinus densiflora stands in south korea based on the forest-growth model
+;prediction of wildfire occurrence in the southern forest regions of china in the future scenario
+;prediction of wildfire rate of spread in grasslands using machine learning methods
+;prediction of wildfire spread and propagation algorithm for disaster area
+;predictors of south-eastern australian householders' strengths of intentions to self-evacuate if a wildfire threatens: two theoretical models
+;preferred vector machine for forest fire detection
+;pregnancy exposure to pm2.5 from wildland fire smoke and preterm birth in california
+;preliminary results from a survey of u.s. forest service wildfire managers' attitudes toward aviation personnel exposure and risk
+;preparation and physicochemical properties of inorganic solidified foam for forest fire
+;prescribed fire in longleaf pine ecosystems: fire managers’ perspectives on priorities, constraints, and future prospects
+;prescribed fire promotes colonization by the florida bog frog
+;prescribed grass fire mapping and rate of spread measurement using nir images from a small fixed-wing uas
+;preventing human-caused wildfire ignitions on public lands: a review of best practices
+;prioritizing the right to environment: enhancing forest fire detection and prevention through satellite data and machine learning algorithms for early warning systems
+;probabilistic fire spread forecast as a management tool in an operational setting
+;probability and spatiotemporal dynamics of active fire occurrence in inner mongolia, china from 2000 to 2022
+;progress and prospects for predicting wildfire spread through the wildland-urban interface
+;progress towards and barriers to implementation of a risk framework for us federal wildland fire policy and decision making
+;projected changes in reference evapotranspiration in california and nevada: implications for drought and wildland fire danger
+;proposal for theoretical improvement of semi-physical forest fire spread models thanks to a multiphase approach: application to a fire spread model across a fuel bed
+;prototyping a geospatial atlas for wildfire planning and management
+;psychological differences between south-eastern australian householders' who intend to leave if threatened by a wildfire and those who intend to stay and defend
+;psychological factors and social processes influencing wildfire smoke protective behavior: insights from a case study in northern california
+;pulsed redistribution of a contaminant following forest fire
+;pyroaerobiology: the aerosolization and transport of viable microbial life by wildland fire
+;pyros: a raster-vector spatial simulation model for predicting wildland surface fire spread and growth
+;pyroscan: wildfire behavior prediction system using unmanned aerial vehicles (uav)
+;quail on fire: changing fire regimes may benefit mountain quail in fire-adapted forests
+;quantifying 25 years of disease-caused declines in tasmanian devil populations: host density drives spatial pathogen spread
+;quantifying streamflow forecast skill elasticity to initial condition and climate prediction skill
+;quantifying wildland fire resources deployed during the compound threat of covid-19
+;quantitative framework for soil burn severity from numerical wildfire models
+;queries optimised llm-empowered active learning for&nbsp-social media analysis of&nbsp-human behaviour in&nbsp-bushfire evacuations
+;radiomics for identification and prediction in metastatic prostate cancer: a review of studies
+;radiomics-based prediction for tumour spread through air spaces in stage i lung adenocarcinoma using machine learning
+;random set models of fire spread
+;rapid growth of large forest fires drives the exponential response of annual forest-fire area to aridity in the western united states
+;rapid prediction of wildfire spread using ensemble kalman filter and polyline simplification
+;rapid spaceborne mapping of wildfire retardant drops for active wildfire management
+;real time monitoring of forest fires and wildfire spread prediction
+;real-time 3d visualization of forest fire spread based on tree morphology and finite state machine
+;real-time active fire detection in the pantanal biome, brazil, using convolutional neural networks
+;real-time avhrr forest fire detection in mexico (1998-2000)
+;real-time fire segmentation via active contours for uav integrated wildfire propagation prediction
+;real-time forest fire detection, monitoring, and mitigation to safeguard humanity using yolo and federated learning
+;real-time genetic spatial optimization to improve forest fire spread forecasting in high-performance computing environments
+;real-time numerical forecast of global epidemic spreading: case study of 2009 a/h1n1pdm
+;real-time verification of solar-powered forest fire detection system using ensemble learning
+;reassessing the validity of as3959 in the presence of dynamic bushfire propagation
+;recent advances and applications of wrf-sfire
+;reconstructing modes of destruction in wildland-urban interface fires using a semi-physical level-set model
+;reconstructing the history of forest fire frequency: identifying hazard rate change points using the bayes information criterion
+;recovery of mediterranean vegetation after recurrent forest fires: insight from the 2010 forest fire on mount carmel, israel
+;recurrent convolutional deep neural networks for modeling time-resolved wildfire spread behavior
+;reframing wildfire simulations for understanding complex human-landscape interactions in cross-cultural contexts: a case study from northern australia
+;regional fire-greening positive feedback loops in alaskan arctic tundra
+;relationship between coastline changes and dynamics of coastal ecosystems of tahkuna peninsula, estonia
+;reliability assessment of photovoltaic wireless sensor networks for forest fire propagation detection
+;reliability of fire danger forecasts for czech agricultural and forestry landscapes
+;relieving uncertainty in forest fire spread prediction by exploiting multicore architectures
+;remote sensing ai for&nbsp-crop planting in&nbsp-wildfire fuel mapping
+;remote sensing applications for operational decision making at local scales: current status and future opportunities for agriculture and disaster management applications
+;remote sensing for assessing the impact of forest fire severity on ecological and socio-economic activities in kozan district, turkey
+;renormalization group approach to the critical behavior of the forest-fire model
+;representation and evaluation of wildfire propagation simulations
+;representing 3-dimensional fuels for physics-based fire behavior models: a general framework and case study in a type-converted post-fire shrubfield
+;requirements for space-based observations in fire management: a report by the wildland fire hazard team, committee on earth observation satellites (ceos) disaster management support group (dmsg)
+;research and implementation of forest fire smoke detection based on resnet transfer learning
+;research of yunnan satellite forest fire monitoring hotspot classification early warning model
+;research on deep learning models for dehazing wildfire images
+;research on forest fire point image recognition of agricultural and forestry satellites based on the frjli algorithm
+;research on forest fire target detection and tracking based on drones
+;research progress and hotspot evolution analysis of wildfire disasters in national park communities
+;research progress of forest fires spread trend forecasting in heilongjiang province
+;research trends in wildland fire prediction amidst climate change: a comprehensive bibliometric analysis
+;resiliency assessment and enhancement of renewable dominated edge of grid under high-impact low-probability events-a review
+;resource location and relocation models with rolling horizon forecasting for wildland fire planning
+;respiratory impacts of wildland fire smoke: future challenges and policy opportunities an official american thoracic society workshop report
+;response of vulnerable karst forest ecosystems under different fire severities in the northern dinaric karst mountains (slovenia)
+;response time assessment in forest fire spread simulation: an integrated methodology for efficient exploitation of available prediction time
+;rethinking the focus on forest fires in federal wildland fire management: landscape patterns and trends of non-forest and forest burned area
+;rethinking the wildland fire management system
+;review and perspectives of digital twin systems for wildland fire management
+;review of fuel treatment effects on fuels, fire behavior and ecological resilience in sagebrush (<i>artemisia</i> spp.) ecosystems in the western u.s
+;review of pathways for building fire spread in the wildland urban interface part i: exposure conditions
+;review of state-of-the-art decision support systems (dsss) for prevention and suppression of forest fires
+;review of the forest fire model for high explosives
+;review of the health effects of wildland fire smoke on wildland firefighters and the public
+;review of thermal behaviour of firebrands and their role in fuel bed and structure ignition
+;review of user's needs in operational fire danger estimation: the oklahoma example
+;review of users' needs in operational fire danger estimation: the oklahoma example
+;review of vortices in wildland fire
+;review of wildfire detection, fighting, and technologies: future prospects and insights
+;review of wildfire management techniques-part i: causes, prevention, detection, suppression, and data analytics
+;review of wildfire modeling considering effects on land surfaces
+;review on forest fires detection and prediction using deep learning and drones
+;risk analysis model that uses machine learning to predict the likelihood of a fire occurring at a given property
+;risk assessment for effective prevention and management of forest fires in lijiang city
+;robust prediction of wildfire spread in australia
+;role of buoyant flame dynamics in wildfire spread
+;role of flow topology in wind-driven wildfire propagation
+;role of forensic anthropology in the search and recovery of fatal wildland fire victims
+;role of local community in the forest fire prevention and management: insights from uttarakhand state
+;roles of fire in the plant communities of the eastern edwards plateau of texas
+;rumor propagation: a state-of-the-art survey of current challenges and opportunities
+;satellite and ground-based study of optical properties of 1997 indonesian forest fire aerosols
+;satellite constellation design for forest fire monitoring via a stochastic programing approach
+;satellite image segmentation for forest fire risk detection using gaussian mixture models
+;satellite limb observations of unprecedented forest fire aerosol in the stratosphere
+;satellite-based ensemble intelligent approach for predicting forest fire: a case of the hyrcanian forest in iran
+;satellite-based forest fire detection for fire control in boreal forests
+;scalability of a multi-physics system for forest fire spread prediction in multi-core platforms
+;scattering coefficient and participate matter concentration in forest fire smoke
+;science basis for changing forest structure to modify wildfire behavior and severity
+;science, technology, and human factors in fire danger rating: the canadian experience
+;sea-hazemon: active haze monitoring and forest fire detection platform
+;seasonal weather and climate prediction over area burned in grasslands of northeast china
+;seasonal weather forecasts for crop yield modelling in europe
+;secure, autonomous, intelligent controller for integrating distributed emergency response satellite operations
+;seizure detection using machine learning and monitoring through iot devices
+;self-autonomous wireless sensor nodes with wind energy harvesting for remote sensing of wind-driven wildfire spread
+;self-destructive percolation as a limit of forest-fire models on regular rooted trees
+;self-organized critical forest-fire model
+;semi-supervised classification and&nbsp-segmentation of&nbsp-forest fire using autoencoders
+;sensitivity analysis and parameter adjustment in a simplified physical wildland fire model
+;sensitivity of atypical lateral fire spread to wind and slope
+;sensitivity of burned area and fire radiative power predictions to containment efforts, fuel density, and fuel moisture using wrf-fire
+;sensitivity simulations of the 30 march 2020 xichang wildfire in southwest china based on the wrf-fire model
+;sensitivity to the representation of wind for wildfire rate of spread: case studies with the community fire behavior model
+;service-learning to improve training, knowledge transfer, and awareness in forest fire management
+;setting wildfire evacuation triggers by coupling fire and traffic simulation models: a spatiotemporal gis approach
+;shapley-based interpretation of deep learning models for wildfire spread rate prediction
+;shift reduce parser based malicious sensor detection for predicting forest fire in wsns
+;short to long-term forecasting of river flows by heuristic optimization algorithms hybridized with anfis
+;short-term changes in summer and winter resident bird communities following a high severity wildfire in a southern usa mixed pine/hardwood forest
+;short-term fire front spread prediction using inverse modelling and airborne infrared images
+;short-term load forecasting
+;should we leave now? behavioral factors in evacuation under wildfire threat
+;sim2real-fire: a multi-modal simulation dataset for forecast and backtracking of real-world forest fire
+;simplified coupled atmosphere-fire model for simulation of 2d wildland fires
+;simulating boundary-layer rolls with a numerical weather prediction model
+;simulating forest fire spread with cellular automation driven by a lstm based speed model
+;simulating multiple scenarios of land use/cover change using a coupled model to capture ecological and economic effects
+;simulating post-wildfire forest trajectories under alternative climate and management scenarios
+;simulating the effects of irrigation over the united states in a land surface model based on satellite-derived agricultural data
+;simulating the impacts of regional wildfire smoke on ozone using a coupled fire-atmosphere-chemistry model
+;simulating wildfire spread based on continuous time series remote sensing images and cellular automata
+;simulation and prediction of category 4 and 5 hurricanes in the high-resolution gfdl hiflor coupled climate model
+;simulation and visualization of forest fire growth in an integrated 3d virtual geographical environment-a preliminary study
+;simulation of a large wildfire in a coupled fire-atmosphere model
+;simulation of enso in the new ncep coupled forecast system model (cfs03)
+;simulation of forest fire fronts using cellular automata
+;simulation of forest fire occurrence and spread based on cellular automata model
+;simulation of forest fire spread based on a 3d-surface cellular automata model
+;simulation of land use dynamics and impact on land surface temperature using satellite data
+;simulation of monsoon intraseasonal variability in ncep cfsv2 and its role on systematic bias
+;simulation of&nbsp-wildfires using eurohpc resources: challenges and&nbsp-opportunities
+;simulation study of radionuclide atmospheric transport after wildland fires in the chernobyl exclusion zone in april 2020
+;simulations of flaming combustion and flaming-to-smoldering transition in wildland fire spread at flame scale
+;situational influences of acceptable wildland fire management actions
+;small world network model validation. case study of suartone historical fire in corsica
+;smart forest fire monitoring and detection system using microservices and container-based virtualization
+;smart technology and fire fighting systems
+;smwe-gfpnnet: a high-precision and robust method for forest fire smoke detection
+;social amplification of wildfire risk: the role of social interactions and information sources
+;social science research related to wildfire management: an overview of recent findings and future research needs
+;socio-ecological perceptions of wildfire management and effects in greece
+;socio-ecological perceptions of wildfire management and effects in greece. fire 2021, 4, 18
+;software-based simulations of wildfire spread and wind-fire interaction
+;soil moisture is a stronger predictor of forest fire spread potential than weather in the u.s. northern rocky mountains
+;soil nitrogen dynamics three years after a severe araucaria-nothofagus forest fire
+;soil organic matter turnover is governed by accessibility not recalcitrance
+;soil redistribution and seed availability after fire events in mixed <i>austrocedrus chilensis</i> forests in northern patagonia (argentina)
+;soil resilience assessment using soil profile descriptions and analytic hierarchy process in mediterranean mountains considering diverse fire occurrences
+;soil respiration in siberian taiga ecosystems with different histories of forest fire
+;soil-fire feedbacks drive the flammability of <i>miscanthus floridulus</i> in subtropical hubei, china
+;some issues in modelling comprehensive situation awareness
+;source-resolved black carbon and pm2.5 exposures during wildfires and prescribed burns
+;sources, diffusion and prediction in covid-19 pandemic: lessons learned to face next health emergency
+;spain on fire: a novel wildfire risk assessment model based on image satellite processing and atmospheric information
+;spark-a bushfire spread prediction tool
+;spatial decision support and multi-agent systems: application to forest fire prevention and control
+;spatial interpolation of mcarthur's forest fire danger index across australia: observational study
+;spatial modelling of wildland fire danger for risk analysis and conflict resolution in malaysia: linking fire danger rating systems (fdrs) with wildfire threat rating systems (wtrs)
+;spatial optimization of resources deployment for forest-fire management
+;spatial partition-based particle filtering for data assimilation in wildfire spread simulation
+;spatial patterns of fire occurrence in the central appalachian mountains and implications for wildland fire management
+;spatial prediction of wildfire susceptibility using field survey gps data and machine learning approaches
+;spatial uncertainty quantification in wildfire forecasting for climate-resilient emergency planning
+;spatial variability in arctic-boreal fire regimes influenced by environmental and human factors
+;spatial-temporal distribution prediction of transmission corridor wildfire risk based on arima-dbn
+;spatially deconflicted path generation for multiple uavs in a bounded airspace
+;spatiotemporal dynamics of forest fires in the context of climate change: a review
+;spatiotemporal dynamics of simulated wildfire, forest management, and forest succession in central oregon, usa
+;spatiotemporal monitoring of post-fire soil erosion rates using earth observation (eo) data and cloud computing
+;spotted owls and forest fire: a systematic review and meta-analysis of the evidence
+;spotted owls and forest fire: comment
+;spotted owls and forest fire: reply
+;stakeholder and social network analysis for understanding forest (fires) management-a contribution based on a systematic literature review
+;state-parameter estimation approach for data-driven wildland fire spread modeling: application to the 2012 rxcadre s5 field-scale experiment
+;statistical modeling for the prediction of infectious disease dissemination with special reference to covid-19 spread
+;statistically scrutinizing impact of climate variability on forest fire incidents in turkey
+;strategic fire zones are essential to wildfire risk reduction in the western united states
+;streamlined wildland-urban interface fire tracing (swuift): modeling wildfire spread in communities
+;strong gradients in forest sensitivity to climate change revealed by dynamics of forest fire cycles in the post little ice age era
+;study on the breakdown characteristics of the transmission line gap under forest fire conditions
+;study on the socioeconomic and climatic effects of forest fire incidence in the changbai mountain area based on a cross-classified multilevel model
+;studying wildfire behavior using firetec
+;sub-network coverage method as an efficient method of wireless sensor networks for forest fire detection
+;sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models
+;super real-time forecast of wildland fire spread by a dual-model deep learning method
+;supply chain management in food chains: improving performance by reducing uncertainty
+;surface wildfire regime and simulation-based wildfire exposure in the golestan national park, ne iran
+;surface-layer turbulence associated with a fast spreading grass fire
+;survey of wildfire effects on the peak flow characteristics
+;sustainable practices in forest fire management
+;symbolic meanings of wildland fire: a study of residents in the u.s. inland northwest
+;synergistic approaches in forest fire risk mapping using fuzzy ahp and machine learning models in the chure tarai madhesh landscape (ctml) of nepal
+;synthesis of knowledge of extreme fire behavior: volume i for fire managers
+;system dynamics simulation follow-up fuzzy cognitive map for investigating the effect of risks on relief in crisis management
+;systematic literature review on the application of mathematics, statistics, and computer science in wildfire analysis
+;systematic review on prediction and monitoring of climate change
+;systems thinking and wildland fire management
+;systems-of-systems for environmental sustainability: a systematic mapping study
+;taking the next step in wildfire education: integrating multiple knowledge forms into co-produced high school fire science curricula
+;tamm review: shifting global fire regimes: lessons from reburns and research needs
+;tamm review: the effects of prescribed fire on wildfire regimes and impacts: a framework for comparison
+;targeting audiences and content for forest fire information programs
+;technical note: forest fire mapping in huay kha khaeng wildlife sanctuary, thailand
+;temporal evolution of the ndvi as an indicator of forest fire danger
+;ten years after the black saturday fires, what have we learnt from post-fire research?
+;ten years of camera trapping for a cryptic and threatened arboreal mammal-a review of applications and limitations
+;terrestrial carbon dynamics in an era of increasing wildfire
+;territories in transition: how social contexts influence wildland fire adaptive capacity in rural northwestern european mediterranean areas
+;territories in transition:&#xa0-how social contexts influence wildland fire adaptive capacity in rural northwestern european mediterranean areas
+;testing a new ensemble model based on svm and random forest in forest fire susceptibility assessment and its mapping in serbia's tara national park
+;tethered uav with combined multi-rotor and water jet propulsion for forest fire fighting
+;the 1987 forest fire disaster in california: assessment of emergency room visits
+;the 2017 split wildfire in croatia: evolution and the role of meteorological conditions
+;the 2018 camp fire: meteorological analysis using in situ observations and numerical simulations
+;the application of interactive multimedia cd-rom technology to wildland fire safety training
+;the characteristics and future projections of fire danger in the areas around mega-city based on meteorological data-a case study of beijing
+;the circuit of culture: a strategy for understanding the evolving human dimensions of wildland fire
+;the comprehensive fire information reconciled emissions (cfire) inventory: wildland fire emissions developed for the 2011 and 2014 u.s. national emissions inventory
+;the development and implementation of a human-caused wildland fire occurrence prediction system for the province of ontario, canada
+;the distributed strategy for asynchronous observations in data-driven wildland fire spread prediction
+;the economic cost of adverse health effects from wildfire-smoke exposure: a review
+;the economic cost of adverse health effectsfrom wildfire-smoke exposure: a review
+;the economics of prescribed burning: a research review
+;the economics of wildfire in the united states
+;the effect of climate change on forest fire danger and severity in the canadian boreal forests for the period 1976-2100
+;the effects of wildfire frequency on post-fire soil surface water dynamics
+;the evolution of the wildland fire decision support system (wfdss): future direction after five years of implementation
+;the firework air quality forecast system with near-real-time biomass burning emissions: recent developments andevaluation of performance for the 2015 north american wildfire season
+;the generation and forecast of extreme winds during the origin and progression of the 2017 tubbs fire
+;the graph model for conflict resolution and decision support
+;the high park fire: coupled weather-wildland fire model simulation of a windstorm-driven wildfire in colorado's front range
+;the impact of a forest fire on the air pollution of an urban area: a case-study for athens, greece
+;the impact of covid-19 prevention measures on interagency hotshot crews in 2020
+;the impact of forest fires in the context of climate change: an interdisciplinary analysis
+;the impact of fuel treatments on wildfire behavior in north american boreal fuels: a simulation study using firetec
+;the impact of wildland fires on calcareous mediterranean pedosystems (sardinia, italy)-an integrated multiple approach
+;the impacts of forest fires on watershed hydrological response. a review
+;the importance of low-level environmental vertical wind shear to wildfire propagation: proof of concept
+;the influence of an upper-level frontal zone on the mack lake wildfire environment
+;the influence of housing, parcel, and neighborhood characteristics on housing survival in the marshall fire
+;the influence of risk attitudes on suppression spending and on wildland fire program budgeting
+;the italian national fire and rescue service activity in forest fires: the event in montegrino valtravaglia
+;the large-scale wildfire spread prediction using a multi-kernel convolutional neural network
+;the making of national seasonal wildfire outlooks
+;the meteorology of the august 2023 maui wildfire
+;the northern california wildfires of 8-9 october 2017: the role of a major downslope wind event
+;the power of machine learning in forest fire risk analysis and resilience: navigating best practices, challenges, and opportunities
+;the process of vegetation recovery and burn probability changes in post-burn boreal forests in northeast china
+;the properties of elliptical wildfire growth for time dependent fuel and meteorological conditions
+;the reburn model: simulating system-level forest succession and wildfire dynamics
+;the relationship between forest fire occurrence and 500 mb longwave ridging
+;the response and management of species sensitive to altered fire regimes
+;the response of mammals to forest fire and timber harvest in the north american boreal forest
+;the response of the invasive princess tree (paulownia tomentosa) to wildland fire and other disturbances in an appalachian hardwood forest
+;the role of communication in preparation for wildland fire: a literature review
+;the role of cultural fire values among the arhuaco, tikuna, uitoto, pijao, and embera-chamí indigenous peoples of colombia in promoting sustainable forest governance
+;the role of fuel treatments during incident management
+;the role of trust in community wildland fire protection planning
+;the role of trust in residents' fire wise actions
+;the role of uav-iot networks in future wildfire detection
+;the rothermel surface fire spread model and associated developments: a comprehensive explanation
+;the scientific value of fire in wilderness
+;the simulation of surface fire spread based on rothermel model in windthrow area of changbai mountain (jilin, china)
+;the spotting distribution of wild fires
+;the state of wildfire and bushfire science: temporal trends, research divisions and knowledge gaps
+;the technological ecosystem of modern wildfire detection: a review
+;the use of aircraft tracking gps data to develop models of the use of airtankers in forest fire management
+;the use of the gis into the forest fire prediction. the simulation model
+;the value of assessing public perceptions: wildland fire and defensible space
+;the veld and forest fire laws of south africa
+;the wildland fire system and challenges for engineering
+;thermal decomposition of vegetative fuels and the impact of measured variations on simulations of wildfire spread
+;thermal infrared video stabilization for aerial monitoring of active wildfires
+;thermodynamics of pyrocumulus: a conceptual study
+;three dimensional forest dynamic evolution based on hydraulic erosion and forest fire disturbance
+;three lines of defense for wildfire risk management in electric power grids: a review
+;time aware genetic algorithm for forest fire propagation prediction: exploiting multi-core platforms
+;time-dependent queueing approach to helicopter allocation for forest fire initial-attack*
+;tools for assessing the impacts of climate variability and change on wildfire regimes in forests
+;toward an integrated system for fire, smoke and air quality simulations
+;toward improved communication about wildland fire: mental models research to identify information needs for natural resource management
+;toward moving public safety networks
+;towards a comprehensive dataset for next-day wildfire prediction
+;towards a comprehensive look at global drivers of novel extreme wildfire events
+;towards an efficient fog-based forest fire management architecture
+;towards predictive data-driven simulations of wildfire spread-part ii: ensemble kalman filter for the state estimation of a front-tracking simulator of wildfire spread
+;towards predictive simulation of wildfire spread at regional scale using ensemble-based data assimilation to correct the fire front position
+;towards software engineering perspective for bdi agent
+;toxicity of forest fire retardant chemicals to stream-type chinook salmon undergoing parr-smolt transformation
+;toxicity of wildland fire retardants to rainbow trout in short exposures
+;toxicity of wildland fire-fighting chemicals in pulsed exposures to rainbow trout and fathead minnows
+;traditional fire uses by indigenous peoples and local communities in south america
+;traffic modeling for wildland-urban interface fire evacuation
+;transforming wildfire detection and prediction using new and underused sensor and data sources integrated with modeling
+;transport of forest fire smoke above the tropopause by supercell convection
+;travelling wave fault location in rural radial distribution networks to reduce wild fire risk
+;tree injury and mortality in fires: developing process-based models
+;tree species classification using high-resolution satellite imagery and weakly supervised learning
+;trending and emerging prospects of physics-based and ml-based wildfire spread models: a comprehensive review
+;truetrees: a scalable workflow for the integration of airborne lidar scanning data into fuel models for prescribed fire simulations
+;trust-driven approach to enhance early forest fire detection using machine learning
+;trying not to get burned: understanding homeowners' wildfire risk-mitigation behaviors
+;turning down the heat: vegetation feedbacks limit fire regime responses to global warming
+;u.s. geological survey wildland fire science strategic plan, 2021-26
+;u3unet: an accurate and reliable segmentation model for forest fire monitoring based on uav vision
+;uav patrolling for wildfire monitoring by a dynamic voronoi tessellation on satellite data
+;uav-fdn: forest-fire detection network for unmanned aerial vehicle perspective
+;ultra-lightweight convolution-transformer network for early fire smoke detection
+;uncertainty and probability in wildfire management decision support
+;uncertainty and probability in wildfire management decision support: an example from the united states
+;uncertainty and risk in wildland fire management: a review
+;uncertainty aware wildfire management
+;uncertainty in model predictions of wildland fire rate of spread
+;uncertainty propagation in wildland fire behaviour modelling
+;uncertainty quantification of forecast error in coupled fire-atmosphere wildfire spread simulations: sensitivity to the spatial resolution
+;uncharted territory: governance opportunities for wildfire management and the case of cyprus
+;understanding evacuation behavior during wildfires: exploring key factors affecting evacuee behaviors and developing predictive models for decision-making
+;understanding threat appraisal and protective action concerning forest fires in low-exposure regions: an application of the protective action decision model
+;unmanned aerial vehicle (uav) based forest fire detection and monitoring for reducing false alarms in forest-fires
+;unraveling the impact of wildfires on permafrost ecosystems: vulnerability, implications, and management strategies
+;untrammeling the wilderness: restoring natural conditions through the return of human-ignited fire
+;updates and revisions to the 1992 canadian forest fire behavior prediction system
+;usage of gis and rs technologies in disaster management
+;use of 13c to monitor soil organic matter transformations caused by a simulated forest fire
+;use of spatially refined satellite remote sensing fire detection data to initialize and evaluate coupled weather-wildfire growth model simulations
+;using an inventory cluster approach for assessing bushfire preparedness and information needs in vulnerable communities
+;using background-oriented schlieren to visualize convection in a propagating wildland fire
+;using bayesian model averaging to calibrate forecast ensembles
+;using benefit transfer to estimate average relative marginal values for wildland fire program planning
+;using cellular automata and multi-criteria evaluation to simulate the wildfire expansion in prince george, british co-lumbia
+;using climate-fire analog mapping to inform climate change adaptation strategies for wildland fire in protected areas of the conterminous us
+;using drone swarm to stop wildfire: a predict-then-optimize approach
+;using dynamic data driven cyberinfrastructure for next generation disaster intelligence
+;using dynamic data-driven cyberinfrastructure for next-generation wildland fire intelligence
+;using flammap to assess wildfire behavior in bohemian switzerland national park
+;using focus groups for knowledge sharing: tracking emerging pandemic impacts on usfs wildland fire operations
+;using iot and ml for forest fire detection, monitoring, and prediction: a literature review
+;using pcaand one-stage detectors for real-time forest fire detection
+;using satellite-derived fire arrival times for coupled wildfire-air quality simulations at regional scales of the 2020 california wildfire season
+;using simulation to map fire regimes: an evaluation of approaches, strategies, and limitations
+;using simulations to support students’ conceptual development related to wildfire hazards and risks from an experiential learning perspective
+;using soil moisture information to better understand and predict wildfire danger: a review of recent developments and outstanding questions
+;using wind data to predict wildfire spread in central california
+;using wireless multimedia sensor networks to enhance early forest fire detection
+;utilizing deep learning and spatial analysis for accurate forest fire occurrence forecasting in the central region of china
+;utilizing modis remote sensing and integrated data for forest fire spread modeling in the southwest region of canada
+;validating a landscape metric to map fire exposure to hazardous fuels in portugal
+;validating the effect of fuel moisture content by a multivalued operator in a simplified physical fire spread model
+;validation of farsite model in mediterranean area
+;validity of parameter optimization in improving mjo simulation and prediction using the sub-seasonal to seasonal forecast model of beijing climate center
+;variation of forest fire danger due to frontal passages
+;vegetation classification and a biomass inversion model for wildfires in chongli based on remote sensing data
+;vegetation regrowth after a differential intensity forest fire in a mediterranean environment, northeast spain
+;vegetation, fuels, and fire-behavior responses to linear fuel-break treatments in and around burned sagebrush steppe: are we breaking the grass-fire cycle?
+;vehicle motion prediction at intersections based on the turning intention and prior trajectories model
+;verification &amp-validation of an agent-based forest fire simulation model
+;vi-net: a hybrid semantic segmentation approach for enhanced wildfire spread prediction
+;virtual reality oriented modeling and simulation of amphibious aircraft forest fire extinguishing mission scene
+;vision-based forest fire detection using machine learning
+;visitor preferences and human-caused wildfire prevention: a survey of public land users in the us southwest
+;visualization and modeling of forest fire propagation in patagonia
+;visualization of 3d forest fire spread based on the coupling of multiple weather factors
+;visualization of local wind field based forest-fire’s forecast modeling for transportation planning
+;visualization of the occurrence and spread of wildfires in three-dimensional natural scenes: visualization of the occurrence
+;visualization tools for assessing the markov property: sojourn times in the forest fire weather index in ontario
+;voices from the field: wildland fire managers and high-reliability organizing mindfulness
+;waste crisis and potential implications of forest fires: perspective from psychosocial cognition
+;weather and fuel as modulators of grassland fire behavior in the northern great plains
+;weather conditions and forest fire propagation-the case of the carmel fire, december 2010
+;web cellular automata: a forest fire modeling approach and prototype tool
+;west coast forecast challenges and development of atmospheric river reconnaissance
+;west virginia wildland fire as latent social discontent
+;wfnet: a hierarchical convolutional neural network for wildfire spread prediction
+;what applied social psychology theories might contribute to community bushfire safety research after victoria's ``black saturday{''}
+;what applied social psychology theories might contribute to community bushfire safety research after victoria's black saturday
+;what are we protecting out here? a political ecology of forest, fire, and fuels management in utah's wildland-urban interface
+;what do we know about forest fire size distribution, and why is this knowledge useful for forest management?
+;what is a fire resilient landscape? towards an integrated definition
+;who framed the forest fire? state framing and peasant counter-framing of anthropogenic forest fires in spain since 1940
+;why trust science?-naomi oreskes (princeton, nj, usa: princeton univ. press, 2019, 360 pp.)
+;widespread and systematic effects of fire on plant-soil water relations
+;wild fire resistant tobacco plants obtained from calluses cultivated on a tabtoxin containing medium
+;wild forest fire regime following land abandonment in the mediterranean region
+;wildfire and climate change adaptation of western north american forests: a case for intentional management
+;wildfire and family forest owners: concern, advice, and wildfire reduction behaviors from the united states national woodland owner survey
+;wildfire and forest management: opportunities for hci research
+;wildfire and power grid nexus in a changing climate
+;wildfire autonomous response and prediction using cellular automata (warp-ca)
+;wildfire behaviour and danger ratings
+;wildfire detection based on satellite images using deep learning
+;wildfire detection with deep learning-a case study for the ciclope project
+;wildfire detection: review of emerging technologies and methodologies
+;wildfire emission modeling: integrating bluesky and smoke
+;wildfire fuels mapping through artificial intelligence-based methods: a review
+;wildfire growth modelling on heterogeneous landscapes for fire prevention: a case study of sonoma county
+;wildfire impacts on security of electric power systems: a survey of risk identification and mitigation approaches
+;wildfire likelihood's elements: a literature review
+;wildfire management decisions outweigh mechanical treatment as the keystone to forest landscape adaptation
+;wildfire management in canada: review, challenges and opportunities
+;wildfire management in the united states: the evolution of a policy failure
+;wildfire path prediction spread using machine learning
+;wildfire policy and fire use on public lands in the united states
+;wildfire policy and public lands: integrating scientific understanding with social concerns across landscapes
+;wildfire prediction and spread detection
+;wildfire prediction to inform fire management: statistical science challenges
+;wildfire prediction: handling uncertainties using integrated bayesian networks and fuzzy logic
+;wildfire preparedness, community cohesion and social-ecological systems
+;wildfire progression prediction and validation using satellite data and remote sensing in sonoma, california
+;wildfire pyroconvection and cape: buoyancy’s drying and atmospheric intensification-fort mcmurray
+;wildfire risk in the wildland-urban interface: a simulation study in northwestern wisconsin
+;wildfire risk perception survey: insights from local communities in tuscany, italy
+;wildfire risk prediction: a review
+;wildfire spread forecasting with deep learning
+;wildfire spread prediction and assimilation for farsite using ensemble kalman filtering
+;wildfire spread prediction in north america using satellite imagery and vision transformer
+;wildfire spread prediction model calibration using metaheuristic algorithms
+;wildfire spread prediction through remote sensing and uav imagery-driven machine learning models
+;wildfire spread prediction using attention mechanisms in u-net
+;wildfire spread prediction using attention mechanisms in u2-net
+;wildfire spread prediction using geostationary satellite observation data and directional ros adjustment factor
+;wildfire spread prediction using machine learning algorithms
+;wildfire spreading prediction using multimodal data and deep neural network approach
+;wildfire suppression cost forecasts for the us forest service
+;wildfire towers drive firebrand lofting: insights from coupled fire-atmosphere model simulations
+;wildfire-vegetation dynamics affect predictions of climate change impact on bird communities
+;wildfiredb: an open-source dataset connecting wildfire spread with relevant determinants
+;wildfires, responsibility and trust: public understanding of sweden's largest wildfire
+;wildfirespreadts: a dataset of multi-modal time series for wildfire spread prediction
+;wildland and forest fire prediction in thailand using satellite data
+;wildland fire and organic discourse: negotiating place and leisure identity in a changing wildland urban interface
+;wildland fire as a self-regulating mechanism: the role of previous burns and weather in limiting fire progression
+;wildland fire ash: production, composition and eco-hydro-geomorphic effects
+;wildland fire behaviour case studies and fuel models for landscape-scale fire modeling
+;wildland fire deficit and surplus in the western united states, 1984-2012
+;wildland fire detection and monitoring using a drone-collected rgb/ir image dataset
+;wildland fire disturbance-recovery dynamics in upland forests at acadia national park, maine
+;wildland fire effects on forest structure over an altitudinal gradient, grand canyon national park, usa
+;wildland fire emissions, carbon and climate: characterizing wildland fuels
+;wildland fire emissions, carbon, and climate: emission factors
+;wildland fire emissions, carbon, and climate: science overview and knowledge needs
+;wildland fire emissions, carbon, and climate: wildfire-climate interactions
+;wildland fire emissions, carbon, and climate: wildland fire detection and burned area in the united states
+;wildland fire fuels database for corsican-mediterranean forest stand types
+;wildland fire governance: perspectives from greece
+;wildland fire impacts on mercury in fish
+;wildland fire management as conservation-based development: an opportunity for reservation communities?
+;wildland fire management for the 21st century: evolving applications and capabilities
+;wildland fire mid-story: a generative modeling approach for representative fuels
+;wildland fire mitigation networks in the western united states
+;wildland fire prevention: a review
+;wildland fire risk and social vulnerability in the southeastern united states: an exploratory spatial data analysis approach
+;wildland fire risk research in canada
+;wildland fire smoke and human health
+;wildland fire spread by radiation-a model including fuel cooling by natural convection
+;wildland fire spread modeling using convolutional neural networks
+;wildland firefighter deaths in the united states: a comparison of existing surveillance systems
+;wildland firefighter safety zones: a review of past science and summary of future needs
+;wildland fuel type mapping in attica using sentinel-2 time-series
+;wildland surface fire spread modelling, 1990-2007. 1: physical and quasi-physical models
+;wildland surface fire spread modelling, 1990-2007. 2: empirical and quasi-empirical models
+;wildland surface fire spread modelling, 1990-2007. 3: simulation and mathematical analogue models
+;wildland-urban interface (wui) fire modelling using phoenix rapidfire: a case study in cavaillon, france
+;will fire-smart landscape management buffer the effects of climate and land-use changes on fire regimes?
+;wind and fire coupled modelling-part i: literature review
+;wind effect on wildfire and simulation of its spread (case study: siahkal forest in northern iran)
+;wind-terrain effects on the propagation of wildfires in rugged terrain: fire channelling
+;wireless sensor networks’ challenges and future prospects
+;women's invisible work in disaster contexts: gender norms in speech on women's work after a forest fire in sweden
+;wrf-fire: coupled weather-wildland fire modeling with the weather research and forecasting model
+;yolo11-rln: an aerial uav algorithm for forest fire detection
+;zebrafish irritant responses to wildland fire-related biomass smoke are influenced by fuel type, combustion phase, and byproduct chemistry

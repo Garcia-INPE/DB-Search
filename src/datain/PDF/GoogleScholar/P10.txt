@@ -1,0 +1,314 @@
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Simulation of a large wildfire in a coupled fire-atmosphere model
+JB Filippi, F Bosseur, C Mari, C Lac - Atmosphere, 2018 - mdpi.com
+… fire spread model is proposed for predicting fine- to large-scale effects of this extreme wildfire,
+showing that such simulation is … (see [31] for a review of numerical interface tracking and …
+Save
+
+Cite
+
+Cited by 53
+
+Related articles
+
+All 10 versions
+
+Integrated national-scale assessment of wildfire risk to human and ecological values
+MP Thompson, DE Calkin, MA Finney, AA Ager… - … Research and Risk …, 2011 - Springer
+… wildfire entailed use of FSim, a wildfire simulation system. The specifics of FSim, including
+details on how fire behavior … impacted by fire) through review of many recovery plans and …
+Save
+
+Cite
+
+Cited by 172
+
+Related articles
+
+All 13 versions
+
+Wildfire risk in the wildland–urban interface: a simulation study in northwestern
+Wisconsin
+AB Massada, VC Radeloff, SI Stewart… - … and Management, 2009 - Elsevier
+… We simulated wildfire spread and behavior with two commonly used models: FARSITE (Finney,
+1998) and MTT (Finney, 2002), as implemented in FlamMap (Finney, 2006). FARSITE is …
+Save
+
+Cite
+
+Cited by 203
+
+Related articles
+
+All 14 versions
+
+Homeowners willingness to pay to reduce wildfire risk in wildland urban interface areas:
+Implications for targeting financial incentives
+JJ Sanchez, TP Holmes, J Loomis… - International Journal of …, 2022 - Elsevier
+… This suggests the importance of risk perceptions in adoption of risk mitigation behavior. …
+wildfire risk perceptions and mitigation behavior, not explicitly revealed in the basic MNL model, …
+Save
+
+Cite
+
+Cited by 36
+
+Related articles
+
+All 5 versions
+
+Socio-Ecological Perceptions of Wildfire Management and Effects in Greece. Fire 2021,
+4, 18
+P Palaiologou, K Kalabokidis, A Troumbis, MA Day… - 2021 - academia.edu
+… emphasis on reforming wildfire management policies to deal … of climate change in wildfire
+frequency and behavior. In addition… -based survey of professionals in wildfire management and …
+Save
+
+Cite
+
+Cited by 8
+
+Related articles
+
+All 2 versions
+
+An integrative review of empirical research on perceptions and behaviors related to
+prescribed burning and wildfire in the United States
+LN Dupéy, JW Smith - Environmental management, 2018 - Springer
+… (evacuation), also increased the likelihood of engaging in mitigation behavior. These two
+studies highlight how emerging research is beginning to explore a wider collection of …
+Save
+
+Cite
+
+Cited by 52
+
+Related articles
+
+All 9 versions
+
+Model comparisons for estimating carbon emissions from North American wildland fire
+NHF French, WJ De Groot, LK Jenkins… - Journal of …, 2011 - Wiley Online Library
+… by the sixth model used in this study, the Canadian Forest Fire Behavior Prediction (FBP) …
+Here we focus our review on total carbon emissions estimates from burning, with the aim of …
+Save
+
+Cite
+
+Cited by 167
+
+Related articles
+
+All 17 versions
+
+The role of UAV-IoT networks in future wildfire detection
+OM Bushnaq, A Chaaban… - IEEE Internet of Things …, 2021 - ieeexplore.ieee.org
+… In [17], a survey on the flying ad hoc networks is presented. The … , we assume a simplistic fire
+spread model, wherein fire evolves … In Section II, we present the system model and the main …
+Save
+
+Cite
+
+Cited by 200
+
+Related articles
+
+All 6 versions
+
+https://scholar.google.com/scholar?start=180&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+1/3
+
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Exploring adoption of the wildland fire decision support system: End user perspectives
+P Noble, TB Paveglio - Journal of Forestry, 2020 - academic.oup.com
+… WFDSS is a web-based application that synthesizes geospatial data, fire behavior model
+outputs, risk analysis frameworks, and cost evaluation tools. It is intended to help fire managers …
+Save
+
+Cite
+
+Cited by 56
+
+Related articles
+
+All 9 versions
+
+Social amplification of wildfire risk: the role of social interactions and information sources
+H Brenkert‐Smith, KL Dickinson, PA Champ… - Risk …, 2013 - Wiley Online Library
+… , we develop a conceptual model of wildfire risk perceptions that … To the extent that people
+are aware of these dynamics, we … Here, we briefly describe the survey design, as well as the …
+Save
+
+Cite
+
+Cited by 220
+
+Related articles
+
+All 19 versions
+
+Psychological factors and social processes influencing wildfire smoke protective
+behavior: Insights from a case study in Northern California
+FN Santana, DJX Gonzalez, G Wong-Parodi - Climate Risk Management, 2021 - Elsevier
+… health behavior. Finally, we propose a conceptual framework of wildfire smoke protective
+behavior. … risk and protective health literatures related to wildfire smoke response. Our findings …
+Save
+
+Cite
+
+Cited by 52
+
+Related articles
+
+All 5 versions
+
+Data assimilation for wildland fires
+J Mandel, JD Beezley, JL Coen… - IEEE Control Systems …, 2009 - ieeexplore.ieee.org
+… A wildland fire interacts with the atmosphere dynamics through fluxes of momentum, water
+… Then the state of the model is the probability distribution of possible wildfire scenarios. The …
+Save
+
+Cite
+
+Cited by 164
+
+Related articles
+
+All 9 versions
+
+Simulation of forest fire fronts using cellular automata
+AH Encinas, LH Encinas, SH White, AM Del Rey… - … in Engineering Software, 2007 - Elsevier
+… Specifically, the model proposed in this work introduces a more accurate factor of propagation
+from a diagonal neighbor cell and includes, in a detailed form, the rate of fire spread. …
+Save
+
+Cite
+
+Cited by 188
+
+Related articles
+
+All 6 versions
+
+Spatiotemporal dynamics of simulated wildfire, forest management, and forest
+succession in central Oregon, USA
+AMG Barros, AA Ager, MA Day, HK Preisler, TA Spies… - Ecology and …, 2017 - JSTOR
+… simulation model Envision to analyze long-term wildfire dynamics and the effects of different
+fuel management … We simulated a 50-year future where fuel management activities were …
+Save
+
+Cite
+
+Cited by 49
+
+Related articles
+
+All 11 versions
+
+Forest fire spread model based on the grey system theory.
+C Lv, J Wang, F Zhang - Journal of Supercomputing, 2020 - search.ebscohost.com
+… forest fire spread model developing. By preprocessing and fusing the MODIS remote sensing
+data, the sequence data of the grey model … algorithm, forest fire spread GM(1, 1) model was …
+Save
+
+Cite
+
+Cited by 12
+
+Related articles
+
+All 2 versions
+
+Comparing production function models for wildfire risk analysis in the wildland–urban
+interface
+DE Mercer, JP Prestemon - Forest policy and economics, 2005 - Elsevier
+… to wildfire … wildland fire management decisions in the wildland–urban interface. Our results
+also emphasize the importance of including such variables in statistical models of wildfire risk …
+Save
+
+Cite
+
+Cited by 166
+
+Related articles
+
+All 14 versions
+
+https://scholar.google.com/scholar?start=180&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+2/3
+
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Carbon dynamics of North American boreal forest after stand replacing wildfire and
+clearcut logging
+M Seedre, BM Shrestha, HYH Chen… - Journal of forest …, 2011 - Taylor & Francis
+… this review was to synthesize the literature on C dynamics of … disturbances, stand replacing
+wildfire and clearcut logging. … of wildfire and harvesting stands with different management …
+Save
+
+Cite
+
+Cited by 98
+
+Related articles
+
+All 20 versions
+
+Conflict and collaboration in wildfire management: the role of mission alignment
+CJ Fleming, EB McCartha… - … Administration Review, 2015 - Wiley Online Library
+… By understanding where differences can arise and whether they are managed well, we
+provide insight into dynamics of relationships that will need to be examined and addressed. …
+Save
+
+Cite
+
+Cited by 95
+
+Related articles
+
+All 9 versions
+
+Health effects of wildfire smoke exposure
+CF Gould, S Heft-Neal, M Johnson… - Annual Review of …, 2024 - annualreviews.org
+… and social systems adapt to new dynamics (eg, increased wildfire activity) by changing
+aspects of … smoke days have low to medium PM2.5 concentrations, using the quartic model we …
+Save
+
+Cite
+
+Cited by 118
+
+Related articles
+
+All 6 versions
+
+Toward improved communication about wildland fire: mental models research to identify
+information needs for natural resource management
+M Zaksek, JL Arvai - Risk Analysis: An International Journal, 2004 - Wiley Online Library
+… model was created based on an extensive review of the literature and consultations with
+several wildland fire … as factors that influence wildland fire ignition and spread. Similarly, only …
+Save
+
+Cite
+
+Cited by 187
+
+Related articles
+
+All 9 versions
+
+https://scholar.google.com/scholar?start=180&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+3/3
+
+

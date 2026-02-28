@@ -1,0 +1,314 @@
+10/18/25, 3:00 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+A two-dimensional reaction-advection-diffusion model of the spread of fire in wildlands
+P Grasso, MS Innocente - 2018 - ap1.sib.uc.pt
+… The aim of this research is to develop a model of the spread of wildfires … The model consists
+of two coupled partial differential … The aim of this research is to model the spread of forest fire …
+Save
+
+Cite
+
+Cited by 16
+
+Related articles
+
+All 3 versions
+
+Atmospheric interactions with wildland fire behaviour–I. Basic surface interactions,
+vertical profiles and synoptic structures
+BE Potter - International Journal of Wildland Fire, 2012 - CSIRO Publishing
+… rate and wind speed based on the results of their numerical model with coupled fire … Part
+II of this review discusses plume structure and dynamics in detail, including elaboration on …
+Save
+
+Cite
+
+Cited by 136
+
+Related articles
+
+All 5 versions
+
+Estimation of wildfire size and risk changes due to fuels treatments
+MA Cochrane, CJ Moran, MC Wimberly… - … of Wildland Fire, 2012 - CSIRO Publishing
+… modelling system (Finney 2004) to simulate the observed wildfire progression and spread
+rates. Model simulations were parameterised with LANDFIRE fuels and topographic data …
+Save
+
+Cite
+
+Cited by 196
+
+Related articles
+
+All 13 versions
+
+Development and structure of Prometheus: the Canadian wildland fire growth simulation
+model
+C Tymstra, RW Bryce, BM Wotton, SW Taylor… - … Report NOR-X-417 …, 2010 - spyd.com
+… • to review and evaluate existing models; • to … a wildfire at many points around the fire
+perimeter, including the underlying rates of spread for the spatial simulation of firefront propagation. …
+Save
+
+Cite
+
+Cited by 373
+
+Related articles
+
+All 5 versions
+
+Distributed wildfire surveillance with autonomous aircraft using deep reinforcement
+learning
+KD Julian, MJ Kochenderfer - … of Guidance, Control, and Dynamics, 2019 - arc.aiaa.org
+… work together to monitor the wildfire growth. Furthermore, the … for both wildfire propagation
+and trajectory optimization is … simulation, the wildfire is small, and so no precise trajectory …
+Save
+
+Cite
+
+Cited by 154
+
+Related articles
+
+All 3 versions
+
+A review of radiant heat flux models used in bushfire applications
+AL Sullivan, PF Ellis, IK Knight - … Journal of Wildland Fire, 2003 - CSIRO Publishing
+… The prediction of the thermal radiation from a wildfire is … is important in a number of fields,
+including rate of spread modelling, … of heat transfer and fire propagation, the physics is reason…
+Save
+
+Cite
+
+Cited by 140
+
+Related articles
+
+All 3 versions
+
+Federal forest‐fire policy in the United States
+SL Stephens, LW Ruth - Ecological applications, 2005 - Wiley Online Library
+… wildfire has increased over the last decade. Given the current and future challenges of fire
+management, and based on analytical research and review … not contribute to wildfire spread or …
+Save
+
+Cite
+
+Cited by 836
+
+Related articles
+
+All 18 versions
+
+What do we know about forest fire size distribution, and why is this knowledge useful for
+forest management?
+W Cui, AH Perera - International Journal of Wildland Fire, 2008 - CSIRO Publishing
+… in forest management and forest fire management. In the present article, our goal is to
+review and … For example, slope affects rate of spread while aspect affects spread direction. …
+Save
+
+Cite
+
+Cited by 120
+
+Related articles
+
+All 6 versions
+
+https://scholar.google.com/scholar?start=60&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“fore…
+
+1/3
+
+10/18/25, 3:00 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Analysis of evacuation behavior in a wildfire event
+T Toledo, I Marom, E Grimberg, S Bekhor - International journal of disaster …, 2018 - Elsevier
+… place, is critical for the efficient management of the event. The usual … A large-scale wildfire
+took place in Haifa on November 24, … Shortly after the fire events, a web survey was developed …
+Save
+
+Cite
+
+Cited by 141
+
+Related articles
+
+All 5 versions
+
+LANDFIRE: a nationally consistent vegetation, wildland fire, and fuel assessment
+MG Rollins - International Journal of Wildland Fire, 2009 - CSIRO Publishing
+… of different wildfire management strategies, wildfire season … ; (3) communications and iterative
+review by local ecologists and … the probability of individual wildfire spread and severity and …
+Save
+
+Cite
+
+Cited by 791
+
+Related articles
+
+All 14 versions
+
+A simple physical model for forest fire spread
+E Koo, P Pagni, J Woycheese… - In: Gottuk, D.; …, 2005 - research.fs.usda.gov
+… mechanisms of forest fire spread and introduced a simple physics-based fire spread model
+for … Pitts [12] provided a thorough review of wind effects on fire. Weise and Biging [13] built a …
+Save
+
+Cite
+
+Cited by 98
+
+Related articles
+
+All 10 versions
+
+Modeling vorticity-driven wildfire behavior using near-field techniques
+JJ Sharples, JE Hilton - Frontiers in Mechanical Engineering, 2020 - frontiersin.org
+… An example simulation using the pyrogenic vector potential coupled to a wildfire spread
+simulation is shown in Figure 2 with s c = 0.5 and s w = 0.5 in Equation (8). These constants …
+Save
+
+Cite
+
+Cited by 22
+
+Related articles
+
+All 2 versions
+
+Evacuation decision-making and behavior in wildfires: Past research, current challenges
+and a future research agenda
+E Kuligowski - Fire Safety Journal, 2021 - Elsevier
+… an understanding of human behavior in wildfires, which is an … decision-making and
+behavior during wildland-urban … support developments of evacuation simulation models, and …
+Save
+
+Cite
+
+Cited by 135
+
+Related articles
+
+All 6 versions
+
+Describing wildland surface fuel loading for fire management: a review of approaches,
+methods and systems
+RE Keane - International Journal of Wildland Fire, 2012 - CSIRO Publishing
+… models are being developed, it is critical that new fuel classification systems be built to
+balance ecological understanding of fuel dynamics with the new input model requirements to …
+Save
+
+Cite
+
+Cited by 194
+
+Related articles
+
+All 10 versions
+
+Current wildland fire patterns and challenges in Europe: A synthesis of national
+perspectives
+N Fernandez-Anez, A Krasovskiy… - Air, Soil and Water …, 2021 - journals.sagepub.com
+… involved in wildland fire research and land management, … to assess and understand fire
+regime, dynamics, and post-fire … fire behavior, linkages between weather and wildland fire …
+Save
+
+Cite
+
+Cited by 166
+
+Related articles
+
+All 52 versions
+
+How risk management can prevent future wildfire disasters in the wildland-urban
+interface
+DE Calkin, JD Cohen, MA Finney… - Proceedings of the …, 2014 - pnas.org
+… First, we review how the success, or lack thereof, of wildfire … fire behavior in the nearby
+wildlands, meaning that proper care of the HIZ separates home losses from wildland fire behavior, …
+Save
+
+Cite
+
+Cited by 639
+
+Related articles
+
+All 23 versions
+
+https://scholar.google.com/scholar?start=60&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“fore…
+
+2/3
+
+10/18/25, 3:00 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Negative consequences of positive feedbacks in US wildfire management
+DE Calkin, MP Thompson, MA Finney - Forest Ecosystems, 2015 - Springer
+… this article we review the structure of US wildfire management … ecological drivers of wildfire
+management response in both … the trajectory of wildfire risk and associated management …
+Save
+
+Cite
+
+Cited by 397
+
+Related articles
+
+All 28 versions
+
+Forest fire dynamics in Nepal: Regional trends and socio-ecological drivers
+KP Joshi, S Giri, D Kuinkel, S Kuikel, R Devkota… - Trees, Forests and …, 2025 - Elsevier
+… national forest fire analyses. This study investigates fire trends, key drivers, and public
+perceptions of management … Survey responses highlight strong community support for awareness …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 3 versions
+
+Detecting critical nodes in forest landscape networks to reduce wildfire spread
+D Yemshanov, N Liu, DK Thompson, MA Parisien… - PloS one, 2021 - journals.plos.org
+… to plan wildfire fuel treatments that minimize the risk of fire spread in … simulation modeling
+to estimate the probability of fire spread … A review of operational research studies in forest fire …
+Save
+
+Cite
+
+Cited by 22
+
+Related articles
+
+All 10 versions
+
+Physical phenomena and length scales governing the behaviour of wildfires: a case for
+physical modelling
+D Morvan - Fire technology, 2011 - Springer
+… review concerning fire spread and fire behaviour models [9–11]. … as a “fully” physical wildfire
+model a model based on the solution of … For this simulation we found a rate of spread (ROS), …
+Save
+
+Cite
+
+Cited by 174
+
+Related articles
+
+All 15 versions
+
+https://scholar.google.com/scholar?start=60&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“fore…
+
+3/3
+
+

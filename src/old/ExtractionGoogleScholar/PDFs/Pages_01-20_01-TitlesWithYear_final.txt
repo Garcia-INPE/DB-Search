@@ -1,0 +1,198 @@
+1976;Estimating wildfire behavior and effects
+1991;Bushfire rate‐of‐spread forecasting: Deterministic and statistical approaches to fire modelling
+1991;Toward a comprehensive wildfire spread model
+1994;A cellular automaton model of wildfire propagation and extinction
+1996;A real-time computer application for the prediction of fire spread across the Australian landscape
+1998;Current approaches to modelling the spread of wildland fire: a review
+2002;Studying wildfire behavior using FIRETEC
+2003;Mathematical models and calculation systems for the study of wildland fire behaviour
+2005;Overview of bushfire spread simulation systems
+2005;Predicting wildland fire behavior and emissions using a fine-scale physical model
+2006;Evaluating a model for predicting active crown fire rate of spread using wildfire observations
+2006;Guidance on spatial wildland fire analysis: models, tools, and techniques
+2007;A review of wildland fire spread modelling, 1990-present 1: Physical and quasi-physical models
+2007;A review of wildland fire spread modelling, 1990-present 2: Empirical and quasiempirical models
+2007;A review of wildland fire spread modelling, 1990-present 3: Mathematical analogues and simulation models
+2008;Development of a model system to predict wildfire behaviour in pine plantations
+2008;DEVS-FIRE: Towards an integrated simulation environment for surface wildfire spread and containment
+2008;Efficient simulation of wildfire spread on an irregular grid
+2008;Review of formal methodologies for wind–slope correction of wildfire rate of spread
+2008;Review of the Forest fire model for high explosives
+2009;Global pyrogeography: the current and future distribution of wildfire
+2009;Modeling wildland fire propagation with level set methods
+2009;The importance of fire–atmosphere coupling and boundary-layer turbulence to wildfire spread
+2009;Wildland surface fire spread modelling, 1990–2007. 3: Simulation and mathematical analogue models
+2010;Dynamic data driven application system for wildfire spread simulation
+2011;A comparative review on wildfire simulators
+2011;A method for ensemble wildland fire simulation
+2011;A simulation of probabilistic wildfire risk components for the continental United States
+2011;Developing the US wildland fire decision support system
+2011;Review of vortices in wildland fire
+2011;Uncertainty and risk in wildland fire management: a review
+2011;Wildland fire spread modelling using cellular automata: evolution in large-scale spatially heterogeneous environments under fire suppression tactics
+2012;A review of operations research methods applicable to wildfire management
+2012;A review of recent advances in risk analysis for wildfire management
+2012;A review of wildfire occurrence research
+2012;Convolutional LSTM neural networks for modeling wildland fire dynamics
+2012;Coupling wind dynamics into a DDDAS forest fire propagation prediction system
+2012;DEVS-FIRE: design and application of formal discrete event wildfire spread and suppression models
+2012;Modelling smoke transport from wildland fires: a review
+2012;On the need for a theory of wildland fire spread
+2013;A data-driven model for large wildfire behaviour prediction in Europe
+2013;Limitations on the accuracy of model predictions of wildland fire behaviour: a state-ofthe-knowledge overview
+2013;Modeling wildfire incident complexity dynamics
+2013;Representation and evaluation of wildfire propagation simulations
+2013;Wildfire behaviour and danger ratings
+2013;Wildfire prediction to inform fire management: statistical science challenges
+2013;WRF-Fire: coupled weather–wildland fire modeling with the weather research and forecasting model
+2014;Review of wildfire detection using social media
+2014;Towards a dynamic data driven wildfire behavior prediction system at european level
+2014;Towards data-driven simulations of wildfire spread–Part I: Reduced-cost Ensemble Kalman Filter based on a Polynomial Chaos surrogate model for parameter estimation
+2014;Towards predictive simulation of wildfire spread at regional scale using ensemble-based data assimilation to correct the fire front position
+2014;Uncertainty in model predictions of wildland fire rate of spread
+2015;A generic, empirical-based model for predicting rate of fire spread in shrublands
+2015;Empirical-based models for predicting head-fire rate of spread in Australian fuel types
+2015;Forest fire propagation prediction based on overlapping DDDAS forecasts
+2015;Operational wildfire suppression modelling: a review evaluating development, state of the art and future directions
+2015;SPARK–A bushfire spread prediction tool
+2015;Towards data-driven operational wildfire spread modeling: A report of the NSF-funded WIFIRE workshop
+2015;Towards predictive data-driven simulations of wildfire spread–Part II: Ensemble Kalman Filter for the state estimation of a front-tracking simulator of wildfire spread
+2015;Wildfire likelihood's elements: a literature review
+2016;An uncertainty analysis of wildfire modeling
+2016;A review of approaches to estimate wildfire plume injection height within large-scale atmospheric chemical transport models
+2016;Deciphering the impact of uncertainty on the accuracy of large wildfire spread simulations
+2016;Evaluating crown fire rate of spread predictions from physics-based models
+2016;Faster prediction of wildfire behaviour by physical models through application of proper orthogonal decomposition
+2016;Large forest fire spread prediction: data and computational science
+2016;Predicting wildfire spread and behaviour in Mediterranean landscapes
+2016;Simulation of wildfire evacuation with dynamic factors and model composition
+2016;Turbulence and fire-spotting effects into wild-land fire simulators
+2017;A GIS-based fire spread simulator integrating a simplified physical wildland fire model and a wind field model
+2017;Firemap: A dynamic data-driven predictive wildfire modeling and visualization environment
+2017;Forest fire spread simulating model using cellular automaton with extreme learning machine
+2018;An agent-based model to represent space-time propagation of forest-fire smoke
+2018;Analysis of evacuation behavior in a wildfire event
+2018;An evaluation of NDFD weather forecasts for wildland fire behavior prediction
+2018;Assessing improvements in models used to operationally predict wildland fire rate of spread
+2018;A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]
+2018;A two-dimensional reaction-advection-diffusion model of the spread of fire in wildlands
+2018;Forest fire spread simulation algorithm based on cellular automata
+2018;Near real-time extracting wildfire spread rate from Himawari-8 satellite data
+2018;Some requirements for simulating wildland fire behavior using insight from coupled weather—wildland fire models
+2018;Using spatial reinforcement learning to build forest wildfire dynamics models from satellite images
+2018;Wildland fire prevention: a review
+2019;Applications of simulation-based burn probability modelling: a review
+2019;A review of a new generation of wildfire–atmosphere modeling
+2019;Emergency logistics for wildfire suppression based on forecasted disaster evolution
+2019;Fire behaviour and smoke modelling: model improvement and measurement needs for next-generation smoke research and forecasting systems
+2019;FireCast: Leveraging Deep Learning to Predict Wildfire Spread.
+2019;Methods for Wildfire Spread Prediction and Their Integration with Remote Sensing Data
+2019;Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
+2019;Predicting fire spread and behaviour on the fireline. Wildfire analyst pocket: A mobile app for wildland fire prediction
+2019;Review of wildfire management techniques—Part I: Causes, prevention, detection, suppression, and data analytics
+2019;Spatial prediction of wildfire susceptibility using field survey GPS data and machine learning approaches
+2019;Statistical models of key components of wildfire risk
+2019;Using cellular automata to simulate wildfire propagation and to assist in fire management
+2019;Wildfire and weather radar: A review
+2019;Wildfire propagation simulation tool using cellular automata and GIS
+2019;Wildland fire spread modeling using convolutional neural networks
+2020;A review of machine learning applications in wildfire science and management
+2020;Climate change impact on future wildfire danger and activity in southern Europe: a review
+2020;Forecasting daily wildfire activity using poisson regression
+2020;Fuzzy boundaries: Simulation and expertise in bushfire prediction
+2020;Mathematical modeling of wildland fire initiation and spread
+2020;Modeling vorticity-driven wildfire behavior using near-field techniques
+2020;Physical model of wildland fire spread: Parametric uncertainty analysis
+2020;Predicting fire propagation across heterogeneous landscapes using WyoFire: A Monte Carlo-driven wildfire model
+2020;PROPAGATOR: An Operational Cellular-Automata Based Wildfire Simulator
+2020;Simulating forest fire spread and fire-fighting using cellular automata
+2020;Tamm review: The effects of prescribed fire on wildfire regimes and impacts: A framework for comparison
+2020;Wildfire management in Canada: Review, challenges and opportunities
+2020;Wildfire spread modeling with aerial image processing
+2021;Adaptive forest fire spread simulation algorithm based on cellular automata
+2021;An empirical-based model for predicting the forward spread rate of wildfires in eucalypt forests
+2021;A survey of machine learning algorithms based forest fires prediction and detection systems
+2021;Detecting critical nodes in forest landscape networks to reduce wildfire spread
+2021;Emulation of wildland fire spread simulation using deep learning
+2021;Prediction of forest fire spread rate using UAV images and an LSTM model considering the interaction between fire and wind
+2021;Wildfire risk modeling
+2021;Wildland fire behaviour: dynamics, principles and processes
+2022;Advancements in Wildfire Prediction and Detection: A Systematic Review
+2022;A review of genetic algorithm approaches for wildfire spread prediction calibration
+2022;A Survey of Wildfire Spread Prediction and Risk Estimation Methods with Machine Learning Techniques
+2022;A systematic review and bibliometric analysis of wildland fire behavior modeling
+2022;A systematic review of applications of machine learning techniques for wildfire management decision support
+2022;Fast-moving dire wildfire evacuation simulation
+2022;Fifty years of progress in wildland fire modelling: from empirical to fully physical CFD models
+2022;Modeling forest fire spread using machine learning-based cellular automata in a GIS environment
+2022;Modeling wildfire spread with an irregular graph network
+2022;Next day wildfire spread: A machine learning dataset to predict wildfire spreading from remote-sensing data
+2022;Parameter flexible wildfire prediction using machine learning techniques: Forward and inverse modelling
+2022;Predicting wildfire induced changes to runoff: A review and synthesis of modeling approaches
+2022;Prediction of wildfire rate of spread in grasslands using machine learning methods
+2022;Simulating forest fire spread with cellular automation driven by a LSTM based speed model
+2022;Software-based simulations of wildfire spread and wind-fire interaction
+2022;Using IoT and ML for forest fire detection, monitoring, and prediction: a literature review
+2022;Using soil moisture information to better understand and predict wildfire danger: a review of recent developments and outstanding questions
+2022;Wildfire danger prediction and understanding with deep learning
+2022;Wildfire mitigation plans in power systems: A literature review
+2022;Wildfire path prediction spread using machine learning
+2023;Advancements in forest fire prevention: A comprehensive survey
+2023;A general model for wildfire propagation with wind and slope
+2023;Analysis of wildfire visualization systems for research and training: are they up for the challenge of the current state of wildfires?
+2023;An historical review of the simplified physical fire spread model PhyFire: Model and numerical methods
+2023;Atmospheric turbulence and wildland fires: a review
+2023;Attention-based wildland fire spread modeling using fire-tracking satellite observations
+2023;Evacuation simulation under threat of wildfire—an overview of research, development, and knowledge gaps
+2023;Facing the wildfire spread risk challenge: where are we now and where are we going?
+2023;Forest fire spread simulation and fire extinguishing visualization research
+2023;Integrated wildfire danger models and factors: A review
+2023;Integrating wildfire spread and evacuation times to design safe triggers: Application to two rural communities using PERIL model
+2023;Iterated local search for the placement of wildland fire suppression resources
+2023;Modeling post‐wildfire hydrologic response: Review and future directions for applications of physically based distributed simulation
+2023;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
+2023;Recurrent convolutional deep neural networks for modeling time-resolved wildfire spread behavior
+2023;Review of wildfire modeling considering effects on land surfaces
+2023;Visualization of prediction methods for wildfire modeling using CiteSpace: a bibliometric analysis
+2023;Wildfire Models–Concise Review
+2023;Wildfirespreadts: A dataset of multi-modal time series for wildfire spread prediction
+2024;A control-theoretic spatio-temporal model for wildfire smoke propagation using UAVbased air pollutant measurements
+2024;Adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of sprinkler systems
+2024;A forest fire prediction model based on cellular automata and machine learning
+2024;A global fuel characteristic model and dataset for wildfire prediction
+2024;Application of deep learning in forest fire prediction: a systematic review
+2024;A review of optimization and decision models of prescribed burning for wildfire management
+2024;Comparing Accuracy of Wildfire Spread Prediction Models under Different Data Deficiency Conditions
+2024;Comparison of Different Models to Simulate Forest Fire Spread: A Case Study
+2024;Data-driven wildfire spread modeling of european wildfires using a spatiotemporal graph neural network
+2024;Generative algorithms for fusion of physics-based wildfire spread models with satellite data for initializing wildfire forecasts
+2024;Machine learning and deep learning for wildfire spread prediction: A review
+2024;Mathematical modeling of forest fire-comprehensive review
+2024;Navigating the evolving landscape of wildfire management: A systematic review of decision support tools
+2024;Operational Forest-Fire spread forecasting using the WRF-SFIRE model
+2024;Research Trends in Wildland Fire prediction amidst climate change: A Comprehensive bibliometric analysis
+2024;RETRACTED ARTICLE: Shapley-based interpretation of deep learning models for wildfire spread rate prediction
+2024;Review and perspectives of digital twin systems for wildland fire management
+2024;Stochastic modelling of wildfire spread
+2024;Super real-time forecast of wildland fire spread by a dual-model deep learning method
+2024;Systematic review and research gaps on wildfire evacuations: infrastructure, transportation modes, networks, and planning
+2024;The distributed strategy for asynchronous observations in data-driven wildland fire spread prediction
+2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: A comprehensive review
+2024;Wildfire autonomous response and prediction using cellular automata (WARP-CA)
+2024;Wildfire spreading prediction using multimodal data and deep neural network approach
+2024;Wildfire Spread Prediction Through Remote Sensing and UAV Imagery-Driven Machine Learning Models
+2024;Wildfire spread prediction using attention mechanisms in u2-net
+2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
+2025;Advances in Wildfire Spread Detection and Prediction: Techniques, Challenges, and Applications (book)
+2025;Analyzing wildfire evacuation dynamics with agent-based modeling in damaged road networks
+2025;Assessing WildfireGPT: a comparative analysis of AI models for quantitative wildfire spread prediction
+2025;Challenges and opportunities in remote sensing-based fuel load estimation for wildfire behavior and management: A comprehensive review
+2025;Driving wildfire spread prediction by multi-source real-time observations
+2025;Forest fire management and fire suppression strategies: a systematic literature review
+2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond PhysicsBased Models and Traditional Deep Learning
+2025;Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+2025;Progress and prospects for predicting wildfire spread through the wildland-urban interface
+2025;Review of Wildfire Detection, Fighting, and Technologies: Future Prospects and Insights
+2025;Robust Prediction of Wildfire Spread in Australia
+2025;Role of flow topology in wind-driven wildfire propagation
+2025;Simulating wildfire spread based on continuous time series remote sensing images and cellular automata

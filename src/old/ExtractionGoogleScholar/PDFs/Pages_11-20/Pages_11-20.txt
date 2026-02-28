@@ -1,0 +1,1571 @@
+9/5/25, 9:18 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Faster prediction of wildfire behaviour by physical models through application of proper
+orthogonal decomposition
+E Guelpa, A Sciacovelli, V Verda… - … Journal of Wildland Fire, 2016 - CSIRO Publishing
+… Reliable and computationally feasible prediction of wildland fire behaviour (eg rate of spread
+[… A literature review revealed no applications of POD to wildland fire modelling. This paper …
+Save
+
+Cite
+
+Cited by 22
+
+Related articles
+
+All 6 versions
+
+Firemap: A dynamic data-driven predictive wildfire modeling and visualization
+environment
+D Crawl, J Block, K Lin, I Altintas - Procedia Computer Science, 2017 - Elsevier
+… predict the behavior of the … simulation, prediction, and visualization of wildfire behavior.
+One goal of WIFIRE is to provide the tools to predict a more accurate rate of a spreading wildfire. …
+Save
+
+Cite
+
+Cited by 41
+
+Related articles
+
+Evaluating crown fire rate of spread predictions from physics-based models
+CM Hoffman, J Canfield, RR Linn, W Mell, CH Sieg… - Fire Technology, 2016 - Springer
+… a variety of wildland fire behavior questions, there is a need to assess model performance,
+especially in terms of crown fire behavior, to identify potential model errors and establish …
+Save
+
+Cite
+
+Cited by 122
+
+Related articles
+
+All 14 versions
+
+Estimating wildfire behavior and effects
+FA Albini - 1976 - books.google.com
+… those concerned with wildland fire behavior and effects. Although fire behavior prediction is
+by … Here we review some model uses and indicate the type of output needed and the general …
+Save
+
+Cite
+
+Cited by 1319
+
+Related articles
+
+All 10 versions
+
+Next day wildfire spread: A machine learning dataset to predict wildfire spreading from
+remote-sensing data
+F Huot, RL Hu, N Goyal, T Sankar… - IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+… Day Wildfire Spread” dataset, we train a deep learning model for fire spread prediction. Given
+a … Lampin, “A review of the main driving factors of forest fire ignition over Europe,” Environ. …
+Save
+
+Cite
+
+Cited by 129
+
+Related articles
+
+All 5 versions
+
+Using cellular automata to simulate wildfire propagation and to assist in fire
+management
+JG Freire, CC DaCamara - Natural hazards and earth system …, 2019 - nhess.copernicus.org
+… As mentioned in the introduction, we apply a CA model to a large and well-documented
+wildfire that occurred in July 2012 in the Tavira and São Brás de Alportel municipalities, located …
+Save
+
+Cite
+
+Cited by 102
+
+Related articles
+
+All 15 versions
+
+Parameter flexible wildfire prediction using machine learning techniques: Forward and
+inverse modelling
+S Cheng, Y Jin, SP Harrison, C Quilodrán-Casas… - Remote Sensing, 2022 - mdpi.com
+… observations; (ii) the forward fire prediction model once combined with ML approaches; (iii) …
+propagation using estimated/adjusted parameters. After ROM, we aim to learn the dynamics …
+Save
+
+Cite
+
+Cited by 57
+
+Related articles
+
+All 14 versions
+
+Empirical-based models for predicting head-fire rate of spread in Australian fuel types
+MG Cruz, JS Gould, ME Alexander, AL Sullivan… - Australian …, 2015 - Taylor & Francis
+… of each model of head-fire rate of spread and their … -fire rate of spread described in this
+review are listed in Table … In presenting the various bushfire rate of spread models used in …
+Save
+
+Cite
+
+Cited by 119
+
+Related articles
+
+All 5 versions
+
+https://scholar.google.com/scholar?start=100&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:18 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+A two-dimensional reaction-advection-diffusion model of the spread of fire in wildlands
+P Grasso, M Innocente - Advances in Forest Fire …, 2018 - pureportal.coventry.ac.uk
+… The aim of this research is to model the spread of forest fire efficiently in order to support
+the design of innovative fire management and suppression technologies and strategies, while …
+Save
+
+Cite
+
+Cited by 16
+
+Related articles
+
+All 2 versions
+
+Stochastic modelling of wildfire spread
+S Masoudian - 2024 - search.proquest.com
+… review - This chapter provides an overview of the mathematical modeling of wildfire spread
+… and another generated using the Wildfire Dynamic Simulator (wfds) simulation. The aim is to …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 2 versions
+
+https://scholar.google.com/scholar?start=100&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:18 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Predicting fire spread and behaviour on the fireline. Wildfire analyst pocket: A mobile app
+for wildland fire prediction
+S Monedero, J Ramirez, A Cardil - Ecological Modelling, 2019 - Elsevier
+… at providing real-time analysis of wildfire behaviour and spread in order to support real-… of
+spread, flame length, fireline intensity, crown fire potential, among others) for each simulation …
+Save
+
+Cite
+
+Cited by 72
+
+Related articles
+
+All 6 versions
+
+Assessing WildfireGPT: a comparative analysis of AI models for quantitative wildfire
+spread prediction
+M Ramesh, Z Sun, Y Li, L Zhang, SK Annam, H Fang… - Natural Hazards, 2025 - Springer
+… for wildfire forecasting, focusing on its limitations in quantitative predicting Fire Radiative
+Power (FRP) spread and comparing its performance with a specialized predictive model based …
+Save
+
+Cite
+
+Cited by 2
+
+Related articles
+
+All 3 versions
+
+Developing the US wildland fire decision support system
+EK Noonan-Wright, TS Opperman… - Journal of …, 2011 - Wiley Online Library
+… WFDSS accesses national weather data and forecasts, fire behavior prediction, economic
+… The objective of this paper is to review the US Wildland Fire Decision Support System. We …
+Save
+
+Cite
+
+Cited by 179
+
+Related articles
+
+All 8 versions
+
+Global pyrogeography: the current and future distribution of wildfire
+MA Krawchuk, MA Moritz, MA Parisien, J Van Dorn… - PloS one, 2009 - journals.plos.org
+… fire in research on global vegetation-climate change dynamics and conservation planning. …
+we built our wildfire occurrence models from the GFDL CM2.1 historical simulation data, from …
+Save
+
+Cite
+
+Cited by 1133
+
+Related articles
+
+All 25 versions
+
+Review of formal methodologies for wind–slope correction of wildfire rate of spread
+JJ Sharples - International Journal of Wildland Fire, 2008 - CSIRO Publishing
+… to compare the quality of prediction of various fire spread models incorporating wind and …
+a detailed review of the formal wind–slope correction methods used in a suite of fire spread …
+Save
+
+Cite
+
+Cited by 82
+
+Related articles
+
+All 11 versions
+
+Wildfirespreadts: A dataset of multi-modal time series for wildfire spread prediction
+S Gerard, Y Zhao, J Sullivan - Advances in Neural …, 2023 - proceedings.neurips.cc
+… of a wildfire. The only dataset we are aware of that represents wildfire spread predictions at
+a … In section 3, we describe related work in the field of wildfire spread prediction. We apply …
+Save
+
+Cite
+
+Cited by 25
+
+Related articles
+
+All 4 versions
+
+Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models
+and Traditional Deep Learning
+H Xu, S Zlatanova, R Liang, I Canbulat - arXiv preprint arXiv:2506.02485, 2025 - arxiv.org
+… apply generative AI models to wildfire spread prediction, discussing the underlying rationale
+… review of studies applying generative AI to wildfire prediction, highlighting their strengths for …
+Save
+
+Cite
+
+Related articles
+
+All 2 versions
+
+Prediction of forest fire spread rate using UAV images and an LSTM model considering
+the interaction between fire and wind
+X Li, H Gao, M Zhang, S Zhang, Z Gao, J Liu, S Sun… - Remote Sensing, 2021 - mdpi.com
+… new neural network model to predict the spread rate of the forest fire. In … forest fire spread
+speed can be predicted more accurately if the wind speed is considered in the prediction model…
+Save
+
+Cite
+
+Cited by 34
+
+Related articles
+
+All 8 versions
+
+https://scholar.google.com/scholar?start=110&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:18 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+FireCast: Leveraging Deep Learning to Predict Wildfire Spread.
+D Radke, A Hessler, D Ellsworth - IJCAI, 2019 - ijcai.org
+… areas surrounding a burning wildfire have high-risk of near-future wildfire spread, based on
+historical … to a random prediction model and a commonly used wildfire spread model, Farsite, …
+Save
+
+Cite
+
+Cited by 159
+
+Related articles
+
+All 4 versions
+
+Tamm review: The effects of prescribed fire on wildfire regimes and impacts: A framework
+for comparison
+ME Hunter, MD Robles - Forest Ecology and Management, 2020 - Elsevier
+… wildfire regimes, and their associated ecological and societal effects, focusing specifically
+on simulation modeling studies that consider wildfire … ecosystem carbon dynamics are much …
+Save
+
+Cite
+
+Cited by 105
+
+Related articles
+
+All 10 versions
+
+https://scholar.google.com/scholar?start=110&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:19 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Large forest fire spread prediction: data and computational science
+T Artés, A Cortés, T Margalef - Procedia Computer Science, 2016 - Elsevier
+… Therefore, a model must be introduced to estimate the wind along the terrain. … the prediction
+model works when coupling both models wind field model and forest fire propagation model. …
+Save
+
+Cite
+
+Cited by 15
+
+Related articles
+
+All 6 versions
+
+Modeling forest fire spread using machine learning-based cellular automata in a GIS
+environment
+Y Xu, D Li, H Ma, R Lin, F Zhang - Forests, 2022 - mdpi.com
+… In this paper, we propose a machine learning-based forest fire spread model in which the
+traditional cellular automata framework is combined with LSSVM (least squares support vector …
+Save
+
+Cite
+
+Cited by 30
+
+Related articles
+
+All 6 versions
+
+Atmospheric turbulence and wildland fires: a review
+WE Heilman - International journal of wildland fire, 2023 - CSIRO Publishing
+… Palmer also presented a conceptual model to explain a spiralling turbulent twin-vortex …
+high-resolution simulations of ABL turbulence dynamics during wildland fire events are needed to …
+Save
+
+Cite
+
+Cited by 12
+
+Related articles
+
+All 8 versions
+
+A simulation of probabilistic wildfire risk components for the continental United States
+MA Finney, CW McHugh, IC Grenfell, KL Riley… - … Research and Risk …, 2011 - Springer
+… To make the fire growth simulation efficient, fire behavior for the entire landscape was pre-processed
+for all combinations of moisture (three percentile categories: 80th, 90th, and 97th …
+Save
+
+Cite
+
+Cited by 487
+
+Related articles
+
+All 23 versions
+
+Advancements in forest fire prevention: A comprehensive survey
+F Carta, C Zidda, M Putzu, D Loru, M Anedda, D Giusto - Sensors, 2023 - mdpi.com
+… [118] introduced a wildfire spread model implementing an … fire simulation models were
+conducted on a real wildfire in Getty, California, USA. The results demonstrate that the IGN model …
+Save
+
+Cite
+
+Cited by 123
+
+Related articles
+
+All 12 versions
+
+Adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of
+sprinkler systems
+J Kim, J Ahn, J Kang - Fire Ecology, 2024 - Springer
+… of a comprehensive CFD model in mitigating wildfire spread using sprinkler systems as an …
+in wildfire within 10 h of ignition, significant influence of wind speed on spread patterns, and a …
+Save
+
+Cite
+
+Cited by 5
+
+Related articles
+
+All 8 versions
+
+Comparing Accuracy of Wildfire Spread Prediction Models under Different Data
+Deficiency Conditions
+J Zhou, W Jiang, F Wang, Y Qiao, Q Meng - Fire, 2024 - mdpi.com
+… the prediction accuracy of existing wildfire spread models and … behavior yet identified. This
+study aims to simulate the impact of data scarcity on the accuracy of wildfire spread prediction …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 4 versions
+
+… data-driven simulations of wildfire spread–Part I: Reduced-cost Ensemble Kalman
+Filter based on a Polynomial Chaos surrogate model for parameter estimation
+MC Rochoux, S Ricci, D Lucor… - Natural Hazards and …, 2014 - nhess.copernicus.org
+… fire spread model; FIREFLY could readily be replaced by any other front-tracking wildfire
+spread simulator, for instance FARSITE, FOREFIRE, PROMETHEUS or PHOENIX RapidFire. …
+Save
+
+Cite
+
+Cited by 129
+
+Related articles
+
+All 16 versions
+
+https://scholar.google.com/scholar?start=120&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:19 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Simulating wildfire spread based on continuous time series remote sensing images and
+cellular automata
+H Zhuang, N Liu, X Xie, X Xu, M Li… - … of Wildland Fire, 2025 - CSIRO Publishing
+… CA model is proposed to accurately simulate wildfire spread … a simulation system for predicting
+wildfire propagation that … to this paper during the peer review process. All authors hereby …
+Save
+
+Cite
+
+Related articles
+
+All 2 versions
+
+Review of wildfire management techniques—Part I: Causes, prevention, detection,
+suppression, and data analytics
+S Jazebi, F De Leon, A Nelson - IEEE Transactions on Power …, 2019 - ieeexplore.ieee.org
+… in consecutive frames over time for remote monitoring of wildfire spread. In [45], a … forest
+fire with low consumption of energy. The fire spread model in [46] can produce fire propagation …
+Save
+
+Cite
+
+Cited by 140
+
+Related articles
+
+All 2 versions
+
+https://scholar.google.com/scholar?start=120&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Integrating wildfire spread and evacuation times to design safe triggers: Application to
+two rural communities using PERIL model
+H Mitchell, S Gwynne, E Ronchi, N Kalogeropoulos… - Safety science, 2023 - Elsevier
+… the wildfire indicate it is time to evacuate. Triggers are often arbitrarily defined via identifiable
+landmarks, do not include a safety factor, and do not account for fire spread … of wildfire and …
+Save
+
+Cite
+
+Cited by 25
+
+Related articles
+
+All 7 versions
+
+The importance of fire–atmosphere coupling and boundary-layer turbulence to wildfire
+spread
+R Sun, SK Krueger, MA Jenkins… - … of Wildland Fire, 2009 - CSIRO Publishing
+… The major source of uncertainty in wildfire behavior prediction is the transient behavior of
+wildfire due … The coupled wildfire–atmosphere model used in the present study is limited by the …
+Save
+
+Cite
+
+Cited by 134
+
+Related articles
+
+All 8 versions
+
+Review of wildfire modeling considering effects on land surfaces
+D Or, E Furtak-Cole, M Berli, R Shillito… - Earth-Science …, 2023 - Elsevier
+… review are: (1) to introduce hydrologists, soil scientists and ecologists to principles and advances
+in modeling of wildfire dynamics and rates of spread … large eddy simulation models. We …
+Save
+
+Cite
+
+Cited by 40
+
+Related articles
+
+All 3 versions
+
+Review of Wildfire Detection, Fighting, and Technologies: Future Prospects and Insights
+NM Negash, L Sun, C Fan, D Shi, F Wang - AIAA AVIATION FORUM …, 2025 - arc.aiaa.org
+… management tasks depicted in the framework include fire detection, wildfire segmentation,
+spread prediction, and risk assessment, aligning with the capabilities commonly emphasized …
+Save
+
+Cite
+
+Related articles
+
+Wildland fire prevention: a review
+H Hesseln - Current Forestry Reports, 2018 - Springer
+… behavior and factors that will lead to enhanced wildfire … methods to model the likelihood
+of wildfire including those … spatio-temporal dimensions and model outputs. Their findings …
+Save
+
+Cite
+
+Cited by 78
+
+Related articles
+
+All 4 versions
+
+Coupling wind dynamics into a DDDAS forest fire propagation prediction system
+C Brun, T Artées, T Margalef, A Cortées - Procedia Computer Science, 2012 - Elsevier
+… prediction quality improvements when coupling forest fire spread model with weather forecast
+… Rothermel fire propagation model[14], has been used as forest fire spread simulator and, …
+Save
+
+Cite
+
+Cited by 34
+
+Related articles
+
+All 6 versions
+
+The distributed strategy for asynchronous observations in data-driven wildland fire
+spread prediction
+M Zha, Z Wang, J Ji, J Zhu - International Journal of Wildland Fire, 2024 - CSIRO Publishing
+… as the basic fire propagation model, which is widely used for wildfire prediction. Real terrain,
+fuel … the prediction. Fuel adjustment factors and wind parameters were randomly generated. …
+Save
+
+Cite
+
+Cited by 5
+
+Related articles
+
+All 3 versions
+
+DEVS-FIRE: design and application of formal discrete event wildfire spread and
+suppression models
+X Hu, Y Sun, L Ntaimo - Simulation, 2012 - journals.sagepub.com
+… simulation model and uses spatial fire behavior input data on topography and the Canadian
+forest fire behavior prediction (… to modeling the spread of wildland fire: A review. Prog Phys …
+Save
+
+Cite
+
+Cited by 84
+
+Related articles
+
+All 5 versions
+
+https://scholar.google.com/scholar?start=130&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Wildfire spread modeling with aerial image processing
+Q Huang, A Razi, F Afghah… - 2020 IEEE 21st …, 2020 - ieeexplore.ieee.org
+… We evaluate the fire propagation model by comparing the results with the … modified and
+complements the Rothermel’s model, we first review this model, and then mention how we …
+Save
+
+Cite
+
+Cited by 30
+
+Related articles
+
+All 3 versions
+
+Wildfire Models–Concise Review
+KRA Pillai, YEAD Sultan - International Journal of Innovative …, 2023 - researchgate.net
+… of wildfire modeling is to understand and forecast fire behavior using numerical simulation
+… Past models of wildfire spread have included basic ellipses, egg- and fan-shaped models, …
+Save
+
+Cite
+
+Cited by 2
+
+Related articles
+
+https://scholar.google.com/scholar?start=130&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Wildfire behaviour and danger ratings
+E Planas, E Pastor - Fire phenomena and the Earth system: an …, 2013 - Wiley Online Library
+… the evolution and dynamics of a wildfire, namely the way fire … prediction systems (eg, see
+Chapter 3 for a historical review). … and referenced wildland fire behaviour model ever developed…
+Save
+
+Cite
+
+Cited by 13
+
+Related articles
+
+All 2 versions
+
+Towards data-driven operational wildfire spread modeling: A report of the NSF-funded
+WIFIRE workshop
+M Gollner, A Trouve, I Altintas, J Block, R de Callafon… - 2015 - drum.lib.umd.edu
+… -empirical rate-of-spread wildfire model. Simulations with ABL … -spread wildfire model operates
+on a separate surface model … , our review will restrict itself to experiments focused on fire …
+Save
+
+Cite
+
+Cited by 27
+
+Related articles
+
+All 7 versions
+
+Generative algorithms for fusion of physics-based wildfire spread models with satellite
+data for initializing wildfire forecasts
+B Shaddy, D Ray, A Farguell, V Calaza… - … Intelligence for the …, 2024 - journals.ametsoc.org
+… Mandel, 2018: Assimilation of fire perimeters and satellite detections by minimization of
+the residual in a fire spread model. Computational Science–ICCS 2018, Y. Shi et al., Eds., …
+Save
+
+Cite
+
+Cited by 8
+
+Related articles
+
+All 5 versions
+
+Towards predictive simulation of wildfire spread at regional scale using ensemble-based
+data assimilation to correct the fire front position
+MC Rochoux, C Emery, S Ricci, B Cuenot… - Fire Safety …, 2014 - publications.iafss.org
+… The prototype simulation capability is then evaluated in a validation test corresponding to a
+… providing an optimized forecast of the wildfire behavior. KEYWORDS: wildfire, fire modeling, …
+Save
+
+Cite
+
+Cited by 23
+
+Related articles
+
+All 8 versions
+
+Operational Forest-Fire spread forecasting using the WRF-SFIRE model
+MP Kale, SS Meher, M Chavan, V Kumar, MA Sultan… - Remote Sensing, 2024 - mdpi.com
+… -source WRF-SFIRE model has been used to carry out surface forest fire spread forecasting
+in the … Global forecast system (GFS)-based hourly forecasted weather model data obtained …
+Save
+
+Cite
+
+Cited by 6
+
+Related articles
+
+All 5 versions
+
+Adaptive forest fire spread simulation algorithm based on cellular automata
+L Sun, C Xu, Y He, Y Zhao, Y Xu, X Rui, H Xu - Forests, 2021 - mdpi.com
+… automata with a fixed time step to simulate forest fire spread may be limited in its ability to …
+with an existing forest fire model to construct an improved forest fire spread model, which …
+Save
+
+Cite
+
+Cited by 32
+
+Related articles
+
+All 6 versions
+
+Attention-based wildland fire spread modeling using fire-tracking satellite observations
+Y Zou, M Sadeghi, Y Liu, A Puchko, S Le, Y Chen… - Fire, 2023 - mdpi.com
+… Physics-based fire models, as outlined in the referenced review paper [13], are based on …
+We used model input settings in our CNN fire spread models that were similar to the …
+Save
+
+Cite
+
+Cited by 10
+
+Related articles
+
+All 9 versions
+
+Fifty years of progress in wildland fire modelling: from empirical to fully physical CFD
+models
+D Morvan, G Accary, S Meradji… - Comptes …, 2022 - comptes-rendus.academie-sciences …
+… The aim of this short review is to present the progress made in wildland fire modelling …
+model [18–20]. For operational applications, requiring the simulation of wildfire propagation at a …
+Save
+
+Cite
+
+Cited by 8
+
+Related articles
+
+All 10 versions
+
+https://scholar.google.com/scholar?start=140&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Comparison of Different Models to Simulate Forest Fire Spread: A Case Study
+J Ning, H Liu, W Yu, J Deng, L Sun, G Yang, M Wang… - Forests, 2024 - mdpi.com
+… forest fire spread model … model to predict forest fire spread by using FIRER in a specific
+forest ecosystem. The ecological significance of FIRER is that by using it for fire spread prediction…
+Save
+
+Cite
+
+Cited by 8
+
+Related articles
+
+All 4 versions
+
+Development of a model system to predict wildfire behaviour in pine plantations
+MG Cruz, ME Alexander, PAM Fernandes - Australian Forestry, 2008 - Taylor & Francis
+… occasional sustained crown fire propagation in denser stands. … 7 wildfire propagated mostly
+as a surface fire with periodic … of a model system aimed at predicting the rate of spread and …
+Save
+
+Cite
+
+Cited by 98
+
+Related articles
+
+All 14 versions
+
+https://scholar.google.com/scholar?start=140&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Navigating the evolving landscape of wildfire management: A systematic review of
+decision support tools
+T O'Mara, AS Meador, M Colavito, A Waltz… - Trees, Forests and …, 2024 - Elsevier
+… to explore the landscape of decision support tools (DSTs) for wildfire management, … review
+led us to group decision support tools into categories for all DSTs, such as, Fire Behavior …
+Save
+
+Cite
+
+Cited by 9
+
+Related articles
+
+All 3 versions
+
+Analysis of wildfire visualization systems for research and training: are they up for the
+challenge of the current state of wildfires?
+CAT Cortes, S Thurow, A Ong… - IEEE transactions on …, 2023 - ieeexplore.ieee.org
+… , this survey reviews various studies that use immersive and non-immersive data visualization
+techniques to depict wildfire behavior and … conditions on simulation of wildfire spread,” …
+Save
+
+Cite
+
+Cited by 11
+
+Related articles
+
+All 8 versions
+
+Studying wildfire behavior using FIRETEC
+R Linn, J Reisner, JJ Colman… - … journal of wildland fire, 2002 - CSIRO Publishing
+… capacity for a physics-based model capable of describing wildfire behavior in a wide variety
+of circumstances. We believe that a three-dimensional wildfire model of this type could help …
+Save
+
+Cite
+
+Cited by 563
+
+Related articles
+
+All 5 versions
+
+Toward a comprehensive wildfire spread model
+RO Weber - International Journal of Wildland Fire, 1991 - CSIRO Publishing
+… It is hoped that the presented ideas will stimulate discussion on the likely viability of a future
+comprehensive physical model of wildfire spread. This author believes the simple models …
+Save
+
+Cite
+
+Cited by 101
+
+Related articles
+
+All 3 versions
+
+Role of flow topology in wind-driven wildfire propagation
+S Viknesh, A Tohidi, F Afghah, R Stoll, A Arzani - Physics of Fluids, 2025 - pubs.aip.org
+… In a comprehensive review, Sullivan (2009a) detailed the development of physics-based …
+Gaining such fundamental insights is crucial, as it enables the prediction of wildfire spread …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 4 versions
+
+Modeling wildfire spread with an irregular graph network
+W Jiang, F Wang, G Su, X Li, G Wang, X Zheng… - Fire, 2022 - mdpi.com
+… In this paper, we propose a wildfire spread model with an irregular graph … wildfire spread
+model with an irregular graph network (IGN) to simulate and analyze the spatiotemporal spread …
+Save
+
+Cite
+
+Cited by 23
+
+Related articles
+
+All 7 versions
+
+Forest fire management and fire suppression strategies: a systematic literature review
+B Tezcan, T Eren - Natural Hazards, 2025 - Springer
+… and preventing the spread of fires. The combination of simulation and optimization
+techniques … This study provides a comprehensive review of mathematical models for forest fire …
+Save
+
+Cite
+
+Cited by 6
+
+Related articles
+
+All 6 versions
+
+Forecasting daily wildfire activity using poisson regression
+CA Graff, SR Coffield, Y Chen… - … on Geoscience and …, 2020 - ieeexplore.ieee.org
+… We find that an intercept-only prediction model can capture this expected behavior and that
+predicting this overall mean trend alone is sufficient to improve on the predictive accuracy of …
+Save
+
+Cite
+
+Cited by 47
+
+Related articles
+
+All 7 versions
+
+https://scholar.google.com/scholar?start=150&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Data-driven wildfire spread modeling of european wildfires using a spatiotemporal graph
+neural network
+M Rösch, M Nolde, T Ullmann, T Riedlinger - Fire, 2024 - mdpi.com
+… yet applied STGNNs to model the daily wildfire spread on a … DL-based wildfire spread model
+to predict the daily spread of … uses a STGNN to model the wildfire spread for the first time. …
+Save
+
+Cite
+
+Cited by 13
+
+Related articles
+
+All 6 versions
+
+Climate change impact on future wildfire danger and activity in southern Europe: a
+review
+J Dupuy, H Fargeon, N Martin-StPaul, F Pimont… - Annals of Forest …, 2020 - Springer
+… moisture, which in turn conditions fire spread in the fire module. Both LPJ-… spread in SPITFIRE,
+while the maximum daily Nesterov index is used to calibrate the annual burnt area model …
+Save
+
+Cite
+
+Cited by 385
+
+Related articles
+
+All 20 versions
+
+https://scholar.google.com/scholar?start=150&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Review of vortices in wildland fire
+JM Forthofer, SL Goodrick - Journal of Combustion, 2011 - Wiley Online Library
+… fire behavior and safety concerns. In this paper, the current state of knowledge of the interaction
+of wildland fire … In this study a computer model of the atmospheric boundary layer was …
+Save
+
+Cite
+
+Cited by 135
+
+Related articles
+
+All 28 versions
+
+Wildfire likelihood's elements: a literature review
+M Mhawej, G Faour, J Adjizian-Gerard - Challenges, 2015 - mdpi.com
+… that affect the ignition of the wildfire, its initial spread and its free propagation). The first set
+of … generates various positive outcomes, particularly in terms of prediction, prevention and …
+Save
+
+Cite
+
+Cited by 47
+
+Related articles
+
+All 10 versions
+
+Guidance on spatial wildland fire analysis: models, tools, and techniques
+RD Stratton - 2006 - books.google.com
+… If the model has not been properly calibrated to local fires, how … , when fire behavior outputs
+have been critiqued and the model … Definition of a fire behavior model evaluation protocol: a …
+Save
+
+Cite
+
+Cited by 131
+
+Related articles
+
+All 6 versions
+
+Review and perspectives of digital twin systems for wildland fire management
+Y Li, T Zhang, Y Ding, R Wadhwani… - Journal of Forestry …, 2024 - Springer
+… wildfire prevention, monitoring, disaster response, and post-fire recovery. This review examines
+the potential utility of Digital Twin in wildfire … operation model to model the wildfire spread …
+Save
+
+Cite
+
+Cited by 11
+
+Related articles
+
+All 7 versions
+
+Modeling vorticity-driven wildfire behavior using near-field techniques
+JJ Sharples, JE Hilton - Frontiers in Mechanical Engineering, 2020 - frontiersin.org
+… An example simulation using the pyrogenic vector potential coupled to a wildfire spread
+simulation is shown in Figure 2 with s c = 0.5 and s w = 0.5 in Equation (8). These constants …
+Save
+
+Cite
+
+Cited by 19
+
+Related articles
+
+All 2 versions
+
+Wildfire autonomous response and prediction using cellular automata (WARP-CA)
+A Ramadan - arXiv preprint arXiv:2407.02613, 2024 - arxiv.org
+… realism in simulating wildfire dynamics [8, 16, 28]. Our literature review uncovered a lack of
+… generating heterogeneous terrain in forest fire dynamics simulation. The mathematical basis …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 2 versions
+
+Methods for Wildfire Spread Prediction and Their Integration with Remote Sensing Data
+SA Khvostikov, SA Bartalev - Inf. Technol. Remote Sens. Earth …, 2019 - academia.edu
+… short review article presents description of a field of wildfire … just-in-time wildfire danger
+prediction system. Also in last 10 years … wildfire models, which leads to better estimation of wildfire …
+Save
+
+Cite
+
+Cited by 2
+
+Related articles
+
+All 4 versions
+
+Convolutional LSTM neural networks for modeling wildland fire dynamics
+J Burge, M Bonanni, M Ihme, L Hu - arXiv preprint arXiv:2012.06679, 2020 - arxiv.org
+… Here, we seek to use ML alone to explicitly model wildland fire spread dynamics based
+solely on data. In effect, ML in this context represents the development of an empirical …
+Save
+
+Cite
+
+Cited by 33
+
+Related articles
+
+All 3 versions
+
+Wildfire propagation simulation tool using cellular automata and GIS
+W Velasquez, A Munoz-Arcentales… - 2019 International …, 2019 - ieeexplore.ieee.org
+… Wildfire Propagation Simulation tool able to present graphically, how the fire will be propagated
+in case of a wildfire… Calkin in ”Uncertainty and risk in Wildland fire management: A review…
+Save
+Cite Cited by 11 Related articles All 3 versions
+
+https://scholar.google.com/scholar?start=160&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:20 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Challenges and opportunities in remote sensing-based fuel load estimation for wildfire
+behavior and management: A comprehensive review
+A Abdollahi, M Yebra - Remote Sensing, 2025 - opus.lib.uts.edu.au
+… Most fire behavior prediction models, including BEHAVE, FlamMap, and FARSITE require
+a … and spread of surface fires [39,46]. Dead fuels play a pivotal role in wildfire prediction, …
+Save
+
+Cite
+
+Cited by 8
+
+Related articles
+
+All 7 versions
+
+https://scholar.google.com/scholar?start=160&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Wildfire mitigation plans in power systems: A literature review
+DAZ Vazquez, F Qiu, N Fan… - IEEE Transactions on …, 2022 - ieeexplore.ieee.org
+… development of wildfire spread simulations crucial. Energy companies use wildfire spread
+simulation in … The wildfire spread simulation results are used as inputs to define the risk event …
+Save
+
+Cite
+
+Cited by 78
+
+Related articles
+
+All 4 versions
+
+Near real-time extracting wildfire spread rate from Himawari-8 satellite data
+X Liu, B He, X Quan, M Yebra, S Qiu, C Yin, Z Liao… - Remote Sensing, 2018 - mdpi.com
+… These methods can be divided into two categories: traditional (eg, laboratory or field
+observation, fire spread model estimation) and remotely sensing based methods (eg, extraction …
+Save
+
+Cite
+
+Cited by 60
+
+Related articles
+
+All 10 versions
+
+Wildfire danger prediction and understanding with deep learning
+S Kondylatos, I Prapas, M Ronco… - Geophysical …, 2022 - Wiley Online Library
+… are of pivotal importance in modeling wildfire dynamics. To test the generalization robustness,
+… the occurrence and spread of wildfires and examine their temporal contribution decisions. …
+Save
+
+Cite
+
+Cited by 124
+
+Related articles
+
+All 13 versions
+
+Forest fire spread simulation algorithm based on cellular automata
+X Rui, S Hui, X Yu, G Zhang, B Wu - Natural hazards, 2018 - Springer
+… of time step on the simulation of forest fire spread, we set the forest fire spread speed to a
+constant. Taking a fire point as the initial fire source, the forest fire should spread into outward …
+Save
+
+Cite
+
+Cited by 69
+
+Related articles
+
+All 9 versions
+
+Turbulence and fire-spotting effects into wild-land fire simulators
+I Kaur, A Mentrelli, F Bosseur, JB Filippi… - … and Numerical Simulation, 2016 - Elsevier
+… method when applied to wild-land fire propagation. Simple … wildfire propagation model
+qualitatively improves its performance (eg, reproducing flank and back fire, increase in fire spread …
+Save
+
+Cite
+
+Cited by 48
+
+Related articles
+
+All 9 versions
+
+Dynamic data driven application system for wildfire spread simulation
+F Gu - 2010 - search.proquest.com
+… of wildfire spread simulations, we apply the concept of DDDAS to wildfire spread simulation
+by dynamically assimilating sensor data from real wildfires into the simulation model. …
+Save
+
+Cite
+
+Cited by 15
+
+Related articles
+
+All 5 versions
+
+Review of wildfire detection using social media
+V Slavkovikj, S Verstockt, S Van Hoecke… - Fire safety journal, 2014 - Elsevier
+… in the context of wildfire propagation. The authors evaluated … model map and used as a
+ground truth of the model forecast. … oil propagation model by correlating the model predictions …
+Save
+
+Cite
+
+Cited by 104
+
+Related articles
+
+All 8 versions
+
+Efficient simulation of wildfire spread on an irregular grid
+P Johnston, J Kelso, GJ Milne - … Journal of Wildland Fire, 2008 - CSIRO Publishing
+… simulation, which is a much more efficient computational method than conventional wildfire
+simulation … to parts of the fire whose dynamics change infrequently, namely those areas of a …
+Save
+
+Cite
+
+Cited by 94
+
+Related articles
+
+All 5 versions
+
+Predicting wildland fire behavior and emissions using a fine-scale physical model
+B Porterie, JL Consalvi, A Kaiss… - Numerical Heat Transfer …, 2005 - Taylor & Francis
+… The main purpose of this work is twofold: to describe fire behavior and to … model. Small-scale
+models, such as that presented in this article, may be used to quantify the impact of wildfire …
+Save
+Cite Cited by 68 Related articles All 8 versions
+
+https://scholar.google.com/scholar?start=170&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+A survey of machine learning algorithms based forest fires prediction and detection
+systems
+F Abid - Fire technology, 2021 - Springer
+… the behavior of the forest fire, ie, forecasting the fire spread evolution. The forest fire behavior
+prediction … In this study a model for wildfire ignition probabilities prediction was proposed. A …
+Save
+
+Cite
+
+Cited by 220
+
+Related articles
+
+All 5 versions
+
+https://scholar.google.com/scholar?start=170&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Advancements in Wildfire Prediction and Detection: A Systematic Review
+V Kolluru, AN Chintakunta, Y Nuthakki, S Koganti - 2022 - papers.ssrn.com
+… One big issue is the high degree of endliness of the factors that play a role in the behavior
+of fire or wildfire. Some factors influencing forest fires include weather conditions, physical …
+Save
+
+Cite
+
+Cited by 4
+
+Related articles
+
+All 3 versions
+
+Iterated local search for the placement of wildland fire suppression resources
+AB Mendes, FP e Alvelos - European Journal of Operational Research, 2023 - Elsevier
+… propagation times between adjacent nodes and use the minimum travel time principle to
+model the fire propagation … We also provide a categorised literature review on fire suppression …
+Save
+
+Cite
+
+Cited by 36
+
+Related articles
+
+All 5 versions
+
+A global fuel characteristic model and dataset for wildfire prediction
+JR McNorton, F Di Giuseppe - Biogeosciences, 2024 - bg.copernicus.org
+… The further development of a full fire risk and fire spread model requires consideration of
+ignition and spread based on meteorology and orography. Future modelling applications could …
+Save
+
+Cite
+
+Cited by 21
+
+Related articles
+
+All 6 versions
+
+A generic, empirical-based model for predicting rate of fire spread in shrublands
+WR Anderson, MG Cruz, PM Fernandes… - … of Wildland Fire, 2015 - CSIRO Publishing
+… prediction errors for the wildfire validation datasets had no bias; this is despite the wildfire
+datasets having average rates of spread almost double that of the model development sets. …
+Save
+
+Cite
+
+Cited by 204
+
+Related articles
+
+All 11 versions
+
+A review of approaches to estimate wildfire plume injection height within large-scale
+atmospheric chemical transport models
+R Paugam, M Wooster, S Freitas… - … Chemistry and Physics, 2016 - acp.copernicus.org
+… we cannot resolve the plume dynamics, parameterizations are … The aim of this manuscript
+is to review the different … of the Sofiev model against (i) the original version of the model, (ii) …
+Save
+
+Cite
+
+Cited by 182
+
+Related articles
+
+All 22 versions
+
+Using soil moisture information to better understand and predict wildfire danger: a review
+of recent developments and outstanding questions
+ES Krueger, MR Levi, KO Achieng… - … of wildland fire, 2022 - CSIRO Publishing
+… model compared to a similar model without soil moisture data. … of the wildfire (eg rate of
+spread and fire intensity). … components describing the wildfire danger: Spread Component, …
+Save
+
+Cite
+
+Cited by 58
+
+Related articles
+
+All 12 versions
+
+Using IoT and ML for forest fire detection, monitoring, and prediction: a literature review
+M Grari, M Yandouzi, I Idrissi… - Journal of Theoretical …, 2022 - researchgate.net
+… Dry vegetation fuels a wildfire's rapid ignition and spread. It … or to anticipate it, because they
+spread rapidly. Early-warning … DL to detect wildfires and their spread via a comprehensive …
+Save
+
+Cite
+
+Cited by 48
+
+Related articles
+
+All 2 versions
+
+Fuzzy boundaries: Simulation and expertise in bushfire prediction
+T Neale, D May - Social Studies of Science, 2020 - journals.sagepub.com
+… ’ prediction (see Figure 3), is produced using a computer-based bushfire spread simulator. …
+agencies to protect themselves from ‘post-incident review and judgment, analysis, litigation, …
+Save
+
+Cite
+
+Cited by 28
+
+Related articles
+
+All 9 versions
+
+https://scholar.google.com/scholar?start=180&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Using spatial reinforcement learning to build forest wildfire dynamics models from
+satellite images
+S Ganapathi Subramanian, M Crowley - Frontiers in ICT, 2018 - frontiersin.org
+… we learn a dynamics model from readily available satellite image data and treating wildfire
+as an … This review demonstrates that while various classical AI and ML techniques have been …
+Save
+
+Cite
+
+Cited by 70
+
+Related articles
+
+All 3 versions
+
+Visualization of prediction methods for wildfire modeling using CiteSpace: a bibliometric
+analysis
+M Pan, S Zhang - Atmosphere, 2023 - mdpi.com
+… It highlights the dominant areas of research, including climate change, fire behavior, … field
+of wildfire prediction. It facilitated a systematic review of the wildfire prediction domain through …
+Save
+
+Cite
+
+Cited by 12
+
+Related articles
+
+All 4 versions
+
+https://scholar.google.com/scholar?start=180&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Wildfire management in Canada: Review, challenges and opportunities
+C Tymstra, BJ Stocks, X Cai, MD Flannigan - Progress in Disaster Science, 2020 - Elsevier
+… We conclude with a proposed future path for wildfire management in Canada. To co-exist
+with wildfire, agencies in Canada must also strengthen and adjust their wildfire management …
+Save
+
+Cite
+
+Cited by 332
+
+Related articles
+
+All 6 versions
+
+RETRACTED ARTICLE: Shapley-based interpretation of deep learning models for wildfire
+spread rate prediction
+F Qayyum, NA Samee, M Alabdulhafith, A Aziz… - Fire Ecology, 2024 - Springer
+… of wildfire spread rate prediction. … wildfire prediction model. As mentioned earlier, the
+original dataset consisted of 238 instances, which was considered inadequate for effective model …
+Save
+
+Cite
+
+Cited by 9
+
+Related articles
+
+All 14 versions
+
+Review of the Forest fire model for high explosives
+R Menikoff, MS Shaw - Combustion Theory and Modelling, 2008 - Taylor & Francis
+… propagation of detonation waves in solid high explosives. Here we … review the assumptions
+of the model. In analogy with Whitham–Chisnell shock dynamics, we derive the Forest fire …
+Save
+
+Cite
+
+Cited by 27
+
+Related articles
+
+All 5 versions
+
+Analysis of evacuation behavior in a wildfire event
+T Toledo, I Marom, E Grimberg, S Bekhor - International journal of disaster …, 2018 - Elsevier
+… A large-scale wildfire took place in Haifa on November 24, 2016. On that day, starting at
+around … Shortly after the fire events, a web survey was developed and administered in order to …
+Save
+
+Cite
+
+Cited by 141
+
+Related articles
+
+All 5 versions
+
+Wildfire spread prediction using attention mechanisms in u2-net
+H Xiao, Y Zhu, Y Sun, G Zhang, Z Gong - Forests, 2024 - mdpi.com
+… We categorize this wildfire spread prediction task as a semantic segmentation problem in
+image segmentation, where each region is predicted to contain a fire or not based on the …
+Save
+
+Cite
+
+Cited by 3
+
+Related articles
+
+All 4 versions
+
+Detecting critical nodes in forest landscape networks to reduce wildfire spread
+D Yemshanov, N Liu, DK Thompson, MA Parisien… - PloS one, 2021 - journals.plos.org
+… to plan wildfire fuel treatments that minimize the risk of fire spread in … simulation modeling
+to estimate the probability of fire spread … A review of operational research studies in forest fire …
+Save
+
+Cite
+
+Cited by 20
+
+Related articles
+
+All 10 versions
+
+An uncertainty analysis of wildfire modeling
+K Riley, M Thompson - Natural Hazard Uncertainty Assessment …, 2016 - Wiley Online Library
+… To provide background, we review a simple conceptual model of the major factors that …
+We focus principally on simulation models that implement fire spread in a geospatial context …
+Save
+
+Cite
+
+Cited by 36
+
+Related articles
+
+All 9 versions
+
+A control-theoretic spatio-temporal model for wildfire smoke propagation using UAVbased air pollutant measurements
+P Ragbir, A Kaduwela, X Lan, A Watts, Z Kong - Drones, 2024 - mdpi.com
+… Wildfire remote sensing with UAVs: A review from the autonomy point of view. In Proceedings
+of the 2020 International Conference on Unmanned Aircraft Systems (ICUAS), Athens, …
+Save
+
+Cite
+
+Cited by 3
+
+Related articles
+
+All 4 versions
+
+https://scholar.google.com/scholar?start=190&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+1/2
+
+9/5/25, 9:21 PM
+
+(survey OR review) AND (wildfire OR “wild fire”... - Google Scholar
+
+Modeling wildfire incident complexity dynamics
+MP Thompson - PloS one, 2013 - journals.plos.org
+… Figure 3 presents a conceptual representation of a first-order Markov chain model of incident
+complexity dynamics. To simplify the presentation here only three states are used (H = high…
+Save
+
+Cite
+
+Cited by 30
+
+Related articles
+
+All 16 versions
+
+Wildfire Spread Prediction Through Remote Sensing and UAV Imagery-Driven Machine
+Learning Models
+MR Mohebbi, EW Sena, M Döller… - 2024 18th International …, 2024 - ieeexplore.ieee.org
+… and mitigate wildfire effects using these datasets. This article presents a comprehensive
+review of how the utilization of limited UAVs image datasets affects applications in fire trajectory …
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 2 versions
+
+https://scholar.google.com/scholar?start=190&q=(survey+OR+review)+AND+(wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+…
+
+2/2
+
+

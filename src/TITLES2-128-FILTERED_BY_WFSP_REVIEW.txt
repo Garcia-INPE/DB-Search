@@ -1,0 +1,130 @@
+# Otherwise: WFR, WFD, Not_WFSP_review
+is_review?;is_downloaded?1=yes,0=Not_a_review,?=asked,??=to_be_asked,B=Book,NA=Not_Acessable;1=In,otherwise=Out;title
+1;1;a comparative review on wildfire simulators
+1;1;a comparative study of a deep reinforcement learning solution and alternative deep learning models for wildfire prediction
+1;?;a comparative study on forest fire prediction using arima, sarima, lstm, and gru methods
+1;1;a comprehensive comparison study of traditional classifiers and deep neural networks for forest fire detection
+1;1;a comprehensive review of empirical and dynamic wildfire simulators and machine learning techniques used for the prediction of wildfire in australia
+1;1;a comprehensive survey of the machine learning pipeline for wildfire risk prediction and assessment
+1;1;a comprehensive taxonomy for forest fire risk assessment: bridging methodological gaps and proposing future directions
+1;1;a focused review on wildfire evacuation and infrastructure resilience in canada: trends and insights (2013-2023)
+1;1;a perspective and survey on the implementation and uptake of tools to support decision-making in canadian wildland fire management
+1;1;a recent review of fire behavior and fire effects on native vegetation in central chile
+1;1;a review of challenges to determining and demonstrating efficiency of large fire management
+1;1;a review of genetic algorithm approaches for wildfire spread prediction calibration
+1;1;a review of machine learning applications in wildfire science and management
+1;1;a review of pathways for building fire spread in the wildland urban interface part ii: response of components and systems and mitigation strategies in the united states
+1;NA;a review of recent advances in risk analysis for wildfire management
+1;1;a review of recent forest and wildland fire management decision support systems research
+1;1;a review of wildland fire spread modelling, 1990-present 1: physical and quasi-physical models
+1;1;a review of wildland fire spread modelling, 1990-present 2: empirical and quasi-empirical models
+1;1;a review of wildland fire spread modelling, 1990-present 3: mathematical analogues and simulation models
+1;?;a review on forest fire detection and monitoring systems
+1;1;a review on status, implications and recent trends of forest fire management
+1;1;a survey of machine learning algorithms based forest fires prediction and detection systems
+1;?;a survey on systematic approaches in managing forest fires
+1;1;a systematic review and bibliometric analysis of wildland fire behavior modeling
+1;1;a systematic review of applications of machine learning techniques for wildfire management decision support
+1;1;a systematic review of models for fire spread in wildfires by spotting
+1;1;advancements in artificial intelligence applications for forest fire prediction
+1;1;WFD;advancements in fire detection: a review of computer vision and deep learning approaches
+1;1;advancements in wildfire detection and prediction: an in-depth review
+1;1;advancements in wildfire prediction and detection: a systematic review
+1;1;advances in forest fire detection, prediction and behavior: a comprehensive survey
+1;1;advances in understanding and managing wildland fire: communicating wildland fire research to land-management practitioners
+1;B;advancing forest fire management practices: policies and strategies
+1;B;advancing forest fire management: innovations in technology and intervention strategies
+1;0;advancing forest fire prediction: a multi-layer stacking ensemble model approach
+1;?;advancing wildfire predictive models: a novel dataset for next-day wildfire spread
+1;1;ai for wildfire management: from prediction to detection, simulation, and impact analysis-bridging lab metrics and real-world validation
+1;1;an historical review of the simplified physical fire spread model phyfire: model and numerical methods
+1;1;analysing fire propagation models: a case study on farsite for prolonged wildfires
+1;1;analysis of evacuation behavior in a wildfire event
+1;1;application of deep learning in forest fire prediction: a systematic review
+1;1;applications of simulation-based burn probability modelling: a review
+1;??;assessing improvements in models used to operationally predict wildland fire rate of spread
+1;1;assessing wildfiregpt: a comparative analysis of ai models for quantitative wildfire spread prediction
+1;1;assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 maui fires
+1;??;automatic forest fire danger rating calibration: exploring clustering techniques for regionally customizable fire danger classification
+1;1;bushfire rate-of-spread forecasting: deterministic and statistical approaches to fire modelling
+1;1;bushfire simulators and analysis in australia: insights into an emerging sociotechnical practice
+1;1;cellular automata-based simulators for the design of prescribed fire plans: the case study of liguria, italy
+1;??;challenges in fire spread modeling-from bench scale up to wildfire scale
+1;??;chapter 5: wildland fire spread models
+1;1;combination four different ensemble algorithms with the generalized linear model (glm) for predicting forest fire susceptibility
+1;1;comparative analysis of wildfire simulation tools: discrepancies in rothermel model-based software under varying wind and slope conditions
+1;1;comparative and interpretative analysis of cnn and transformer models in predicting wildfire spread using remote sensing data
+1;??;comparative study of machine learning and deep learning models for prediction and detection of forest fire
+1;1;comparing accuracy of wildfire spread prediction models under different data deficiency conditions
+1;1;comparisons of diverse machine learning approaches for wildfire susceptibility mapping
+1;1;considerations on operational wildfire spread modelling
+1;0;current approaches to modelling the spread of wildland fire: a review
+1;1;Not_WFSP_review;current wildland fire patterns and challenges in europe: a synthesis of national perspectives
+1;0;data-driven simulations of wildfire spread at regional scales
+1;1;deep learning approaches for wildland fires using satellite remote sensing data: detection, mapping, and prediction
+1;0;describing wildland surface fuel loading for fire management: a review of approaches, methods and systems
+1;1;detection, emission estimation and risk prediction of forest fires in china using satellite sensors and simulation models in the past three decades-an overview
+1;1;Not_WFSP_review;distance in the forest fire model how far are you from eve?
+1;1;early warning systems: enhancing fire prediction and response
+1;1;empirical-based models for predicting head-fire rate of spread in australian fuel types
+1;1;estimating wildfire behavior and effects
+1;1;evacuation decision-making and behavior in wildfires: past research, current challenges and a future research agenda
+1;1;evacuation simulation under threat of wildfire-an overview of research, development, and knowledge gaps
+1;1;evaluating benefits and costs of wildland fires: critical review and future applications
+1;0;expanding the horizons of wildfire risk management
+1;1;exploration of geo-spatial data and machine learning algorithms for robust wildfire occurrence prediction
+1;0;exploring directions for establishing forest fire containment lines through forest fire spread prediction simulations: a case study of 2022 uljin-samcheok wildfire
+1;1;exploring progress in forest fire detection, prediction, and behavior: an in-depth survey
+1;1;facing the wildfire spread risk challenge: where are we now and where are we going?
+1;1;fifty years of progress in wildland fire modelling: from empirical to fully physical cfd models
+1;1;fifty years of wildland fire science in canada
+1;B;fire danger and fire behavior modeling systems in australia, europe, and north america
+1;0;fire detection using hsv color picker: a review
+1;0;fire detection with deep learning: a comprehensive review
+1;0;forest fire forecasting using ensemble learning approaches
+1;1;forest fire management and fire suppression strategies: a systematic literature review
+1;1;forest fire management using machine learning techniques
+1;1;forest fire management, funding dynamics, and research in the burning frontier: a comprehensive review
+1;NA;forest fire propagation
+1;DOWNLOADING;forest fire research
+1;1;forest fire research: the latest advances tools for understanding and managing wildland fire
+1;1;forest fire spread models: the local quasi-equilibrium approach
+1;NA;forest-fire models
+1;1;generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
+1;1;generative ai as a pillar for predicting 2d and 3d wildfire spread: beyond physics-based models and traditional deep learning
+1;1;generative algorithms for fusion of physics-based wildfire spread models with satellite data for initializing wildfire forecasts
+1;1;getting ahead of the wildfire problem: quantifying and mapping management challenges and opportunities
+1;?;gis and modeling in forest fire prevention
+1;1;gis, ai, and environmental data in fire susceptibility mapping: a survey
+1;1;global synthesis of quantification of fire behaviour characteristics in forests and shrublands: recent progress
+1;?;handling back fire in forest fire spread modelling
+1;1;how risk management can prevent future wildfire disasters in the wildland-urban interface
+1;1;indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
+1;1;integrated wildfire danger models and factors: a review
+1;1;limitations on the accuracy of model predictions of wildland fire behaviour: a state-of-the-knowledge overview
+1;1;machine learning and deep learning for wildfire spread prediction: a review
+1;1;WFR;machine learning methods for wildfire risk assessment
+1;NA;mathematical modelling of forest fire-comprehensive review
+1;1;mathematical models and calculation systems for the study of wildland fire behaviour
+1;1;methods for wildfire spread prediction and their integration with remote sensing data
+1;1;modelling natural disturbances in forest ecosystems: a review
+1;B;modelling, monitoring and management of forest fires ii
+1;1;national fire behaviour prediction system
+1;1;overview of forest fire propagation research
+1;B;predicting the future of forest fires: climate models, fire behavior and fire spread
+1;1;random set models of fire spread
+1;1;research trends in wildland fire prediction amidst climate change: a comprehensive bibliometric analysis
+1;1;rethinking the wildland fire management system
+1;1;review of state-of-the-art decision support systems (dsss) for prevention and suppression of forest fires
+1;NA;review of wildfire detection, fighting, and technologies: future prospects and insights
+1;1;review of wildfire management techniques-part i: causes, prevention, detection, suppression, and data analytics
+1;1;systematic literature review on the application of mathematics, statistics, and computer science in wildfire analysis
+1;1;the state of wildfire and bushfire science: temporal trends, research divisions and knowledge gaps
+1;1;the wildland fire system and challenges for engineering
+1;1;using iot and ml for forest fire detection, monitoring, and prediction: a literature review
+1;NA;wildfire behaviour and danger ratings
+1;?;wildfire detection: review of emerging technologies and methodologies
+1;1;wildfire risk prediction: a review
+1;1;wildland surface fire spread modelling, 1990-2007. 1: physical and quasi-physical models
+1;1;wildland surface fire spread modelling, 1990-2007. 2: empirical and quasi-empirical models
+1;1;wildland surface fire spread modelling, 1990-2007. 3: simulation and mathematical analogue models

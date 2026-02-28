@@ -1,0 +1,312 @@
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+UAV patrolling for wildfire monitoring by a dynamic voronoi tessellation on satellite data
+A Giuseppi, R Germanà, F Fiorini, F Delli Priscoli… - Drones, 2021 - mdpi.com
+… The prediction of the wildfire propagation is a crucial functionality needed to enable any kind
+of proactive measure. For this reason, several models [22,23,24,25] have been proposed in …
+Save
+
+Cite
+
+Cited by 38
+
+Related articles
+
+All 5 versions
+
+Do thinning and/or burning treatments in western USA ponderosa or Jeffrey pinedominated forests help restore natural fire behavior?
+PZ Fulé, JE Crouse, JP Roccaforte, EL Kalies - … Ecology and Management, 2012 - Elsevier
+… and burning treatments on restoring fire behavior attributes in western USA pine forests. …
+of wildfire behavior in treated stands have also been reported. Using a systematic review …
+Save
+
+Cite
+
+Cited by 344
+
+Related articles
+
+All 9 versions
+
+A review of fire interactions and mass fires
+MA Finney, SS McAllister - Journal of Combustion, 2011 - Wiley Online Library
+… , including wildland fire, structural fire, as well as combustion engineering and fluid dynamics,
+… on interactions is directly relevant to wildfire management activities and tactics but has not …
+Save
+
+Cite
+
+Cited by 142
+
+Related articles
+
+All 7 versions
+
+Fire behavior in masticated fuels: a review
+JK Kreye, NW Brewer, P Morgan, JM Varner… - … and Management, 2014 - Elsevier
+… Managing landscapes dependent on fire as an ecological process, while also mitigating the
+negative impacts of wildfire to people and property is challenging. In many fire-prone forest …
+Save
+
+Cite
+
+Cited by 131
+
+Related articles
+
+All 13 versions
+
+Application of wildfire risk assessment results to wildfire response planning in the
+southern Sierra Nevada, California, USA
+MP Thompson, P Bowden, A Brough, JH Scott… - Forests, 2016 - mdpi.com
+… We review general … wildfire hazard across the landscape at a pixel size of 180 m (3 ha per
+pixel). FSim is a comprehensive fire occurrence, growth, behavior, and suppression simulation …
+Save
+
+Cite
+
+Cited by 133
+
+Related articles
+
+All 12 versions
+
+A GIS‐supported model for the simulation of the spatial structure of wildland fire, Cass
+Basin, New Zealand
+GLW Perry, AD Sparrow… - Journal of Applied Ecology, 1999 - Wiley Online Library
+… spread model to New Zealand (NZ) ecosystems, and secondly, to assess the role GIS may
+play in fire spread prediction… to the data from the survey plots. Before dissection each whole (…
+Save
+
+Cite
+
+Cited by 81
+
+Related articles
+
+All 9 versions
+
+Cooperative forest fire surveillance using a team of small unmanned air vehicles
+DW Casbeer, DB Kingston, RW Beard… - International journal of …, 2006 - Taylor & Francis
+… in simulation using a six degree-of-freedom dynamic model for the UAV and a numerical
+propagation model for the forest fire. … Let one UAV be assigned to survey the upper half of the …
+Save
+
+Cite
+
+Cited by 723
+
+Related articles
+
+All 15 versions
+
+Self-autonomous wireless sensor nodes with wind energy harvesting for remote sensing of
+wind-driven wildfire spread
+YK Tan, SK Panda - IEEE Transactions on Instrumentation and …, 2011 - ieeexplore.ieee.org
+… coordinating the review process for … Prediction of the Wildfire Spread Based on the Wind
+Speed In the remote sensing of the wildfire spread condition, the prediction of the fire behavior …
+Save
+
+Cite
+
+Cited by 214
+
+Related articles
+
+All 4 versions
+
+https://scholar.google.com/scholar?start=140&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+1/3
+
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Coupling diagnostic and prognostic models to a dynamic data driven forest fire spread
+prediction system
+C Brun, T Margalef, A Cortés - Procedia Computer Science, 2013 - Elsevier
+… Finally, when considering the scheme where both prognostic and diagnostic models are
+coupled to the forest fire spread model, the prediction spread errors on average denote a great …
+Save
+
+Cite
+
+Cited by 19
+
+Related articles
+
+All 9 versions
+
+Wildfire Impacts on Security of Electric Power Systems: A Survey of Risk Identification
+and Mitigation Approaches
+R Shah, N Amjady, NSB Shakhawat, MU Aslam… - IEEE …, 2024 - ieeexplore.ieee.org
+… The work in [44] has used a wildfire prediction model using … and recovery including wildfire
+prediction and network … to estimate the wildfire dynamics and propagation direction and its …
+Save
+
+Cite
+
+Cited by 4
+
+Related articles
+
+All 2 versions
+
+Comparisons between wildfire and forest harvesting and their implications in forest
+management
+DJ McRae, LC Duchesne, B Freedman… - Environmental …, 2001 - cdnsciencepub.com
+… review we summarize empirical evidence that illustrates disparities between forest harvesting
+and wildfire… of disturbance by wildfire offer valuable insights into the ecological dynamics of …
+Save
+
+Cite
+
+Cited by 367
+
+Related articles
+
+All 9 versions
+
+Wildland fire detection and monitoring using a drone-collected rgb/ir image dataset
+X Chen, B Hopkins, H Wang, L O'Neill, F Afghah… - IEEE …, 2022 - ieeexplore.ieee.org
+… leave uncertainties about a wildfire’s extent, behavior, and … of drones in remote wildfire
+management operations [12], [13]… Table 1 provides a review of existing fire datasets. As shown …
+Save
+
+Cite
+
+Cited by 170
+
+Related articles
+
+All 9 versions
+
+Machine Learning based Wildfire Area Estimation Leveraging Weather Forecast Data
+S Sultania, R Sonawane, P Kanikar - Int. J. Inf. Technol. Comput …, 2025 - mecs-press.org
+… wildfire prediction to be used in a literature review as follows: … , improving prediction accuracy
+for wildfire spread. Bayesian … the inherent uncertainties of wildfire prediction. Reference [12…
+Save
+
+Cite
+
+Cited by 1
+
+Related articles
+
+All 2 versions
+
+Forest fire spread prediction using deep learning
+F Khennou, J Ghaoui, MA Akhloufi - Geospatial informatics XI, 2021 - spiedigitallibrary.org
+… , a deep learning model based on U-Net, past wildfires events and weather data. Our approach
+uses an intelligent model to study forest fire spread over a period of 24 hours. The model …
+Save
+
+Cite
+
+Cited by 31
+
+Related articles
+
+All 2 versions
+
+Phoenix: development and application of a bushfire risk management tool
+K Tolhurst, B Shields, D Chong - … of Emergency Management …, 2008 - search.informit.org
+… measures for monitoring and review make up the risk management process as outlined in …
+the Bushfire Risk Management Model encapsulate the complex interaction of ignition, spread, …
+Save
+
+Cite
+
+Cited by 332
+
+Related articles
+
+All 5 versions
+
+A review of challenges to determining and demonstrating efficiency of large fire
+management
+MP Thompson, FR y Silva, DE Calkin… - … Journal of Wildland Fire, 2017 - CSIRO Publishing
+Characterising the impacts of wildland fire and fire suppression is critical information for fire
+management decision-making. Here, we focus on decisions related to the rare larger and …
+Save
+
+Cite
+
+Cited by 83
+
+Related articles
+
+All 12 versions
+
+https://scholar.google.com/scholar?start=140&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+2/3
+
+10/18/25, 3:01 PM
+
+survey OR review wildfire OR “wild fire” OR “wildla... - Google Scholar
+
+Predicting crown fire behavior to support forest fire management decision-making
+MG Cruz, ME Alexander, RH Wakimoto - … conference on forest fire …, 2002 - academia.edu
+… management. This paper describes the modeling of two fundamental crown fire behavior
+features: the onset of crowning and the spread … of the Canadian Forest Fire Behavior Prediction …
+Save
+
+Cite
+
+Cited by 88
+
+Related articles
+
+All 5 versions
+
+The REBURN model: Simulating system-level forest succession and wildfire dynamics
+SJ Prichard, RB Salter, PF Hessburg, NA Povak… - Fire Ecology, 2023 - Springer
+… is the dominant driver of system-level vegetation dynamics within the Tripod landscape,
+the … REBURN model development and calibrated model behavior. We include a full model …
+Save
+
+Cite
+
+Cited by 11
+
+Related articles
+
+All 11 versions
+
+Mapping wildfire susceptibility with the BURN-P3 simulation model
+MA Parisien, VG Kafka, KG Hirsch, JB Todd, SG Lavoie… - 2005 - researchgate.net
+… The model combines deterministic fire growth based on the Canadian Fire Behavior Prediction
+… probabilistic fire ignitions and spread events derived from historical fire and weather data. …
+Save
+
+Cite
+
+Cited by 153
+
+Related articles
+
+All 2 versions
+
+Advanced automatic wildfire surveillance and monitoring network
+D Stipaničev, M Štula, D Krstinić, L Šerić… - … on Forest Fire …, 2010 - academia.edu
+… In this paper, after a short survey of various approaches to the wildfire monitoring, …
+management activities. GIS data is important for fire behavior modeling, forest fire spread simulation …
+Save
+
+Cite
+
+Cited by 52
+
+Related articles
+
+All 5 versions
+
+https://scholar.google.com/scholar?start=140&q=survey+OR+review+wildfire+OR+“wild+fire”+OR+“wildland+fire”+OR+“wild+land+fire”+OR+“for…
+
+3/3
+
+
