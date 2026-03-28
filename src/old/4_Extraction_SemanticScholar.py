@@ -4,19 +4,18 @@ import sys
 import numpy as np
 import importlib
 import fitz  # PyMuPDF
+from pathlib import Path
 
 # Unindo todos os PDFs em apenas um
 # pdfunite SemanticScholar/SS1P*.pdf Semantic_Scholar_Document_200_search_results1.pdf
 # pdfunite SemanticScholar/SS2P*.pdf Semantic_Scholar_Document_200_search_results2.pdf
 
-# Add the parent directory to sys.path to import custom modules
-current_dir = os.path.dirname(__name__)
-parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
-if not parent_dir in sys.path:
-    sys.path.append(parent_dir)
+FILE_DIR = Path(__file__).resolve().parent
+SRC_DIR = next((p for p in [FILE_DIR, *FILE_DIR.parents] if p.name == 'src'), FILE_DIR)
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
-# Import the package FunColors from the parent directory
-import FunColors as FCol  # Custom module for color conversions # nopep8
+from db_search import fun_colors as FCol
 importlib.reload(FCol)
 
 DIR_DATA_IN = '/home/jrmgarcia/ProjDocs/DB_Search/src/datain/PDF/SemanticScholar'

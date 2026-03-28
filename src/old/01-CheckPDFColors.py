@@ -1,6 +1,14 @@
 from rich import print as rprint
 import pdfplumber
-import FunColors as FCol
+import sys
+from pathlib import Path
+
+FILE_DIR = Path(__file__).resolve().parent
+SRC_DIR = next((p for p in [FILE_DIR, *FILE_DIR.parents] if p.name == 'src'), FILE_DIR)
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from db_search import fun_colors as FCol
 
 set_stroke_color = set()
 set_fill_color = set()

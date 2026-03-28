@@ -1,8 +1,15 @@
 import os
 import fitz  # PyMuPDF
 import importlib
-import FunColors as FCol  # Custom module for color conversions
-os.chdir("/home/jrmgarcia/ProjDocs/WFSP/Src_Python")
+import sys
+from pathlib import Path
+
+FILE_DIR = Path(__file__).resolve().parent
+SRC_DIR = next((p for p in [FILE_DIR, *FILE_DIR.parents] if p.name == 'src'), FILE_DIR)
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from db_search import fun_colors as FCol
 importlib.reload(FCol)
 
 DIR_DATA = '/home/jrmgarcia/ProjDocs/WFSP/GoogleSearch_primary'

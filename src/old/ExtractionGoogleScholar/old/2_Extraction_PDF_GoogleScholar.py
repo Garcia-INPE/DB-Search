@@ -3,6 +3,7 @@ import re
 import sys
 import importlib
 import fitz  # PyMuPDF
+from pathlib import Path
 
 
 # PDF 2 TXT
@@ -14,14 +15,12 @@ import fitz  # PyMuPDF
 #           encoding='utf-8') as file:
 #     content = file.read()
 
-# Add the parent directory to sys.path to import custom modules
-current_dir = os.path.dirname(__name__)
-parent_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
-if not parent_dir in sys.path:
-    sys.path.append(parent_dir)
+FILE_DIR = Path(__file__).resolve().parent
+SRC_DIR = next((p for p in [FILE_DIR, *FILE_DIR.parents] if p.name == 'src'), FILE_DIR)
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
-# Import the package FunColors from the parent directory
-import FunColors as FCol  # Custom module for color conversions # nopep8
+from db_search import fun_colors as FCol
 importlib.reload(FCol)
 
 

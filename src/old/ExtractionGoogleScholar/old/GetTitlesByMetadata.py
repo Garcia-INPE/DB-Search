@@ -74,7 +74,7 @@ print('7) T:', len(titles), '  D:', len(dates), '  M:', len(meta))
 #
 
 # Save the titles
-fname_titles = f'{DIR_WORK}/Pages_01-20_00-Titles.txt'
+fname_titles = f'{DIR_WORK}/Pages_01-20_00-Titles.csv'
 with open(fname_titles, 'w', encoding='utf-8') as f:
     for line in titles:
         f.write(line)

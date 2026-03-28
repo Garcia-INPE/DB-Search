@@ -1,400 +1,1287 @@
-SemSch1;2019;Cell2Fire: A Cell-Based Forest Fire Growth Model to Support Strategic Landscape Management Planning
-SemSch1;2008;Local-Scale Fuel-Type Mapping and Fire Behavior Prediction by Employing High-Resolution Satellite Imagery
-SemSch1;2024;Review and perspectives of digital twin systems for wildland fire management
-SemSch1;2025;Advancements in Artificial Intelligence Applications for Forest Fire Prediction
-SemSch1;2024;Research Trends in Wildland Fire Prediction Amidst Climate Change: A Comprehensive Bibliometric Analysis
-SemSch1;2024;Utilizing MODIS remote sensing and integrated data for forest fire spread modeling in the southwest region of Canada
-SemSch1;2024;Super Real-Time Forecast of Wildland Fire Spread by A Dual-Model Deep Learning Method
-SemSch1;2024;A high-fidelity ensemble simulation framework for interrogating wildland-fire behaviour and benchmarking machine learning models
-SemSch1;2024;Predicting the rate of spread of mixed-fuel surface fires in northeastern China using the Rothermel wildfire behaviour model: a laboratory study
-SemSch1;2019;An Interactive Data-Driven HPC System for Forecasting Weather, Wildland Fire, and Smoke
-SemSch1;2022;A Computationally Efficient Method for Updating Fuel Inputs for Wildfire Behavior Models Using Sentinel Imagery and Random Forest Classification
-SemSch1;2014;Forest Fire reseArch
-SemSch1;2014;Coupled Dynamic Data-Driven Framework for Forest Fire Spread Prediction
-SemSch1;2024;Spatiotemporal dynamics of forest fires in the context of climate change: a review.
-SemSch1;2009;Coupled Atmosphere‐Wildland Fire Modelling
-SemSch1;2010;A stochastic Forest Fire Model for future land cover scenarios assessment.
-SemSch1;2021;Uncertainty quantification of forecast error in coupled fire-atmosphere wildfire spread simulations: sensitivity to the spatial resolution
-SemSch1;2016;The FireWork air quality forecast system with near-real-time biomass burning emissions: Recent developments andevaluation of performance for the 2015 North American wildfire season
-SemSch1;2020;Modeling Wildfire Perimeter Evolution using Deep Neural Networks
-SemSch1;2015;AEGIS: a wildfire prevention and management information system
-SemSch1;2019;Coupling wildfire spread and erosion models to quantify post-fire erosion before and after fuel treatments
-SemSch1;2018;Transforming Wildfire Detection and Prediction Using New and Underused Sensor and Data Sources Integrated with Modeling
-SemSch1;2021;Dynamic simulation of fire propagation in forests and rangelands using a GIS-based cellular automata model
-SemSch1;2020;Establishing Propagation Nodes as a Basis for Preventing Large Wildfires: The Proposed Methodology
-SemSch1;2005;Wildfire Emission Modeling: Integrating BlueSky and SMOKE
-SemSch1;2010;Modelling, Monitoring and Management of Forest Fires II
-SemSch1;2005;Validation of FARSITE model in Mediterranean area
-SemSch1;2024;A Forest Fire Prediction Model Based on Cellular Automata and Machine Learning
-SemSch1;2024;Operational Forest-Fire Spread Forecasting Using the WRF-SFIRE Model
-SemSch1;2024;Utilizing Deep Learning and Spatial Analysis for Accurate Forest Fire Occurrence Forecasting in the Central Region of China
-SemSch1;2024;Predicting the Occurrence of Forest Fire in the Central-South Region of China
-SemSch1;2024;An AutoML-Powered Analysis Framework for Forest Fire Forecasting: Adapting to Climate Change Dynamics
-SemSch1;2024;Integrating Multi-Source Remote Sensing Data for Forest Fire Risk Assessment
-SemSch1;2023;Exploiting Drone Images for Forest Fire Detection using Metaheuristics with Deep Learning Model
-SemSch1;2022;Simulating Forest Fire Spread with Cellular Automation Driven by a LSTM Based Speed Model
-SemSch1;2023;A Comparative Study on Forest Fire Prediction using ARIMA, SARIMA, LSTM, and GRU Methods
-SemSch1;2019;Wildland Fire Spread Modeling Using Convolutional Neural Networks
-SemSch1;2014;A comparison of three approaches for simulating fine-scale surface winds in support of wildland fire management: Part I. Model formulation and comparison against measurements
-SemSch1;2016;An Innovative Conceptual Model of a Forest Fire Management Information and Decision-Support System for Brandenburg State, Germany Abstract Research and development conducted within the Forest Fire…
-SemSch1;2016;Real-time genetic spatial optimization to improve forest fire spread forecasting in high-performance computing environments
-SemSch1;2016;Visualization of local wind field based forest-fire’s forecast modeling for transportation planning
-SemSch1;2013;WRF-Fire: Coupled Weather-Wildland Fire Modeling with the Weather Research and Forecasting Model
-SemSch1;2018;High-Resolution Rapid Refresh Model Data Analytics Derived on the Open Science Grid to Assist Wildland Fire Weather Assessment
-SemSch1;2014;GIS MODELING APPROACH FOR FOREST FIRE RISK ASSESSMENT AND MANAGEMENT
-SemSch1;2013;Mountains Forest Fire Spread Simulator Based on Geo-Cellular Automaton Combined With Wang Zhengfei Velocity Model
-SemSch1;2011;Effects of biotic feedback and harvest management on boreal forest fire activity under climate change.
-SemSch1;1999;A GIS-supported model for the simulation of the spatial structure of wildland fire, Cass Basin, New Zealand
-SemSch1;2002;A Strategy to Elaborate Forest Fire Spread Models for Management Tools Including a Computer Time-Saving Algorithm
-SemSch1;2002;The use of the GIS into the Forest Fire prediction. The Simulation Model
-SemSch1;2009;An approach to operational forest fire growth predictions for Canada
-SemSch1;2024;Pyros: a raster-vector spatial simulation model for predicting wildland surface fire spread and growth
-SemSch1;2019;Designing Operationally Relevant Daily Large Fire Containment Strategies Using Risk Assessment Results
-SemSch1;2018;A High Resolution Coupled Fire-Atmosphere Forecasting System to Minimize the Impacts of Wildland Fires: Applications to the Chimney Tops II Wildland Event
-SemSch1;2009;Predicted changes in fire weather suggest increases in lightning fire initiation and future area burned in the mixedwood boreal forest
-SemSch1;2019;Development of a Smoke Dispersion Forecast System for Korean Forest Fires
-SemSch1;2016;Sensitivity of atypical lateral fire spread to wind and slope
-SemSch1;2003;Using simulation to map fire regimes: an evaluation of approaches, strategies, and limitations
-SemSch1;????;Please Scroll down for Article Journal of Spatial Science an Assessment of Fire-damaged Forest Using Spatial Analysis Techniques an Assessment of Fire-damaged Forest Using Spatial Analysis Techniques
-SemSch1;1977;Gradient modeling: A new approach to fire modeling and wilderness resource management
-SemSch1;2002;A two-dimensional model of fire spread across a fuel bed including wind combined with slope conditions
-SemSch1;2009;NATIONAL FIRE BEHAVIOUR PREDICTION SYSTEM
-SemSch1;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
-SemSch1;2022;Forest management under uncertainty: the influence of management versus climate change and wildfire in the Lake Tahoe Basin, USA.
-SemSch1;2024;Evaluating the performance of WRF in simulating winds and surface meteorology during a Southern California wildfire event
-SemSch1;2024;Modeling of Wildfire Digital Twin: Research Progress in Detection, Simulation, and Prediction Techniques
-SemSch1;2023;Facing the Wildfire Spread Risk Challenge: Where Are We Now and Where Are We Going?
-SemSch1;2022;GIS and Machine Learning for Analysing Influencing Factors of Bushfires Using 40-Year Spatio-Temporal Bushfire Data
-SemSch1;2023;Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts
-SemSch1;2023;Using Satellite‐Derived Fire Arrival Times for Coupled Wildfire‐ Air Quality Simulations at Regional Scales of the 2020 California Wildfire Season
-SemSch1;2023;Comparison of Meteorological Drivers of Two Large Coastal Slope-Land Wildfire Events in Croatia and South-East Australia
-SemSch1;2022;Recurrent Convolutional Deep Neural Networks for Modeling Time-Resolved Wildfire Spread Behavior
-SemSch1;2022;The 2017 Split wildfire in Croatia: evolution and the role of meteorological conditions
-SemSch1;2023;Characterizing Forest Fuel Properties and Potential Wildfire Dynamics in Xiuwu, Henan, China
-SemSch1;2015;Decadal predictability of soil water, vegetation, and wildfire frequency over North America
-SemSch1;2024;Impact of the El Niño on Fire Dynamics on the African Continent
-SemSch1;2025;Analysing Fire Propagation Models: A Case Study on FARSITE for Prolonged Wildfires
-SemSch1;2021;Reframing Wildfire Simulations for Understanding Complex Human-Landscape Interactions in Cross-Cultural Contexts: A Case Study from Northern Australia
-SemSch1;2020;Predicting Fire Propagation across Heterogeneous Landscapes Using WyoFire: A Monte Carlo-Driven Wildfire Model
-SemSch1;2018;Wildfire-vegetation dynamics affect predictions of climate change impact on bird communities
-SemSch1;2020;Wildfire Pyroconvection and CAPE: Buoyancy’s Drying and Atmospheric Intensification—Fort McMurray
-SemSch1;2023;A novel urban vegetation mapping approach for fire risk assessment: A Mediterranean case study
-SemSch1;2020;Pervasive shifts in forest dynamics in a changing world
-SemSch1;2020;Uncertainty Aware Wildfire Management
-SemSch1;2016;Predicting wildfire spread and behaviour in Mediterranean landscapes
-SemSch1;2014;Towards predictive data-driven simulations of wildfire spread-Part II: Ensemble Kalman Filter for the state estimation of a front-tracking simulator of wildfire spread
-SemSch1;2014;Simulating post-wildfire forest trajectories under alternative climate and management scenarios.
-SemSch1;2018;DATA-DRIVEN SIMULATIONS OF WILDFIRE SPREAD AT REGIONAL SCALES
-SemSch1;2018;Generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
-SemSch1;2013;A Survey on Rainfall Prediction using Artificial Neural Network
-SemSch1;2020;West Coast Forecast Challenges and Development of Atmospheric River Reconnaissance
-SemSch1;2019;The 2018 Camp Fire: Meteorological Analysis Using In Situ Observations and Numerical Simulations
-SemSch1;2014;Towards predictive simulation of wildfire spread at regional scale using ensemble-based data assimilation to correct the fire front position
-SemSch1;????;AI DRIVEN FIRE RISK INDICES INTEGRATING CLIMATE, FUEL, AND TERRAIN FOR WILDFIRE PREDICTION AND MANAGEMENT
-SemSch1;2015;Comparison and Simulation of Building Thermal Models for Effective Energy Management
-SemSch1;2009;Wildfire Suppression Cost Forecasts for the US Forest Service
-SemSch1;2008;Past and future changes in Canadian boreal wildfire activity.
-SemSch1;2014;Toward an integrated system for fire, smoke and air quality simulations
-SemSch1;2019;Turning Down the Heat: Vegetation Feedbacks Limit Fire Regime Responses to Global Warming
-SemSch1;2016;Probabilistic fire spread forecast as a management tool in an operational setting
-SemSch1;2014;Complex dynamics may limit prediction in marine fisheries
-SemSch1;2017;Land cover, more than monthly fire weather, drives fire-size distribution in Southern Québec forests: Implications for fire risk management
-SemSch1;2003;Performance metrics in supply chain management
-SemSch1;2019;Long-term climate, vegetation and fire regime change in a managed municipal water supply area, British Columbia, Canada
-SemSch1;2014;Development and Application of Process-based Simulation Models for Cotton Production: A Review of Past, Present, and Future Directions
-SemSch1;2018;Thermodynamics of Pyrocumulus: A Conceptual Study
-SemSch1;2014;Impacts of fire and climate change on long-term nitrogen availability and forest productivity in the New Jersey Pine Barrens
-SemSch1;1998;Supply Chain Management in Food Chains: Improving Performance by Reducing Uncertainty
-SemSch1;2010;Monte Carlo-based ensemble method for prediction of grassland fire spread
-SemSch1;2003;Coarse Filter Ecosystem Management in a Nonequilibrating Forest
-SemSch1;2014;Dionysus: a stochastic fire growth scenario generator
-SemSch1;2014;Minimum travel time algorithm for fire behavior and burn probability in a parallel computing environment
-SemSch1;2010;Atmospheric turbulence, meteorological modeling and aerodynamics
-SemSch1;2003;Disturbances and the sustainability of long-term site productivity in lodgepole pine forests in the central interior of British Columbia — an ecosystem modeling approach
-SemSch1;2002;Optimization of the Resources Management in Fighting Wildfires
-SemSch1;2003;J 2. 4 SIMULATION OF WILDFIRE INCIDENTS USING COUPLED ATMOSPHERE-FIRE MODELING
-SemSch1;2013;FireDST: Fire Impact and Risk Evaluation Decision Support Tool-model description
-SemSch1;1997;Expertise in the Management of Bushfires: Training and Decision Support
-SemSch1;2005;Automated Fire and Flood Hazard Protection System
-SemSch1;2024;A Hierarchical LSTM-Based Vehicle Trajectory Prediction Method Considering Interaction Information
-SemSch1;2024;Fire regimes of the Southern Appalachians may radically shift under climate change
-SemSch1;2024;Fire regimes of the Southern Appalachians may radically shift under climate change
-SemSch1;2024;A Bayesian model for predicting monthly fire frequency in Kenya
-SemSch1;2012;Soil organic matter turnover is governed by accessibility not recalcitrance
-SemSch1;2023;Simulating multiple scenarios of land use/cover change using a coupled model to capture ecological and economic effects
-SemSch1;2004;A New Product Growth for Model Consumer Durables
-SemSch1;1998;Monsoons: Processes, predictability, and the prospects for prediction
-SemSch1;2005;Using Bayesian Model Averaging to Calibrate Forecast Ensembles
-SemSch1;2021;Sub‐Seasonal Forecasting With a Large Ensemble of Deep‐ Learning Weather Prediction Models
-SemSch1;2006;Handbook of railway vehicle dynamics
-SemSch1;2021;Graph-Based Spatial-Temporal Convolutional Network for Vehicle Trajectory Prediction in Autonomous Driving
-SemSch1;2020;EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
-SemSch1;2018;Monthly runoff forecasting based on LSTM-ALO model
-SemSch1;2020;Multiscale simulations of complex systems by learning their effective dynamics
-SemSch1;2022;Land Use and Land Cover Change Assessment and Future Predictions in the Matenchose Watershed, Rift Valley Basin, Using CA-Markov Simulation
-SemSch1;2021;Modeling and forecasting the spread of COVID-19 with stochastic and deterministic approaches: Africa and Europe
-SemSch1;2023;Sensitivity of Burned Area and Fire Radiative Power Predictions to Containment Efforts, Fuel Density, and Fuel Moisture Using WRF‐Fire
-SemSch1;2021;4-D Flight Trajectory Prediction With Constrained LSTM Network
-SemSch1;1987;Short-term load forecasting
-SemSch1;2021;Vehicle Motion Prediction at Intersections Based on the Turning Intention and Prior Trajectories Model
-SemSch1;2021;Quantifying 25 years of disease-caused declines in Tasmanian devil populations: host density drives spatial pathogen spread.
-SemSch1;2015;Ensemble Modeling of CMEs Using the WSA-ENLIL+Cone Model
-SemSch1;2021;Prediction modelling of riverine landscape dynamics in the context of sustainable management of floodplain: a Geospatial approach
-SemSch1;2015;Simulation and Prediction of Category 4 and 5 Hurricanes in the High-Resolution GFDL HiFLOR Coupled Climate Model
-SemSch1;2020;Forecasting the Spread of COVID-19 in Kuwait Using Compartmental and Logistic Regression Models
-SemSch1;2018;LSTM-based Flight Trajectory Prediction
-SemSch1;2021;Short to Long-Term Forecasting of River Flows by Heuristic Optimization Algorithms Hybridized with ANFIS
-SemSch1;2008;Current status of ENSO prediction skill in coupled ocean-atmosphere models
-SemSch1;2012;Real-time numerical forecast of global epidemic spreading: case study of 2009 A/H1N1pdm
-SemSch1;2012;Forecasting species ranges by statistical estimation of ecological niches and spatial population dynamics
-SemSch1;2017;A Data-driven Model for Interaction-Aware Pedestrian Motion Prediction in Object Cluttered Environments
-SemSch1;1983;Behavior Assessment Model for Trace Organics in Soil: I. Model Description
-SemSch1;2016;Modelling the introduction and spread of non‐native species: international trade and climate change drive ragweed invasion
-SemSch1;2012;Decadal prediction skill in a multi-model ensemble
-SemSch1;2010;Simulating the Effects of Irrigation over the United States in a Land Surface Model Based on Satellite-Derived Agricultural Data
-SemSch1;2016;Quantifying Streamflow Forecast Skill Elasticity to Initial Condition and Climate Prediction Skill
-SemSch1;2016;Epidemic Forecasting is Messier Than Weather Forecasting: The Role of Human Behavior and Internet Data Streams in Epidemic Forecast.
-SemSch1;2019;Land use change modeling through an integrated Multi-Layer Perceptron Neural Network and Markov Chain analysis (case study: Arasbaran region, Iran)
-SemSch1;2019;An End to End Process Development for UAV-SfM Based Forest Monitoring: Individual Tree Detection, Species Classification and Carbon Dynamics Simulation
-SemSch1;2016;BIM-Integrated Construction Operation Simulation for Just-In-Time Production Management
-SemSch1;2014;Recent advances and applications of WRF-SFIRE
-SemSch1;2019;Simulation of land use dynamics and impact on land surface temperature using satellite data
-SemSch1;2014;Simulation of monsoon intraseasonal variability in NCEP CFSv2 and its role on systematic bias
-SemSch1;2019;Neural machine-based forecasting of chaotic dynamics
-SemSch1;2013;Potential changes in forest composition could reduce impacts of climate change on boreal wildfires.
-SemSch1;2021;Risk Analysis Model That Uses Machine Learning to Predict the Likelihood of a Fire Occurring at A Given Property
-SemSch1;2017;High-Fidelity Multi-Rotor Unmanned Aircraft System (UAS) Simulation Development for Trajectory Prediction Under Off-Nominal Flight Dynamics
-SemSch1;2020;Incorporating a Canopy Parameterization within a Coupled Fire-Atmosphere Model to Improve a Smoke Simulation for a Prescribed Burn
-SemSch1;1998;Land-Use Changes in Southern Appalachian Landscapes: Spatial Analysis and Forecast Evaluation
-SemSch1;2008;Hydrologic Remote Sensing and Land Surface Data Assimilation
-SemSch1;2013;Decadal predictability and forecast skill
-SemSch1;2016;Indian summer monsoon prediction and simulation in CFSv2 coupled model
-SemSch1;2003;ESTIMATING POPULATION SPREAD: WHAT CAN WE FORECAST AND HOW WELL?
-SemSch1;2008;GEO-INFORMATION FOR DISASTER MANAGEMENT
-SemSch1;2009;Author ' s personal copy A modeling and spatio-temporal analysis framework for monitoring environmental change using NPP as an ecosystem indicator
-SemSch1;2012;Predicting ecosystem dynamics at regional scales: an evaluation of a terrestrial biosphere model for the forests of northeastern North America
-SemSch1;2005;Seasonal weather forecasts for crop yield modelling in Europe
-SemSch1;2004;Evaluating Parameterizations in General Circulation Models: Climate Simulation Meets Weather Prediction
-SemSch1;2016;Multi-scale enhancement of climate prediction over land by increasing the model sensitivity to vegetation variability in EC-Earth
-SemSch1;2012;Density Forecasting of Intraday Call Center Arrivals Using Models Based on Exponential Smoothing
-SemSch1;2003;Decision Methods for Forest Resource Management
-SemSch1;2018;The Generation and Forecast of Extreme Winds during the Origin and Progression of the 2017 Tubbs Fire
-SemSch1;2018;Validity of parameter optimization in improving MJO simulation and prediction using the sub-seasonal to seasonal forecast model of Beijing Climate Center
-SemSch1;2013;Decadal prediction skill in the GEOS-5 forecast system
-SemSch1;2003;Application of the CERES-Wheat model for within-season prediction of winter wheat yield in the United Kingdom
-SemSch1;2020;Seasonal weather and climate prediction over area burned in grasslands of northeast China
-SemSch1;1996;Generalized Approach to Landscape-Wide Seasonal Forecasting with Temperature-Driven Simulation Models
-SemSch1;2009;Identifying hotspots for plant invasions and forecasting focal points of further spread
-SemSch1;2008;Integrating system dynamics and fuzzy logic modelling for construction risk management
-SemSch1;2020;Effect of weather forecast errors on fire growth model projections
-SemSch1;2016;Evaluation of forecasts by accuracy and spread in the MiKlip decadal climate prediction system
-SemSch1;2016;Evaluation of forecasts by accuracy and spread in the MiKlip decadal climate prediction system
-SemSch1;1990;A simulation model of the population dynamics and evolution of myxomatosis.
-SemSch1;2017;Mesoscale modeling of smoke transport from equatorial Southeast Asian Maritime Continent to the Philippines: First comparison of ensemble analysis with in situ observations
-SemSch1;2009;CBM-CFS 3: A model of carbon-dynamics in forestry and land-use change implementing IPCC standards
-SemSch1;2005;Simulation of ENSO in the New NCEP Coupled Forecast System Model (CFS03)
-SemSch1;1996;Long-term growth and water balance predictions for a mountain ash (Eucalyptus regnans) forest catchment subject to clear-felling and regeneration.
-SemSch1;2020;Assessing ecological uncertainty and simulation model sensitivity to evaluate an invasive plant species’ potential impacts to the landscape
-SemSch1;2016;Simulating boundary‐layer rolls with a numerical weather prediction model
-SemSch1;2006;Approximate Solutions of a Dynamic Forecast-Inventory Model
-SemSch1;2011;An analysis of seasonal predictability in coupled model forecasts
-SemSch2;2024;Machine Learning and Deep Learning for Wildfire Spread Prediction: A Review
-SemSch2;2022;A Review of Genetic Algorithm Approaches for Wildfire Spread Prediction Calibration
-SemSch2;2019;Methods for Wildfire Spread Prediction and Their Integration With Remote Sensing Data
-SemSch2;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
-SemSch2;2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
-SemSch2;2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
-SemSch2;2020;Prediction of global spread of COVID-19 pandemic: a review and research challenges
-SemSch2;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis—Bridging Lab Metrics and Real-World Validation
-SemSch2;2023;Deep Learning Approaches for Wildland Fires Using Satellite Remote Sensing Data: Detection, Mapping, and Prediction
-SemSch2;????;USING IOT AND ML FOR FOREST FIRE DETECTION, MONITORING, AND PREDICTION: A LITERATURE REVIEW
-SemSch2;2011;Predicting climate change effects on wildfires requires linking processes across scales
-SemSch2;2024;CNN-BiLSTM: A Novel Deep Learning Model for Near-Real-Time Daily Wildfire Spread Prediction
-SemSch2;2024;Wildfire Spread Prediction in North America Using Satellite Imagery and Vision Transformer
-SemSch2;2024;Comparing Accuracy of Wildfire Spread Prediction Models under Different Data Deficiency Conditions
-SemSch2;2024;Adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of sprinkler systems
-SemSch2;2024;Metaheuristic algorithms for calibration of two-dimensional wildfire spread prediction model
-SemSch2;2023;THE LARGE-SCALE WILDFIRE SPREAD PREDICTION USING A MULTI-KERNEL CONVOLUTIONAL NEURAL NETWORK
-SemSch2;2024;Wildfire Spread Prediction Through Remote Sensing and UAV Imagery-Driven Machine Learning Models
-SemSch2;2024;Wildfire spread prediction using geostationary satellite observation data and directional ROS adjustment factor.
-SemSch2;2023;WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
-SemSch2;2024;Wildfire Spread Prediction Using Attention Mechanisms in U2-NET
-SemSch2;2023;FirePred: A hybrid multi-temporal convolutional neural network model for wildfire spread prediction
-SemSch2;2023;Incorporating Stochastic Wind Vectors in Wildfire Spread Prediction
-SemSch2;2023;Wildfire Spread Prediction Using Attention Mechanisms in U-NET
-SemSch2;2023;Real Time Monitoring of Forest Fires and Wildfire Spread Prediction
-SemSch2;2025;Assessing WildfireGPT: a comparative analysis of AI models for quantitative wildfire spread prediction
-SemSch2;2023;WFNet: A hierarchical convolutional neural network for wildfire spread prediction
-SemSch2;2025;A Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model
-SemSch2;2025;Assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 Maui fires
-SemSch2;2025;Vi-Net: A Hybrid Semantic Segmentation Approach for Enhanced Wildfire Spread Prediction
-SemSch2;2025;Assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 Maui fires
-SemSch2;2023;Wildfire Spread Prediction using Machine Learning Algorithms
-SemSch2;2025;An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
-SemSch2;2022;Evolutionary Statistical System Based on Novelty Search: A Parallel Metaheuristic for Uncertainty Reduction Applied to Wildfire Spread Prediction
-SemSch2;2022;Wildfire Spread Prediction Model Calibration Using Metaheuristic Algorithms
-SemSch2;2019;Crowd-Sourced Wildfire Spread Prediction With Remote Georeferencing Using Smartphones
-SemSch2;2016;Wildfire Spread Prediction and Assimilation for FARSITE Using Ensemble Kalman Filtering
-SemSch2;2024;Exploring Directions for Establishing Forest Fire Containment Lines through Forest Fire Spread Prediction Simulations: A Case Study of 2022 Uljin-Samcheok Wildfire
-SemSch2;2024;Shapley-based interpretation of deep learning models for wildfire spread rate prediction
-SemSch2;2018;California Wildfire Spread Prediction using FARSITE and the Comparison with the Actual Wildfire Maps using Statistical Methods
-SemSch2;2024;Experimental and numerical study on data-driven prediction for wildfire spread incorporating adaptive observation error adjustment
-SemSch2;2024;Application of Explainable Artificial Intelligence in Predicting Wildfire Spread: An ASPP-Enabled CNN Approach
-SemSch2;2023;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
-SemSch2;2024;Wildfire Risk Prediction: A Review
-SemSch2;2013;Applying Probability Theory for the Quality Assessment of a Wildfire Spread Prediction Framework Based on Genetic Algorithms
-SemSch2;2024;Wildfire spreading prediction using multimodal data and deep neural network approach
-SemSch2;2024;Advancements in Wildfire Prediction and Detection: A Systematic Review
-SemSch2;2022;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
-SemSch2;2024;Advancements in Wildfire Detection and Prediction: An In-Depth Review
-SemSch2;2025;Robust Prediction of Wildfire Spread in Australia
-SemSch2;2022;Prediction of wildfire rate of spread in grasslands using machine learning methods
-SemSch2;2022;Wildfire Path Prediction Spread using Machine Learning
-SemSch2;2021;Multifidelity prediction in wildfire spread simulation: Modeling, uncertainty quantification and sensitivity analysis
-SemSch2;2024;Advancing Wildfire Predictive Models: A Novel Dataset for Next-Day Wildfire Spread
-SemSch2;2024;A Deep Learning Framework: Predicting Fire Radiative Power From the Combination of Polar-Orbiting and Geostationary Satellite Data During Wildfire Spread
-SemSch2;2025;Wildfire Prediction and Spread Detection
-SemSch2;2024;Assimilating UAV-Based Observation Data for Wildfire Spread Simulation
-SemSch2;2024;The distributed strategy for asynchronous observations in data-driven wildland fire spread prediction
-SemSch2;2024;Evaluation of an In‐Canopy Wind and Wind Adjustment Factor Model for Wildfire Spread Applications Across Scales
-SemSch2;2020;Learning-based prediction of wildfire spread with real-time rate of spread measurement
-SemSch2;2023;Facing the Wildfire Spread Risk Challenge: Where Are We Now and Where Are We Going?
-SemSch2;2023;Advances in the prediction of spread through air spaces with imaging in lung cancer: a narrative review
-SemSch2;2023;A new paradigm for forest fire spread prediction: Faster decisions at high resolution
-SemSch2;2024;Forecasting Hourly Wildfire Risk: Enhancing Fire Danger Assessment using Numerical Weather Prediction
-SemSch2;2024;PyroScan: Wildfire Behavior Prediction System using Unmanned Aerial Vehicles (UAV)
-SemSch2;2024;Firecast Zigzag Convolutional Network for Wildfire Prediction
-SemSch2;2024;Wildfire Autonomous Response and Prediction Using Cellular Automata (WARP-CA)
-SemSch2;2024;Predicting the rate of spread of mixed-fuel surface fires in northeastern China using the Rothermel wildfire behaviour model: a laboratory study
-SemSch2;2024;Enhancing Alaskan wildfire prediction and carbon flux estimation: a two-stage deep learning approach within a process-based model
-SemSch2;2022;Modeling Wildfire Spread with an Irregular Graph Network
-SemSch2;2023;Prediction capability of the MCDA-AHP model in wildfire risk zonation of a protected area in the Southern Western Ghats
-SemSch2;2024;Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data
-SemSch2;2025;LinU-Mamba: Visual Mamba U-Net with Linear Attention to Predict Wildfire Spread
-SemSch2;2023;Paying Attention to Wildfire: Using U-Net with Attention Blocks on Multimodal Data for Next Day Prediction
-SemSch2;2019;Predicting fire spread and behaviour on the fireline. Wildfire analyst pocket: A mobile app for wildland fire prediction
-SemSch2;2023;Dengue Spread Prediction Using Time Series Model
-SemSch2;2025;From Convolution to Attention: Transformer-Based Modeling for Multi-Day Wildfire Spread Forecasting
-SemSch2;2025;Wildfire spread forecasting with Deep Learning
-SemSch2;2025;Simulating wildfire spread based on continuous time series remote sensing images and cellular automata
-SemSch2;2025;Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data
-SemSch2;2022;Efficient Cloud-Based Calibration of Input Data for Forest Fire Spread Prediction
-SemSch2;2016;Prediction of Wildfire Spread and Propagation Algorithm for Disaster Area
-SemSch2;2024;Dynamic correction of forest fire spread prediction using observation error covariance matrix estimation technique based on FLC-GRU
-SemSch2;2025;Exploration of geo-spatial data and machine learning algorithms for robust wildfire occurrence prediction
-SemSch2;2021;Forest fire spread prediction using deep learning
-SemSch2;2023;Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts
-SemSch2;2021;Uncertainty quantification of forecast error in coupled fire-atmosphere wildfire spread simulations: sensitivity to the spatial resolution
-SemSch2;2021;Cloud-Based Urgent Computing for Forest Fire Spread Prediction under Data Uncertainties
-SemSch2;2024;Assessment and Validation of a Computer Vision Algorithm for Wildfire Rate of Spread Estimation
-SemSch2;2022;Towards a Comprehensive Dataset for Next-Day Wildfire Prediction
-SemSch2;2019;FireCast: Leveraging Deep Learning to Predict Wildfire Spread
-SemSch2;2020;Enhancing wildfire spread modelling by building a gridded fuel moisture content product with machine learning
-SemSch2;2023;Impacts of estimated plume rise on PM2.5 exceedance prediction during extreme wildfire events: a comparison of three schemes (Briggs, Freitas, and Sofiev)
-SemSch2;2022;Recurrent Convolutional Deep Neural Networks for Modeling Time-Resolved Wildfire Spread Behavior
-SemSch2;2024;Prediction of Wildfire Occurrence in the Southern Forest Regions of China in the Future Scenario
-SemSch2;2025;Wildfire Detection: Review of Emerging Technologies and Methodologies
-SemSch2;2020;Early Adaptive Evaluation Scheme for Data-Driven Calibration in Forest Fire Spread Prediction
-SemSch2;2025;Systematic Literature Review on the Application of Mathematics, Statistics, and Computer Science in Wildfire Analysis
-SemSch2;2025;Predicting Wildfire Spread with Machine Learning and a Socio-Ecological Approach to Identify Areas of High Vulnerability
-SemSch2;2025;A Neural Network Model of Wildfire Spread for Arbitrary Topography, Fuel Load Distribution, and Wind Field
-SemSch2;2022;Software-Based Simulations of Wildfire Spread and Wind-Fire Interaction
-SemSch2;2023;Wildfire Progression Prediction and Validation Using Satellite Data and Remote Sensing in Sonoma, California
-SemSch2;2020;Coupling wildfire spread and erosion models to quantify post-fire erosion in Northern Sardinia, Italy
-SemSch2;2019;A novel wildfire digital-twin framework using interactive wildfire spread simulator
-SemSch2;2019;Coupling wildfire spread and erosion models to quantify post-fire erosion before and after fuel treatments
-SemSch2;2020;A review of machine learning applications in wildfire science and management
-SemSch2;2023;FireSight: Utilizing Deep Learning for Wildfire Prediction And Determining Escape Routes
-SemSch2;2025;Sensitivity to the Representation of Wind for Wildfire Rate of Spread: Case Studies with the Community Fire Behavior Model
-SemSch2;2015;Role of buoyant flame dynamics in wildfire spread
-SemSch2;????;Application of Artiﬁcial Intelligence-Based Regression Methods in the Problem of COVID-19 Spread Prediction: A Systematic Review
-SemSch2;2019;Delft University of Technology Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
-SemSch2;2016;Short-term fire front spread prediction using inverse modelling and airborne infrared images
-SemSch2;2024;PREDICTION OF FIRE SPREAD IN GRASSLANDS USING DEEP LEARNING TECHNIQUES
-SemSch2;2024;A Review of Environmental Factors for an Ontology-Based Risk Analysis for Pandemic Spread
-SemSch2;2018;Generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
-SemSch2;2018;DATA-DRIVEN SIMULATIONS OF WILDFIRE SPREAD AT REGIONAL SCALES
-SemSch2;2020;Review of Wildfire Management Techniques—Part I: Causes, Prevention, Detection, Suppression, and Data Analytics
-SemSch2;2022;Prediction of Wildfire Fuel Load for Pinus densiflora Stands in South Korea Based on the Forest-Growth Model
-SemSch2;2017;Spatial Partition-Based Particle Filtering for Data Assimilation in Wildfire Spread Simulation
-SemSch2;2018;Inverse modelling in wildfire spread forecasting: towards a data-driven system
-SemSch2;2020;Wildfire Prediction: Handling Uncertainties Using Integrated Bayesian Networks and Fuzzy Logic
-SemSch2;2021;Statistical Modeling for the Prediction of Infectious Disease Dissemination With Special Reference to COVID-19 Spread
-SemSch2;2020;Agent-based modelling for wildfire behaviour prediction
-SemSch2;2008;A cellular automata model for forest fire spread prediction: The case of the wildfire that swept through Spetses Island in 1990
-SemSch2;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
-SemSch2;2022;Influencing factors, prediction and prevention of depression in college students: A literature review
-SemSch2;2025;A Systematic Review of Models for Fire Spread in Wildfires by Spotting
-SemSch2;2024;Wildfire Detection With Deep Learning—A Case Study for the CICLOPE Project
-SemSch2;2020;Abstract Submitted for the DFD20 Meeting of The American Physical Society Ensemble Predictions of Wildfire Spread Through TPU-Compatible TensorFlow Acceleration1
-SemSch2;2024;Firefighting Drone Configuration and Scheduling for Wildfire Based on Loss Estimation and Minimization
-SemSch2;2023;Systematic Review on Prediction and Monitoring of Climate Change
-SemSch2;2021;A Statistical Investigation of how Slope affects a Wildfire’s Rate of Spread
-SemSch2;2024;Using Drone Swarm to Stop Wildfire: A Predict-then-optimize Approach
-SemSch2;2024;Using cellular automata and multi-criteria evaluation to simulate the wildfire expansion in Prince George, British Co-lumbia
-SemSch2;2024;Assessment of Wildfire Risk on Transmission Assets
-SemSch2;2022;Forecasting and Surveillance of COVID-19 Spread Using Google Trends: Literature Review
-SemSch2;2021;A review of the effects of wildfire smoke on the health and behavior of wildlife
-SemSch2;2018;Real-time fire segmentation via Active Contours for UAV integrated wildfire propagation prediction
-SemSch2;2024;Utilizing MODIS remote sensing and integrated data for forest fire spread modeling in the southwest region of Canada
-SemSch2;2018;Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings
-SemSch2;2018;AdriaFirePropagator and AdriaFireRisk: user friendly Web based wildfire propagation and wildfire risk prediction software
-SemSch2;2014;Coupled Dynamic Data-Driven Framework for Forest Fire Spread Prediction
-SemSch2;2016;Predicting wildfire spread and behaviour in Mediterranean landscapes
-SemSch2;2024;Fire Spread Modeling Using Probabilistic Cellular Automata
-SemSch2;2023;Spain on Fire: A novel wildfire risk assessment model based on image satellite processing and atmospheric information
-SemSch2;2023;Sources, diffusion and prediction in COVID-19 pandemic: lessons learned to face next health emergency
-SemSch2;2024;A Review on the Role of Machine Learning in Predicting the Spread of Infectious Diseases
-SemSch2;2023;A Generative Model for Surrogates of Spatial-Temporal Wildfire Nowcasting
-SemSch2;2023;Artificial Intelligence for Antimicrobial Resistance Prediction: Challenges and Opportunities towards Practical Implementation
-SemSch2;2025;Wildfire and power grid nexus in a changing climate
-SemSch2;2024;Modeling wildfires' spread based on low-cost sensors measuring real-time moisture content
-SemSch2;2021;Future IoT tools for COVID‐19 contact tracing and prediction: A review of the state‐ of‐the‐science
-SemSch2;2025;Machine Learning based Wildfire Area Estimation Leveraging Weather Forecast Data
-SemSch2;2025;Wildfire Detection Based on Satellite Images Using Deep Learning
-SemSch2;2023;Using Satellite‐Derived Fire Arrival Times for Coupled Wildfire‐Air Quality Simulations at Regional Scales of the 2020 California Wildfire Season
-SemSch2;2022;Deep Learning and Transformer Approaches for UAV-Based Wildfire Detection and Segmentation
-SemSch2;2016;Indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
-SemSch2;2025;Generative Algorithms for Wildfire Progression Reconstruction from Multi-Modal Satellite Active Fire Measurements and Terrain Height
-SemSch2;2025;A Semi-Supervised Wildfire Image Segmentation Network with Multi-Scale Structural Fusion and Pixel-Level Contrastive Consistency
-SemSch2;2025;Dynamic UAV Path Planning Under Wildfire Scenarios Using PPO Algorithm
-SemSch2;2022;Methodological foundations of forecasting the spread of diseases in the world (review)
-SemSch2;2025;Comparing Satellite Data for Next-Day Wildfire Predictability
-SemSch2;2025;Comparing Next-Day Wildfire Predictability of MODIS and VIIRS Satellite Data
-SemSch2;2025;Spatial Uncertainty Quantification in Wildfire Forecasting for Climate-Resilient Emergency Planning
-SemSch2;2025;Pre-Ignition Wildfire Burn Severity Modeling with Polarimetric UAVSAR Data and Machine Learning
-SemSch2;2017;Using Wind Data to Predict Wildfire Spread in Central California
-SemSch2;2014;A MACROECONOMIC MODEL FOR CREDIT SPREAD PREDICTION IN CHINA'S CORPORATE BOND MARKET
-SemSch2;2021;Radiomics for Identification and Prediction in Metastatic Prostate Cancer: A Review of Studies
-SemSch2;2016;Geo-referenced image data assimilation for wildfire spread simulation
-SemSch2;2024;Evaluating the performance of WRF in simulating winds and surface meteorology during a Southern California wildfire event
-SemSch2;2024;The Meteorology of the August 2023 Maui Wildfire
-SemSch2;2018;A review of traffic models for wildland-urban interface wildfire evacuation
-SemSch2;2025;Green Firebreaks: Potential to Proactively Complement Wildfire Management
-SemSch2;2020;Large-scale assessment of antimicrobial resistance marker databases for genetic phenotype prediction: a systematic review
-SemSch2;2021;Prediction Models for Public Health Containment Measures on COVID-19 Using Artificial Intelligence and Machine Learning: A Systematic Review
-SemSch2;2021;A Review of the Environmental Trigger and Transmission Components for Prediction of Cholera
-SemSch2;2019;Modelling of the Radiant Heat Flux and Rate of Spread of Wildfire within the Urban Environment
-SemSch2;2023;Geospatial Wildfire Risk Assessment from Social, Infrastructural and Environmental Perspectives: A Case Study in Queensland Australia
-SemSch2;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
-SemSch2;2024;Role of flow topology in wind-driven wildfire propagation
-SemSch2;2023;Predicting the Wildland Fire Spread Using a Mixed-Input CNN Model with Both Channel and Spatial Attention Mechanisms
-SemSch2;????;Fusion of Physics-Based Wildfire Spread Models with Satellite Data using Generative Algorithms
-SemSch2;2023;Assessment of Wildfire Susceptibility and Wildfire Threats to Ecological Environment and Urban Development Based on GIS and Multi-Source Data: A Case Study of Guilin, China
-SemSch2;2015;Operational wildfire suppression modelling: a review evaluating development, state of the art and future directions
-SemSch2;2022;Data‐driven spatio‐temporal analysis of wildfire risk to power systems operation
-SemSch2;2020;Radiomics-based prediction for tumour spread through air spaces in stage I lung adenocarcinoma using machine learning.
-SemSch2;2022;A review of train delay prediction approaches
-SemSch2;2010;Data Injection at Execution Time in Grid Environments Using Dynamic Data Driven Application System for Wildland Fire Spread Prediction
-SemSch2;2021;A review: antimicrobial resistance data mining models and prediction methods study for pathogenic bacteria
-SemSch2;2022;A systematic review of dengue outbreak prediction models: Current scenario and future directions
-SemSch2;2024;Future projections of Siberian wildfire and aerosol emissions
-SemSch2;2025;Soil Moisture is a Stronger Predictor of Forest Fire Spread Potential Than Weather in the U.S. Northern Rocky Mountains
-SemSch2;2025;Next-Generation AI for Firefighter Hazard Prediction: Exploring BERT and Doc2Vec to Advance Safety and Risk Intelligence
-SemSch2;2025;Advancements in Artificial Intelligence Applications for Forest Fire Prediction
-SemSch2;2021;Deep Learning Methods for Lung Cancer Detection, Classification and Prediction-A Review
-SemSch2;2023;Terrestrial carbon dynamics in an era of increasing wildfire
-SemSch2;2015;Fire spread prediction using a lagged weather forecast ensemble
-SemSch2;2024;Research progress and hotspot evolution analysis of wildfire disasters in national park communities
-SemSch2;2014;Towards predictive data-driven simulations of wildfire spread-Part II: Ensemble Kalman Filter for the state estimation of a front-tracking simulator of wildfire spread
-SemSch2;2011;Considerations on operational wildfire spread modelling
+SEMAN1;2025;Forest fire probability zonation using dNBR and machine learning models: a case study at the Similipal Biosphere Reserve (SBR), Odisha, India
+SEMAN1;2025;A Forest Fire Prediction Framework Based on Multiple Machine Learning Models
+SEMAN1;2025;Advanced forest fire risk mapping: Combining Sentinel-2 MSI data with hybrid machine learning in Similipal Biosphere Reserve
+SEMAN1;2025;Forest fire susceptibility mapping using multi-criteria decision making and machine learning models in the Western Ghats of India
+SEMAN1;2025;Assessment of forest fire vulnerability prediction in Indonesia: Seasonal variability analysis using machine learning techniques
+SEMAN1;2025;Smart Wireless Sensor Networks with Virtual Sensors for Forest Fire Evolution Prediction Using Machine Learning
+SEMAN1;????;Forest Fire Prediction: A Spatial Machine Learning and Neural Network Approach
+SEMAN1;2024;Spatial analysis and machine learning prediction of forest fire susceptibility: a comprehensive approach for effective management and mitigation
+SEMAN1;2025;Advancing forest fire burn severity and vegetation recovery assessments using remote sensing and machine learning approaches
+SEMAN1;2025;A Systematic Machine Learning Methodology for Enhancing Accuracy and Reducing Computational Complexity in Forest Fire Detection
+SEMAN1;2025;Machine Learning-Based Forest Fire Susceptibility Mapping Using Random Forest and CART Models
+SEMAN1;2025;Modeling of Forest Fire Risk Areas of Amazonas Department, Peru: Comparative Evaluation of Three Machine Learning Methods
+SEMAN1;2025;Integrating XAI and Machine Learning for an Effective Forest Fire Prediction System
+SEMAN1;2025;Seasonal forest fire risk and key drivers in Yunnan Province: a machine learning approach
+SEMAN1;2025;Machine learning-based forest fire susceptibility mapping of Southern Mizoram, a part of Indo-Burma Biodiversity Hotspot
+SEMAN1;2025;Forest Fire Risk Prediction in South Korea Using Google Earth Engine: Comparison of Machine Learning Models
+SEMAN1;2025;Explainable machine learning identifies anthropogenic activity as a key driver of forest fire severity in China's temperate monsoon region
+SEMAN1;2025;Trust-driven approach to enhance early forest fire detection using machine learning
+SEMAN1;2025;Machine learning-based forest fire vulnerability assessment in subtropical chir pine forests of Pakistan
+SEMAN1;2025;Machine learning techniques forest fire prediction: Current trends, challenges and future directions
+SEMAN1;2025;Early prediction of forest fire events integrating multi-sensor datasets and machine learning techniques
+SEMAN1;2024;Evaluating the Impact of Recursive Feature Elimination on Machine Learning Models for Predicting Forest Fire-Prone Zones
+SEMAN1;2024;Integrating ensemble machine learning and explainable AI for enhanced forest fire susceptibility analysis and risk assessment in Turkiye's Mediterranean region
+SEMAN1;2024;A Forest Fire Prediction Model Based on Cellular Automata and Machine Learning
+SEMAN1;2025;A Synergistic Approach Using Machine Learning and Deep Learning for Forest Fire Susceptibility in Himalayan Forests
+SEMAN1;2025;Mapping climate change induced forest fire susceptibility using tree-based machine learning algorithms in Bangladesh
+SEMAN1;2024;Predicting forest fire vulnerability using machine learning approaches in The Mediterranean Region: a case study of Turkiye
+SEMAN1;2024;Integrating geospatial, remote sensing, and machine learning for climate-induced forest fire susceptibility mapping in Similipal Tiger Reserve, India
+SEMAN1;2024;Exploring Forest Fire Susceptibility and Management Strategies in Western Himalaya: Integrating Ensemble Machine Learning and eXplainable AI for Accurate Prediction and Comprehensive Analysis
+SEMAN1;2025;PREDICTION OF FOREST FIRE SUSCEPTIBILITY USING MACHINE LEARNING TOOLS IN THE TRIUNFO DO XINGU ENVIRONMENTAL PROTECTION AREA, AMAZON, BRAZIL
+SEMAN1;2024;Comparison of Diverse Machine Learning Algorithms for Forest Fire Susceptibility Mapping in Antalya, Turkiye
+SEMAN1;2024;Ensembling machine learning models to identify forest fire-susceptible zones in Northeast India
+SEMAN1;2024;Comparative study of machine learning methods for mapping forest fire areas using Sentinel-1B and 2A imagery
+SEMAN1;2024;Prioritizing the Right to Environment: Enhancing Forest Fire Detection and Prevention Through Satellite Data and Machine Learning Algorithms for Early Warning Systems
+SEMAN1;2024;Toward a more resilient Thailand: Developing a machine learning-powered forest fire warning system
+SEMAN1;2024;A Smart Forest Fire Detection and Notification System using IOT and Machine Learning
+SEMAN1;2024;Forest Fire Monitoring using Internet of Things and Machine Learning
+SEMAN1;2024;Earth Observation Based Characterization of Environmental Conditions for Forest Fire Risk in Western Himalayan Ecosystems Using Machine Learning Approach
+SEMAN1;2024;Development of a Forest Fire Diagnostic Model Based on Machine Learning Techniques
+SEMAN1;2024;Comparing Machine Learning Algorithms for Real-Time Forest Fire Detection using Color, Motion, and Shape Features
+SEMAN1;2024;Enhancing Forest Fire Detection: Utilizing VGG16 for High-Accuracy Image Classification and Machine Learning Integration
+SEMAN1;2024;Synergistic approaches in forest fire risk mapping using fuzzy AHP and machine learning models in the Chure Tarai Madhesh Landscape (CTML) of Nepal
+SEMAN1;2024;Predicting forest fire probability in Simlipal Biosphere Reserve (India) using Sentinel-2 MSI data and machine learning
+SEMAN1;2024;An Experimental Approach to Detect Forest Fire Using Machine Learning Mathematical Models and IoT
+SEMAN1;2024;Immediate assessment of forest fire using a novel vegetation index and machine learning based on multi-platform, high temporal resolution remote sensing images
+SEMAN1;2024;Forest fire susceptibility mapping based on precipitation-constrained cumulative dryness status information in Southeast China: A novel machine learning modeling approach
+SEMAN1;2023;Machine learning based forest fire susceptibility assessment of Manavgat district (Antalya), Turkey
+SEMAN1;2024;Mapping Forest Fire-affected Areas Using Advanced Machine Learning Techniques in Damoh District of Central India
+SEMAN1;2024;Forest Fire Prediction and Management using AI (Artificial Intelligence), ML (Machine Learning) and Deep Learning Techniques
+SEMAN1;2023;Flood, landslides, forest fire, and earthquake susceptibility maps using machine learning techniques and their combination
+SEMAN1;2023;Color Models Aware Dynamic Feature Extraction for Forest Fire Detection Using Machine Learning Classifiers
+SEMAN1;2023;Forest Fire Detection using Machine Learning
+SEMAN1;2023;Forest Fire Prediction Using Machine Learning Techniques
+SEMAN1;2023;Forest Fire Detection using CNN-RF and CNN-XGBOOST Machine Learning Algorithms
+SEMAN1;2023;Comparison of Forest Fire Prediction System using Machine Learning Alogrithms
+SEMAN1;2022;Mapping China's Forest Fire Risks with Machine Learning
+SEMAN1;2023;Forest Fire Prediction Using Machine Learning
+SEMAN1;2023;Using Ensemble Machine Learning Algorithm to Predict Forest Fire Occurrence Probability in Madhya Pradesh and Chhattisgarh, India
+SEMAN1;2023;Forest Fire Likelihood And Risk Modeling: A Machine Learning Approach
+SEMAN1;2025;AutoML-Fire: Automated machine-learning approach to predict forest fires
+SEMAN1;2023;Comparison of Forest Fire Prediction System using Machine Learning Alogrithms
+SEMAN1;2023;Integrating IoT and Machine Learning for Enhanced Forest Fire Detection and Temperature Monitoring
+SEMAN1;2023;Color Models Aware Dynamic Feature Extraction for Forest Fire Detection Using Machine Learning Classifiers
+SEMAN1;2022;Mapping China's Forest Fire Risks with Machine Learning
+SEMAN1;2023;Forest Fire Prediction Using Machine Learning
+SEMAN1;2023;Using Ensemble Machine Learning Algorithm to Predict Forest Fire Occurrence Probability in Madhya Pradesh and Chhattisgarh, India
+SEMAN1;2023;Forest Fire Likelihood And Risk Modeling: A Machine Learning Approach
+SEMAN1;2025;AutoML-Fire: Automated machine-learning approach to predict forest fires
+SEMAN1;2025;Drivers of forest fires under fire management policies: A comparison of machine learning models based on multi-temporal MODIS fire data
+SEMAN1;2025;MLSFDD: Machine-Learning-Based Smart Fire Detection Device for Precision Agriculture
+SEMAN1;2021;Application of remote sensing and machine learning algorithms forest fire mapping in a Mediterranean area
+SEMAN1;2025;A machine learning model to predict wildfire burn severity for pre-fire risk assessments, Utah, USA
+SEMAN1;2026;An Intelligent Forest Fire Detection System Using Machine Learning
+SEMAN1;2024;Review of Modern Forest Fire Detection Techniques: Innovations in Image Processing and Deep Learning
+SEMAN1;2022;Forest Fire Occurrence Prediction in China Based on Machine Learning Methods
+SEMAN1;2023;Comparative Analysis of Machine Learning-based Forest Fire Characteristics in Sumatra and Borneo
+SEMAN1;2024;Smart Forest Guardians: Advances in Fire Detection using Machine Learning
+SEMAN1;2022;Forest fire susceptibility prediction using machine learning models with resampling algorithms, Northern part of Eastern Ghat Mountain range (India)
+SEMAN1;2024;Comparing machine learning algorithms to predict vegetation fire detections in Pakistan
+SEMAN1;2021;Forest fire detection system using wireless sensor networks and machine learning
+SEMAN1;2021;Spatio-temporal analysis of forest fire events in the Margalla Hills, Islamabad, Pakistan using socio-economic and environmental variable data with machine learning methods
+SEMAN1;2023;A Survey of the Machine Learning Models for Forest Fire Prediction and Detection
+SEMAN1;2023;Forest fire management using machine learning techniques
+SEMAN1;2025;Soil Organic Carbon Fractionation Assessment in Areas with High Fire Activity Using Diffuse Spectroscopy and Tree-Based Machine Learning Algorithms
+SEMAN1;2023;Desert/Forest Fire Detection Using Machine/Deep Learning Techniques
+SEMAN1;2022;Modeling Forest Fire Spread Using Machine Learning-Based Cellular Automata in a GIS Environment
+SEMAN1;????;Fire and smoke detection using adoption of machine learning algorithm for improving fire safety and disaster preparedness
+SEMAN1;2025;Sub-hourly forecasting of fire potential using machine learning on time series of surface weather variables
+SEMAN1;2025;Modeling Seasonal Fire Probability in Thailand: A Machine Learning Approach Using Multiyear Remote Sensing Data
+SEMAN1;2022;Modeling and Mapping of Forest Fire Occurrence in the Lower Silesian Voivodeship of Poland Based on Machine Learning Methods
+SEMAN1;2022;Assessment of Three Machine Learning Techniques with Open-Access Geographic Data for Forest Fire Susceptibility Monitoring-Evidence from Southern Ecuador
+SEMAN1;2022;Estimating Next Day's Forest Fire Risk via a Complete Machine Learning Methodology
+SEMAN1;2023;Correction to: Flood, landslides, forest fire, and earthquake susceptibility maps using machine learning techniques and their combination
+SEMAN1;2023;Forest Fire Prediction using Supervised Machine Learning Algorithms
+SEMAN1;2022;Density-Based Machine Learning Scheme for Outlier Detection in Smart Forest Fire Monitoring Sensor Cloud
+SEMAN1;2025;Daily-Scale Fire Risk Assessment for Eastern Mongolian Grasslands by Integrating Multi-Source Remote Sensing and Machine Learning
+SEMAN1;2023;Fight Fire with Fire: Detecting Forest Fires with Embedded Machine Learning Models Dealing with Audio and Images on Low Power IoT Devices
+SEMAN1;2024;Utilizing Machine Learning and Geospatial Techniques to Evaluate Post-Fire Vegetation Recovery in Mediterranean Forest Ecosystem: Tenira, Algeria
+SEMAN1;2021;Predicting Forest Fire Using Remote Sensing Data And Machine Learning
+SEMAN1;2022;Early Stage Forest Fire Detection from Himawari-8 AHI Images Using a Modified MOD14 Algorithm Combined with Machine Learning
+SEMAN1;2023;Prediction of forest fire susceptibility applying machine and deep learning algorithms for conservation priorities of forest resources
+SEMAN1;2024;Heuristic Forest Fire Detection Using the Deep Learning Model with Optimized Cluster Head Selection Technique
+SEMAN1;2020;Forest Fire Susceptibility Prediction Based on Machine Learning Models with Resampling Algorithms on Remote Sensing Data
+SEMAN1;2020;Performance Evaluation of Machine Learning Methods for Forest Fire Modeling and Prediction
+SEMAN1;2020;Landsat-8 and Sentinel-2 based Forest fire burn area mapping using machine learning algorithms on GEE cloud platform over Uttarakhand, Western Himalaya
+SEMAN1;2021;Comprehensive Analysis of Forest Fire Detection using Deep Learning Models and Conventional Machine Learning Algorithms
+SEMAN1;2021;Quantifying Forest Fire and Post-Fire Vegetation Recovery in the Daxin'anling Area of Northeastern China Using Landsat Time-Series Data and Machine Learning
+SEMAN1;2021;Forest Fire Prediction Using Machine Learning Techniques
+SEMAN1;2020;Application of learning vector quantization and different machine learning techniques to assessing forest fire influence factors and spatial modelling
+SEMAN1;2024;Fire Source Determination Method for Underground Commercial Streets Based on Perception Data and Machine Learning
+SEMAN1;2025;Predicting California Wildfire Damage to Structures Using Machine Learning: A Comparative Study of Random Forest and XGBoost
+SEMAN1;2023;Forest Fire Risk Prediction Based on Stacking Ensemble Learning for Yunnan Province of China
+SEMAN1;2021;Peatland Data Fusion for Forest Fire Susceptibility Prediction Using Machine Learning
+SEMAN1;2021;Prediction of Forest Fire Using Machine Learning Algorithms: The Search for the Better Algorithm
+SEMAN1;2024;IoT-Based Fire Detection: A Comparative Study of Machine Learning Techniques
+SEMAN1;2024;Comparative study of teachable machine forest fire and smoke detection by drone
+SEMAN1;2021;Classification of forest fire areas using machine learning algorithm
+SEMAN1;2024;ANALYSIS OF MACHINE LEARNING ALGORITHMS FOR SEISMIC ANOMALY DETECTION IN INDONESIA: UNVEILING PATTERNS IN THE PACIFIC RING OF FIRE
+SEMAN1;2024;Fire Smoke Detection System using Machine Learning Models
+SEMAN1;2024;Investigation on the Association Between Socio-Economic Multivariate Data and Fire Incidence Based on Machine Learning Method: A Case Study in Shaanxi, China
+SEMAN1;2024;Investigation on the Association Between Socio-Economic Multivariate Data and Fire Incidence Based on Machine Learning Method: A Case Study in Shaanxi, China
+SEMAN1;2024;Identification of smoke peatland fire using remote sensing data based on machine learning
+SEMAN1;2024;Fire Smoke Detection System using Machine Learning Models
+SEMAN1;2019;Spatial pattern analysis and prediction of forest fire using new machine learning approach of Multivariate Adaptive Regression Splines and Differential Flower Pollination optimization: A case study
+SEMAN1;2024;RETRACTED ARTICLE: Research on fire accident prediction and risk assessment algorithm based on data mining and machine learning
+SEMAN1;2020;A Comparison of Two Machine Learning Classification Methods for Remote Sensing Predictive Modeling of the Forest Fire in the North-Eastern Siberia
+SEMAN1;2021;Machine-learning modelling of fire susceptibility in a forest-agriculture mosaic landscape of southern India
+SEMAN1;2022;Predicting areas affected by forest fire based on a machine learning algorithm
+SEMAN1;2023;Prevention of fire and hunting in forests using machine learning for sustainable forest management
+SEMAN1;2023;Forest fire pattern and vulnerability mapping using deep learning in Nepal
+SEMAN1;2024;Improving Deep Machine Learning for Early Wildfire Detection from Forest Sensory Images
+SEMAN1;2020;FOREST FIRE DETECTION USING MACHINE LEARNING
+SEMAN1;2020;Prediction of Forest Fire Occurrence in Peatlands using Machine Learning Approaches
+SEMAN1;2023;Assessing Fire Risk in Wildland-Urban Interface Regions Using a Machine Learning Method and GIS data: The Example of Istanbul's European Side
+SEMAN1;2020;Riau Forest Fire Prediction using Supervised Machine Learning
+SEMAN1;2024;Mapping recent timber harvest activity in a temperate forest using single date airborne LiDAR surveys and machine learning: lessons for conservation planning
+SEMAN1;2021;Early Forest Fire Detection Using Machine Learning Algorithms
+SEMAN1;2024;Predicting the Duration of Forest Fires Using Machine Learning Methods
+SEMAN1;2024;Evaluation of Machine Learning Models to Predict the Probability of Forest Fires with Small Training Sample, Case of the Wilaya of Sidi Belabbes
+SEMAN1;2024;A framework for natural resource management with geospatial machine learning: a case study of the 2021 Almora forest fires
+SEMAN1;2018;GIS-based spatial prediction of tropical forest fire danger using a new hybrid machine learning method
+SEMAN1;2023;A Brief Review of Machine Learning Algorithms in Forest Fires Science
+SEMAN1;2023;Fire danger forecasting using machine learning-based models and meteorological observation: a case study in Northeastern China
+SEMAN1;2023;A High-Resolution Spatial Distribution-Based Integration Machine Learning Algorithm for Urban Fire Risk Assessment: A Case Study in Chengdu, China
+SEMAN1;2023;Developing novel machine-learning-based fire weather indices
+SEMAN1;2023;Machine Learning Models Using SHapley Additive exPlanation for Fire Risk Assessment Mode and Effects Analysis of Stadiums
+SEMAN1;2020;Research on Multi-Factor Forest Fire Prediction Model Using Machine Learning Method in China
+SEMAN1;2021;Recognition of gasoline in fire debris using machine learning: Part I, application of random forest, gradient boosting, support vector machine, and naive bayes
+SEMAN1;2020;Forest Fire Prediction using Machine Learning Models based on DC, Wind and RH
+SEMAN1;2023;Automated Forest Fire Detection using Atom Search Optimizer with Deep Transfer Learning Model
+SEMAN2;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN2;2024;Machine Learning and Deep Learning for Wildfire Spread Prediction: A Review
+SEMAN2;2022;A Review of Genetic Algorithm Approaches for Wildfire Spread Prediction Calibration
+SEMAN2;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN2;2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
+SEMAN2;2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+SEMAN2;2019;Methods for Wildfire Spread Prediction and Their Integration With Remote Sensing Data
+SEMAN2;2024;Advancements in Wildfire Detection and Prediction: An In-Depth Review
+SEMAN2;2023;Facing the Wildfire Spread Risk Challenge: Where Are We Now and Where Are We Going?
+SEMAN2;2024;A Short Survey of Human Mobility Prediction in Epidemic Modeling from Transformers to LLMs
+SEMAN2;2024;Wildfire smoke and health impacts: a narrative review
+SEMAN2;2025;Wildfire and power grid nexus in a changing climate
+SEMAN2;2020;Prediction of global spread of COVID-19 pandemic: a review and research challenges
+SEMAN2;2025;Optimization Algorithms for Deep Learning Prediction of Liver cirrhosis: A Survey
+SEMAN2;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN2;2021;Analysis, Prediction, and Control of Epidemics: A Survey from Scalar to Dynamic Network Models
+SEMAN2;2022;Graph Representation Learning for Popularity Prediction Problem: A Survey
+SEMAN2;2021;A survey of uncertainty in deep neural networks
+SEMAN2;2016;Indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
+SEMAN2;2023;Deep Learning Approaches for Wildland Fires Using Satellite Remote Sensing Data: Detection, Mapping, and Prediction
+SEMAN2;2020;Agent-based modelling for wildfire behaviour prediction
+SEMAN2;2021;Role of machine learning and big data in healthcare for the prediction of epidemic diseases: a survey
+SEMAN2;2025;Beyond the Norm: A Survey of Synthetic Data Generation for Rare Events
+SEMAN2;2020;Data-driven Analytical Models of COVID-2019 for Epidemic Prediction, Clinical Diagnosis, Policy Effectiveness and Contact Tracing: A Survey
+SEMAN2;2022;A Comprehensive Survey on Various Cancer Prediction Using Natural Language Processing Techniques
+SEMAN2;2022;A Comprehensive Survey on Parametric and Non-Parametric Machine Learning Approaches for Bus Arrival Time Prediction
+SEMAN2;2021;A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances
+SEMAN2;2016;Survey of visual sentiment prediction for social media analysis
+SEMAN2;2021;Lung Cancer Prediction Using Machine Learning: A Systematic Review
+SEMAN2;2021;Radiomics for Identification and Prediction in Metastatic Prostate Cancer: A Review of Studies
+SEMAN2;2018;Dengue Epidemics Prediction: A Survey of the State-of-the-Art Based on Data Science Processes
+SEMAN2;2024;A Survey of Flow Field and Combustion Characteristics under Subatmospheric Pressure
+SEMAN2;2019;An Extensive Survey on Recent Machine Learning Algorithms for Diabetes Mellitus Prediction
+SEMAN2;2023;A survey of micro-video analysis
+SEMAN2;2022;A Survey of Deep Learning-based Object Detection Methods and Datasets for Overhead Imagery
+SEMAN2;2019;A survey on cancer prediction and detection with data analysis
+SEMAN2;2016;Survey of visual sentiment prediction for social media analysis
+SEMAN2;2023;A Survey of Information Dissemination Model, Datasets, and Insight
+SEMAN2;2024;A critical review on the charging and transport dynamics of atmospheric radioactive aerosols: Fundamentals and advances
+SEMAN2;2025;A Comprehensive Survey of Fire Weather Index (FWI) Systems and IoT Applications in Peatland Fire Management
+SEMAN2;2023;Impact of Deep Learning in Analytics of Climate Change: A Survey
+SEMAN2;2024;Research Trends in Wildland Fire Prediction Amidst Climate Change: A Comprehensive Bibliometric Analysis
+SEMAN2;2022;A Survey on Machine Learning and Internet of Medical Things-Based Approaches for Handling COVID-19: Meta-Analysis
+SEMAN2;2021;A Survey on Mathematical, Machine Learning and Deep Learning Models for COVID-19 Transmission and Diagnosis
+SEMAN2;2022;Intelligent monitoring for infectious diseases with fuzzy systems and edge computing: A survey
+SEMAN2;????;USING IOT AND ML FOR FOREST FIRE DETECTION, MONITORING, AND PREDICTION: A LITERATURE REVIEW
+SEMAN2;2022;A Systematic Literature Review on Leukemia Prediction Using Machine Learning
+SEMAN2;2023;Global risk of selection and spread of Plasmodium falciparum histidine-rich protein 2 and 3 gene deletions
+SEMAN2;2024;A Survey of Artificial Intelligence Integrating Image Processing Techniques for Predicting Solar Energy Production: Challenges and Innovations
+SEMAN2;2021;Environmental challenges induced by extensive use of face masks during COVID-19: A review and potential solutions
+SEMAN2;2023;Fake News Prediction
+SEMAN2;2020;Deep Learning for Human Mobility: a Survey on Data and Models
+SEMAN2;2025;A comprehensive review of LLM applications for lung cancer diagnosis and treatment: classification, challenges, and future directions
+SEMAN2;2021;Risk factors associated with day-30 mortality in patients over 60 years old admitted in ICU for severe COVID-19: the Senior-COVID-Rea Multicentre Survey protocol
+SEMAN2;2020;Prevalence and characteristics of hepatitis C virus infection in Shenyang City, Northeast China, and prediction of HCV RNA positivity according to serum anti-HCV level: retrospective review of
+SEMAN2;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN2;2021;Towards prevention and prediction of infectious diseases with virus sterilization using ultraviolet light and low-temperature plasma and bio-sensing devices for health and hygiene care
+SEMAN2;2020;Wildfire spreading across the urban area: definition and mapping of vegetation connectivity
+SEMAN2;2021;A scoping review on the use of machine learning in research on social determinants of health: Trends and research prospects
+SEMAN2;2026;Forest Fire Environmental Drivers and Predictive Modeling Approaches
+SEMAN2;2015;Empirical-based models for predicting head-fire rate of spread in Australian fuel types
+SEMAN2;2022;Predicting Stock Price Changes Based on the Limit Order Book: A Survey
+SEMAN2;2020;Predicting Infections Using Computational Intelligence-A Systematic Review
+SEMAN2;2025;Determination of social perception of the role of forest fire break roads and fire lanes in fire prevention
+SEMAN2;2021;A Survey on SARS-COV-2 (COVID-19) using Machine Learning Techniques
+SEMAN2;2022;A Computationally Efficient Method for Updating Fuel Inputs for Wildfire Behavior Models Using Sentinel Imagery and Random Forest Classification
+SEMAN2;2012;Urban Growth Prediction: A Review of Computational Models and Human Perceptions
+SEMAN2;2022;Current Artificial Intelligence (AI) Techniques, Challenges, and Approaches in Controlling and Fighting COVID-19: A Review
+SEMAN2;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN2;2022;Prospective Validation of the Calgary Kids' Hand Rule: A Clinical Prediction Rule for Pediatric Hand Fracture Triage
+SEMAN2;2015;Alternative Cosmology Group Newsletter-2007 Year End Review Posted 2 / 14 / 2007 Cosmology in 2007: A Year-End Survey
+SEMAN2;2018;Statistical models for the location of lightning-caused wildfire ignitions
+SEMAN2;2009;Review of knowledge transfer program based on mobile phone (KEITAI)'s technology prediction and its psychological impact on users
+SEMAN2;2021;Survey on Fire Fighting techniques using Unmanned Aerial Vehicles
+SEMAN2;2021;Challenges and approaches to time-series forecasting in data center telemetry: A Survey
+SEMAN2;2020;Methodological Principles and Applications of the Delphi Method: A Narrative Review
+SEMAN2;2024;Temporary Employment in Markets with Frictions
+SEMAN2;2023;Review of Research on Human Behavior in Large Outdoor Fires
+SEMAN2;2019;Experimental and Comparison Based Study on Diabetes Prediction Using Artificial Neural Network
+SEMAN2;2020;Deep Learning Approaches for Detecting COVID-19 From Chest X-Ray Images: A Survey
+SEMAN2;2022;Review on the COVID-19 pandemic prevention and control system based on AI
+SEMAN2;2022;A Systematic Review and Bibliometric Analysis of Wildland Fire Behavior Modeling
+SEMAN2;2018;Forest Fire Detection System Using IoT and Artificial Neural Network
+SEMAN2;2014;Uncertainty in model predictions of wildland fire rate of spread
+SEMAN2;2021;Survey Paper on Sentiment Analysis Using Machine Learning Techniques
+SEMAN2;2020;Wildfire Recurrence at Quilombola Kalunga Territory (GO)
+SEMAN2;2018;Trends in fluoroquinolone resistance in Campylobacter
+SEMAN2;2025;Habitat for the endangered ephemeral Monotaxis macrophylla (Euphorbiaceae) in New South Wales: how do predictions compare with the evidence?
+SEMAN2;2021;Parameter Based Literature Survey of COVID-19 Mortality Dynamics Using Machine Learning Techniques
+SEMAN2;2024;Valley fever under a changing climate in the United States
+SEMAN2;2020;A recent review of fire behavior and fire effects on native vegetation in Central Chile
+SEMAN2;????;A Survey on Ensemble Learning Approaches for Classification of Real Time COVID-19 Data and Forecasting Severity of the Epidemic
+SEMAN2;2017;How well has the spread of sudden oak death been predicted by the models in northern California
+SEMAN2;2011;Genomic Selection in Plant Breeding
+SEMAN2;2016;Survey of Computational Methods in Cyberbullying Research
+SEMAN2;2003;A survey of various propagation models for mobile communication
+SEMAN2;????;Predicting climate change effects on wildfires requires linking processes across scales
+SEMAN2;2006;A survey on roughness measurements
+SEMAN2;2014;A Literature Review: Forest Management with Neural Network and Artificial Intelligence
+SEMAN2;2017;MACHINE PREDICTS THE DIAGNOSIS A BRIEF REVIEW OF MEDICAL DIAGNOSIS BY MACHINE LEARNING TECHNIQUES
+SEMAN2;2021;Deep Learning applications for COVID-19
+SEMAN2;2021;Combustion dynamics of large-scale wildfires
+SEMAN2;2006;Wildfire evolution in the convective boundary layer
+SEMAN2;????;Recent Progress in Understanding Larval Dispersal: New Directions and Digressions
+SEMAN2;????;Distribution of threatened crayfishes and spread of an invasive crayfish in the upper Saint Francis River drainage, Missouri
+SEMAN2;1996;Random set models of fire spread
+SEMAN2;2012;Epidemic Spreading Over Social Networks Using Large-scale Biosensors: A Survey
+SEMAN2;2015;Distribution of Corbicula fluminea (Muller, 1774) in the invaded range: a geographic approach with notes on species traits variability
+SEMAN2;2009;Modelling the spread of wildland fire under Mediterranean conditions
+SEMAN2;2011;NIST GCR 11-953 Wildfire Modeling
+SEMAN2;2012;CENTERIS 2012-Conference on ENTERprise Information Systems / HCIST 2012-International Conference on Health and Social Care Information Systems and Technologies Epidemic spreading over social
+SEMAN2;1999;The serological response to papillomaviruses
+SEMAN2;2019;The Northern California Wildfires of 8-9 October 2017: The Role of a Major Downslope Wind Event
+SEMAN2;2014;An Overview of Information Hiding in H.264/AVC Compressed Video
+SEMAN2;2020;Gene Expression Profiling Tests for Early-Stage Invasive Breast Cancer: A Health Technology Assessment
+SEMAN2;2014;Climate change and the potential spread of Sorghum halepense in the central area of Argentina based on growth, biomass allocation and eco-physiological traits
+SEMAN2;2022;Machine Learning Role in Cognitive Mental Health Analysis amid Covid-19 Crisis: A Critical Study
+SEMAN2;2017;Intraspecific floral scent variation in the context of evolutionary ecology (Review) The intricate intracellular structure of a rice mesophyll cell Evolution of UV floral patterning in sunflowers
+SEMAN2;2021;A Study on Varieties of Computer Intelligent Models for Early Detection of Prostate Cancer
+SEMAN2;2014;Climate change and the potential spread of Sorghum halepense in the central area of Argentina based on growth, biomass allocation and eco-physiological traits
+SEMAN2;2016;Are forest gullies refuges for birds when burnt? The value of topographical heterogeneity to avian diversity in a fire-prone landscape
+SEMAN2;2016;The French Counterrevolutionary Theorist Louis de Bonald (1754-1840) by David Klinck (review)
+SEMAN2;2011;Dynamics of change in the practice of female genital cutting in Senegambia: testing predictions of social convention theory
+SEMAN2;2020;Characterizing spatial patterns of pine bark beetle outbreaks during the dry and rainy season's in Honduras with the aid of geographic information systems and remote sensing data
+SEMAN2;2022;THE IMPACT OF COVID-19 ON THE DIAGNOSIS OF MELANOMA IN BRITISH COLUMBIA
+SEMAN2;2012;Fuels and fire behavior dynamics in bark beetle-attacked forests in Western North America and implications for fire management
+SEMAN2;2014;Optimization of Lung Cancer using Modern Data Mining Techniques
+SEMAN2;2021;Sharing Economy in Russia: A Possible New Source of Political Participation and Democratization?
+SEMAN2;1986;The analysis and modelling of British invasions
+SEMAN2;2019;Potential impacts of insect-induced harvests in the mixed forests of New England
+SEMAN2;2008;Recent advances in metastasis research
+SEMAN2;2013;Wildland-urban interface (WUI) fire modelling using PHOENIX Rapidfire: A case study in Cavaillon, France
+SEMAN2;2020;Diagnostic accuracy of an app-guided, self-administered test for influenza among individuals presenting to general practice with influenza-like illness: study protocol
+SEMAN2;2020;The Present and Future Role for sUAS in Atmospheric Sciences
+SEMAN2;2019;The extent of carbapenemase-encoding genes in public genome sequences
+SEMAN2;????;Deep Learning Based Cyclone Intensity Estimation Using INSAT-3D IR Imagery
+SEMAN2;????;The China Boom: Why China Will Not Rule the World by Ho-fung Hung (review)
+SEMAN2;2017;Determinants of West Nile Virus (WNV) incidence in select regions of Canada: an examination of climate and ecological drivers in British Columbia and Saskatchewan
+SEMAN2;2021;Deep Learning applications for COVID-19
+SEMAN2;2018;Planning for greying cities: age-friendly city planning and design research and practice
+SEMAN2;2010;Etats dangereux et troubles psychiques: images et realites
+SEMAN2;????;The impact of greenhouse gas emissions and green innovation on corporate investors' financial performance: A systematic review L'impact des emissions de gaz a effet de serre et de l'innovation verte
+SEMAN2;2015;Distribution of Corbicula fluminea (Muller, 1774) in the invaded range: a geographic approach with notes on species traits variability
+SEMAN2;2014;Evaluating Pre-and Post-Fire Peak Discharge Predictions across Western U.S. Watersheds
+SEMAN2;1992;The genetics of plant-virus interactions: implications for plant breeding
+SEMAN2;1937;Chapter II: The Measurement and Prediction of Teaching Ability
+SEMAN2;2015;Robust shallow water models
+SEMAN2;1966;Book Review: The Philosophy of Francis Bacon
+SEMAN2;1994;The development of the fire diffusion law by modelling the level of danger and its evolution over time.: comparison with experimental data in Lebanese forests
+SEMAN2;2004;Effects of varicella vaccination on herpes zoster incidence
+SEMAN2;????;Emex australis biology, management and research
+SEMAN2;2002;Operationalization of Meme Selection Criteria: Methodologies to Empirically Test Memetic Predictions
+SEMAN2;2010;Using seafloor heat flow as a tracer to map subseafloor fluid flow in the ocean crust
+SEMAN2;2011;O1-S11.01 Time evolution of the fraction of new HIV infections due to primary infection among high risk groups in southern India
+SEMAN2;2010;[Dangerous states and mental health disorders: perceptions and reality]
+SEMAN2;2014;A warm welcome to ' Carbon Cycling: From Plants to Ecosystems ', at the University of Manchester!
+SEMAN2;2014;Beware of strange black rats and other stories
+SEMAN2;2008;Lifting the unbearable weight of morbid obesity
+SEMAN2;2016;Economics and Finance in Emerging Markets
+SEMAN2;1983;[Influence of influenza epidemics on the urban population]
+SEMAN2;2014;Introduction for the special Issue on BIG DATA
+SEMAN2;2013;Sickle-cell disorders: limits of descriptive epidemiology
+SEMAN2;2002;The Public Health Implications of Global Warming
+SEMAN2;2010;The Semiotic Review of Books
+SEMAN2;????;P67. Assessing Risk of Influenza Infection on a College Campus: An Emphasis on Housing Arrangement
+SEMAN2;2011;The Movement To Cyberbanking
+SEMAN2;2014;BLOCK ORIENTED SYSTEM IDENTIFICATION REPRESENTATION OF PNEUMATIC SEAT BLADDER DESIGN USED FOR VIBRATION ISOLATION
+SEMAN2;1996;GIS-supported simulation of the spatial behaviour of wildland fire, Cass Basin, New Zealand
+SEMAN2;2012;Fire & Materials, 31 Jan-2 Feb 2011, San Francisco, CA COMPUTER MODELLING OF WILDLAND-URBAN INTERFACE FIRES
+SEMAN2;1957;Recent studies on flame stabilization of premixed turbulent gases
+SEMAN2;2005;Statistische und Probabilistische Methoden der Modellwahl
+SEMAN2;2005;Review of "Bioterrorism: Mathematical modeling applications in homeland security" by H. T. Banks and C. Castillo-Chavez
+SEMAN2;2010;THE EXTENT, EFFECTS AND DYNAMICS OF AMPHIBIAN CHYTRIDIOMYCOSIS IN AUSTRALIA
+SEMAN2;2006;Mathematisches Forschungsinstitut Oberwolfach Report No. 47 / 2005 Statistische und Probabilistische Methoden der Modellwahl
+SEMAN2;2002;Global Climate Change and Air Pollution: Common Origins With Common Solutions
+SEMAN2;1994;Mirian E. David, Parents, Gender and Education Reform, Polity Press, Oxford, 1993, ix + 256 pp., £45.00 hard, £12.95 paper.-Philipa Cordingley and Maurice Kogan, In Support Education: Governing the
+SEMAN2;2006;World-wide power quality-20-year cycles of development, 1965 to 2025
+SEMAN2;2004;A FEW MILLI-CRAB SENSITIVITY FROM 100 KEV TO 100 TEV
+SEMAN2;1997;BETTER FORECASTING THROUGH LOOKING BACK
+SEMAN2;2002;A REFERENCE DATA SET FOR VALIDATING 3-D MODELS
+SEMAN2;2006;Introduction: Religion, Division, and the Constitution
+SEMAN2;1997;Why are antibiotic resistance genes so resistant to elimination?
+SEMAN2;2023;Solar Intensity Dispersing (SID) Concept for CubeSat Spectral CLARREO-Like Radiance Measurements
+SEMAN2;2023;COVID-19 AND RELATED GOVERNMENT REGULATIONS' IMPACT ON EMPLOYMENT IN GEORGIA
+SEMAN2;2022;Small Business Innovation Research Program
+SEMAN2;2006;Econophysics and Sociophysics: Trends and Perspectives
+SEMAN2;2022;Budgetierung in Organisationen-heftig umstritten und heiß geliebt fur das Masterseminar im Wintersemester 2022/2023 Better budgeting or beyond budgeting? In: Measuring Business Vol. No. pp
+SEMAN2;2013;Encyclopedia of natural hazards
+SEMAN2;1970;Research in education
+SEMAN2;2016;Bond Spreads and Economic Activity in Eight European Economies
+SEMAN2;2021;Parallel Session Abstracts
+SEMAN2;2021;DATA ANALYSIS METHODS FOR SOFTWARE SYSTEMS
+SEMAN2;1981;Posterior odds ratios for regression hypotheses: General considerations and some specific results
+SEMAN2;2001;Probability, Random Signals, and Statistics
+SEMAN2;2019;Conceptual associations guide social inference
+SEMAN2;2003;Diagnosing Strep Throat in the Adult Patient: Do Clinical Criteria Really Suffice?
+SEMAN2;2017;Annals for Hospitalists Inpatient Notes-Research Highlights From Hospital Medicine 2017
+SEMAN2;2017;and CD44 Immunoexpression in Primary Central Nervous System Lymphoma, and Comparison with Nodal and Extranodal Diffuse Large B-Cell Lymphoma Expression of Sonic Hedgehog Signaling Pathway Related
+SEMAN2;2012;CONSUMER LIFESTYLE INFLUENCE OF CONSUMER BEHAVIOUR WITH REFERENCE TO AUTOMOBILE INDUSTRY IN CHENNAI
+SEMAN3;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN3;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN3;2023;GIS, AI, and Environmental Data in Fire Susceptibility Mapping: A Survey
+SEMAN3;2023;Spatial Prediction of Wildfire Susceptibility Using Hybrid Machine Learning Models Based on Support Vector Regression in Sydney, Australia
+SEMAN3;2023;Deep Learning Approaches for Wildland Fires Using Satellite Remote Sensing Data: Detection, Mapping, and Prediction
+SEMAN3;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN3;2020;Comparisons of Diverse Machine Learning Approaches for Wildfire Susceptibility Mapping
+SEMAN3;2020;A review of machine learning applications in wildfire science and management
+SEMAN3;2015;A Survey on Landslide Susceptibility Mapping Using Soft Computing Techniques
+SEMAN3;2020;Wildfire susceptibility mapping via machine learning: the case study of Liguria Region, Italy
+SEMAN3;2024;Non-negative matrix factorization (NMF) in fire susceptibility
+SEMAN3;2018;Susceptibility mapping of gully erosion using GIS-based statistical bivariate models: a case study from Ali Al-Gharbi District, Maysan Governorate, southern Iraq
+SEMAN3;2021;Wildfire susceptibility assessment: evaluation of the performance of different machine learning algorithms
+SEMAN3;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
+SEMAN3;2020;Wildfire spreading across the urban area: definition and mapping of vegetation connectivity
+SEMAN3;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN3;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN3;2024;Landslide Prediction Validation in Western North Carolina After Hurricane Helene
+SEMAN3;2026;Forest Fire Environmental Drivers and Predictive Modeling Approaches
+SEMAN3;2014;Large-scale risk mapping of an eruptive bark beetle-Importance of forest susceptibility and beetle pressure
+SEMAN3;2014;Large-scale risk mapping of an eruptive bark beetle-Importance of forest susceptibility and beetle pressure
+SEMAN3;2019;Assessment of Landslide Susceptibility Using Statistical-and Artificial Intelligence-Based FR-RF Integrated Model and Multiresolution DEMs
+SEMAN3;2026;Systematic Literature Review of Graph Neural Networks in Disaster Management: Methods, Applications, and Future Directions
+SEMAN3;2024;Evaluating the Impact of Recursive Feature Elimination on Machine Learning Models for Predicting Forest Fire-Prone Zones
+SEMAN3;2024;Advances in retrogressive thaw slump research in permafrost regions
+SEMAN3;2024;Melioidosis in India: Epidemiological Insights and Predictions from 20-Year Review of Literature with Note on Inclusive Capacity Building
+SEMAN3;2004;LANDSLIDE HAZARD AND RISK MAPPING-A REVIEW AND CLASSIFICATION
+SEMAN3;2020;Mapping insecticide resistance in mosquitoes to aid malaria control
+SEMAN3;2002;The allelic architecture of human disease genes: common disease-common variant.or not?
+SEMAN3;2014;An Overview of Information Hiding in H.264/AVC Compressed Video
+SEMAN3;2017;How well has the spread of sudden oak death been predicted by the models in northern California
+SEMAN3;2020;Characterizing spatial patterns of pine bark beetle outbreaks during the dry and rainy season's in Honduras with the aid of geographic information systems and remote sensing data
+SEMAN3;2014;Mapping disturbance interactions from earth and space: insect effects on tree mortality, fuels, and wildfires across forests of the Pacific Northwest
+SEMAN3;2021;The Association for Women Geoscientists
+SEMAN3;2010;Etats dangereux et troubles psychiques: images et realites
+SEMAN3;2020;The quest for measuring myelin with MRI-An interactive meta-analysis of quantitative comparisons with histology
+SEMAN3;2010;Measuring Vulnerability to Natural Hazards: Towards Disaster Resilient Societies by J. Birkmann
+SEMAN3;2010;[Dangerous states and mental health disorders: perceptions and reality]
+SEMAN3;2013;Sickle-cell disorders: limits of descriptive epidemiology
+SEMAN3;2012;Fire & Materials, 31 Jan-2 Feb 2011, San Francisco, CA COMPUTER MODELLING OF WILDLAND-URBAN INTERFACE FIRES
+SEMAN3;1986;The role of space borne imaging radars in environmental monitoring: Some shuttle imaging radar results in Asia
+SEMAN3;2005;Review of "Bioterrorism: Mathematical modeling applications in homeland security" by H. T. Banks and C. Castillo-Chavez
+SEMAN3;2013;Encyclopedia of natural hazards
+SEMAN3;2021;Parallel Session Abstracts
+SEMAN3;2021;DATA ANALYSIS METHODS FOR SOFTWARE SYSTEMS
+SEMAN3;2017;Annals for Hospitalists Inpatient Notes-Research Highlights From Hospital Medicine 2017
+SEMAN3;2010;Risk analysis VII: simulation and hazard mitigation-&, Brownfields V: prevention, assessment, rehabilitation and development of Brownfield Sites
+SEMAN3;2012;Genetics Dissection of Complex Traits in the Genomic Era
+SEMAN3;2008;Recent Publications of the Pacific Northwest Research Station First and Second Quarters, 2008
+SEMAN3;2006;Potential impact of climate change and water resources development on the epidemiology of schistosomiasis in China
+SEMAN4;2023;GIS, AI, and Environmental Data in Fire Susceptibility Mapping: A Survey
+SEMAN4;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN4;2020;Comparisons of Diverse Machine Learning Approaches for Wildfire Susceptibility Mapping
+SEMAN4;2024;A Systematic review of machine learning based landslide susceptibility mapping
+SEMAN4;2025;Systematic Review of Post-Wildfire Landslides
+SEMAN4;2023;A review on landslide susceptibility mapping research in Bangladesh
+SEMAN4;2023;Spatial Prediction of Wildfire Susceptibility Using Hybrid Machine Learning Models Based on Support Vector Regression in Sydney, Australia
+SEMAN4;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN4;2021;Experts' multiple criteria evaluations of fuel management options to reduce wildfire susceptibility. The role of closer knowledge of the local socioeconomic context
+SEMAN4;2023;Badland erosion susceptibility mapping using machine learning data mining techniques, Firozkuh watershed, Iran
+SEMAN4;2020;A review of machine learning applications in wildfire science and management
+SEMAN4;2024;A Novel Dataset Replenishment Strategy Integrating Time-Series InSAR for Refined Landslide Susceptibility Mapping in Karst Regions
+SEMAN4;2015;A Survey on Landslide Susceptibility Mapping Using Soft Computing Techniques
+SEMAN4;2024;Automated Underground Mapping of Buried Utilities: A Review of Robotic Solutions and Sensor Technologies
+SEMAN4;2023;How the recursive feature elimination affects the SVM and RF for relative wildfire susceptibility in a certain area? A study case in Northern Iran
+SEMAN4;2018;Susceptibility mapping of gully erosion using GIS-based statistical bivariate models: a case study from Ali Al-Gharbi District, Maysan Governorate, southern Iraq
+SEMAN4;2013;A Technical Survey of Various Methodologies for Landslide Susceptibility Mapping and Hazard Analysis
+SEMAN4;2021;An assessment of data mining and bivariate statistical methods for landslide susceptibility mapping
+SEMAN4;2011;Landslide Susceptibility Mapping: Literature Review and Findings
+SEMAN4;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
+SEMAN4;2020;Wildfire spreading across the urban area: definition and mapping of vegetation connectivity
+SEMAN4;2024;Relevance theory for mapping cognitive biases in fact-checking: an argumentative approach
+SEMAN4;2017;Landslide susceptibility mapping in Bijar city, Kurdistan Province, Iran: a comparative study by logistic regression and AHP models
+SEMAN4;2020;Mapping landslide susceptibility at the Three Gorges Reservoir, China, using gradient boosting decision tree, random forest and information value models
+SEMAN4;2017;Mining geohazards susceptibility and risk mapping: The case of the Amyntaio open-pit coal mine, West Macedonia, Greece
+SEMAN4;2025;A review of various analytical techniques for estimating subsurface heat flow regimes from aero-geophysical data
+SEMAN4;2023;The landscape of drug resistance in Plasmodium falciparum malaria in the Democratic Republic of Congo: a mapping systematic review
+SEMAN4;2023;Riverside Landslide Susceptibility Overview: Leveraging Artificial Neural Networks and Machine Learning in Accordance with the United Nations (UN) Sustainable Development Goals
+SEMAN4;2025;Post-wildfire debris flow in the Northwestern Italian Alps: description and numerical analysis of the June 2018 Bussoleno event
+SEMAN4;2023;How the recursive feature elimination affects the SVM and RF for wildfire modeling? A mountainous case study area
+SEMAN4;2023;Forest fuel type classification: Review of remote sensing techniques, constraints and future trends
+SEMAN4;2021;Endemicity of Paragonimus and paragonimiasis in Sub-Saharan Africa: A systematic review and mapping reveals stability of transmission in endemic foci for a multi-host parasite system
+SEMAN4;2018;Mapping insecticide resistance in Anopheles gambiae (s.l.) from Cote d'Ivoire
+SEMAN4;2021;Evolving Phishing Email Prevention Techniques: A Survey to Pin Down Effective Phishing Study Design Concepts
+SEMAN4;2018;Presentation of RFFR New Ensemble Model for Landslide Susceptibility Assessment in Iran
+SEMAN4;2019;Assessment of Landslide Susceptibility Using Statistical-and Artificial Intelligence-Based FR-RF Integrated Model and Multiresolution DEMs
+SEMAN4;2014;Wind erosion susceptibility of European soils
+SEMAN4;2013;Development and implementation of a landslide susceptibility zoning system for the UK rail network
+SEMAN4;2019;Development and implementation of a landslide susceptibility zoning system for the UK rail network Developpement et mise en œuvre d'un systeme de zonage de susceptibilite aux glissements de
+SEMAN4;2017;Application of Remote Sensing Technologies for Assessing Planted Forests Damaged by Insect Pests and Fungal Pathogens: a Review
+SEMAN4;2004;LANDSLIDE HAZARD AND RISK MAPPING-A REVIEW AND CLASSIFICATION
+SEMAN4;2021;Survey of MRI Usefulness for the Clinical Assessment of Bone Microstructure
+SEMAN4;2026;Systematic Literature Review of Graph Neural Networks in Disaster Management: Methods, Applications, and Future Directions
+SEMAN4;2026;Targeting Simulium Vectors to Accelerate Control of Onchocerciasis in the Mahenge Area, Tanzania: A Systematic Review
+SEMAN4;2020;Mapping insecticide resistance in mosquitoes to aid malaria control
+SEMAN4;2024;Evaluating the Impact of Recursive Feature Elimination on Machine Learning Models for Predicting Forest Fire-Prone Zones
+SEMAN4;????;Review on Applications of LiDAR Mapping Technology to Geosciences
+SEMAN4;2026;Integrating geomorphological and socio-spatial factors for landslide risk zonation in Atenas, Costa Rica
+SEMAN4;2023;The adoption of climate-smart agriculture to address wildfires in the Maya Golden Landscape of Belize: Smallholder farmers' perceptions
+SEMAN4;1996;Human type 1 diabetes and the insulin gene: principles of mapping polygenes
+SEMAN4;2015;Comparison of Logistic Regression and Random Forests techniques for shallow landslide susceptibility assessment in Giampilieri (NE Sicily, Italy)
+SEMAN4;2024;Advances in retrogressive thaw slump research in permafrost regions
+SEMAN4;2021;Digital Elevation Models of Rockfalls and Landslides: A Review and Meta-Analysis
+SEMAN4;2018;Geological hazards in the UNESCO World Heritage sites of the UK: From the global to the local scale perspective
+SEMAN4;2020;Susceptibility assessment of human-leopard conflict in Aravalli landscape of Haryana using geospatial techniques
+SEMAN4;2024;Landslide Prediction Validation in Western North Carolina After Hurricane Helene
+SEMAN4;2015;Atop Gallows Hill: magnetic susceptibility in archaeological reconnaissance
+SEMAN4;2002;The allelic architecture of human disease genes: common disease-common variant.or not?
+SEMAN4;2021;Geologic Terrain Analysis, Geomorphic Mapping in Support of Infrastructure Development
+SEMAN4;2022;Date of publication xxxx 00, 0000, date of current version xxxx 00, 0000
+SEMAN4;2016;Mapping the spatial configuration and severity of giraffe skin disease in Ruaha National Park, Tanzania
+SEMAN4;2012;Landslide inventory maps: New tools for an old problem
+SEMAN4;2017;Capturing digital data with handheld devices to determine the redox regime, lithology, and provenance of siliciclastic sediments and residual deposits-a review and field manual
+SEMAN4;2014;Mapping disturbance interactions from earth and space: insect effects on tree mortality, fuels, and wildfires across forests of the Pacific Northwest
+SEMAN4;2019;Spatial Modeling of Gully Erosion Using Linear and Quadratic Discriminant Analyses in GIS and R
+SEMAN4;2002;Progress and problems in defining susceptibility genes for rheumatic diseases
+SEMAN4;????;The Association for Women Geoscientists
+SEMAN4;2007;Genetic basis of murine lupus nephritis
+SEMAN4;2021;Applications of Proximal and Remote Sensing Technologies for Soil Investigations Symposium
+SEMAN4;2013;Abstract ED02-02: Interaction between genetics, epigenetics, and environment in cancer prevention
+SEMAN4;1987;Magnetic method applied to mineral exploration
+SEMAN4;2010;Measuring Vulnerability to Natural Hazards: Towards Disaster Resilient Societies by J. Birkmann
+SEMAN4;2021;Geophysical Reconnaissance for Siting Dryland Critical-Zone Monitoring Experiments in Southern New Mexico, USA
+SEMAN4;2020;The quest for measuring myelin with MRI-An interactive meta-analysis of quantitative comparisons with histology
+SEMAN4;2015;Asset Management Tools for Municipal Infrastructure Considering Interdependency and Vulnerability
+SEMAN4;2011;Hydrogen sulphide in Rotorua, New Zealand: personal exposure assessment and health effects: a thesis presented in partial fulfilment of the requirements for the degree of Master of Science in Earth
+SEMAN4;2011;Estudos Geograficos com Enfase na Geomorfologia: Questoes Teoricas, Metodologicas, Mapeamentos e Aplicacoes em Estudos Ambientais
+SEMAN4;2007;Application of remote sensing and geographical information system for the study of mass movements in Lebanon
+SEMAN4;2015;International Space Station Data Collection for Disaster Response
+SEMAN4;2009;Validation of a neural network model using cross application approaches
+SEMAN4;2009;Adopting national vegetation guidelines and the National Vegetation Information System (NVIS) framework in the Northern Territory
+SEMAN4;1981;Earthquake maps for developing areas in the San Francisco Bay area
+SEMAN4;2008;Visualising Risk for Hill Walkers
+SEMAN4;2011;Landslides and Engineering Geology of the Seattle, Washington, Area
+SEMAN4;1982;A design and field methods for monitoring impact on mortality of an oral therapy programme
+SEMAN4;2009;PIN42 ANALYZING INPATIENT DATA FOR HEPATITIS PATIENTS
+SEMAN4;2009;PIN38 PATIENT PREFERENCES AND STATED ADHERENCE FOR HEPATITIS C VIRUS TREATMENTS
+SEMAN4;2009;IN1 MEASUREMENT OF SYMPTOMS AND IMPACT OF INFLUENZA: DEVELOPMENT OF THE SYMPTOM INTENSITY AND IMPACT OF INFLUENZA QUESTIONNAIRE (FLU-IIQ)
+SEMAN4;2009;PIN39 ASSESSING DISEASE BURDEN FOR MEASLES USING A CLINICAL AND HEALTH OUTCOMES APPROACH: A FOCUS ON LOWER-INCOME COUNTRIES
+SEMAN4;2021;Nepalese landslide information system (NELIS): a conceptual framework for a web-based geographical information system for enhanced landslide risk management in Nepal
+SEMAN4;2013;Encyclopedia of natural hazards
+SEMAN4;2022;Landslide Analysis Approaches in Tropical Environment Region for Disaster Risk Reduction
+SEMAN4;2018;UAV or Drones for Remote Sensing Applications [volume 1]
+SEMAN4;2010;Risk analysis VII: simulation and hazard mitigation-&, Brownfields V: prevention, assessment, rehabilitation and development of Brownfield Sites
+SEMAN4;2012;A Landslide Risk Management Approach for the Stillwater to Ngakawau Rail Corridor (SNL96 to 126km) in the Lower Buller Gorge, New Zealand
+SEMAN4;2010;Regulation/ Gene Therapy Initial findings from whole exome sequencing of pediatric morphea lesional on of and in
+SEMAN4;2008;Recent Publications of the Pacific Northwest Research Station First and Second Quarters, 2008
+SEMAN4;2007;Recent Publications of the Pacific Northwest Research Station, Second Quarter, 2007
+SEMAN5;2024;Machine Learning and Deep Learning for Wildfire Spread Prediction: A Review
+SEMAN5;2022;A Review of Genetic Algorithm Approaches for Wildfire Spread Prediction Calibration
+SEMAN5;2019;Methods for Wildfire Spread Prediction and Their Integration With Remote Sensing Data
+SEMAN5;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN5;2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
+SEMAN5;2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+SEMAN5;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN5;2020;Prediction of global spread of COVID-19 pandemic: a review and research challenges
+SEMAN5;2025;Wildfire and power grid nexus in a changing climate
+SEMAN5;2023;Deep Learning Approaches for Wildland Fires Using Satellite Remote Sensing Data: Detection, Mapping, and Prediction
+SEMAN5;????;USING IOT AND ML FOR FOREST FIRE DETECTION, MONITORING, AND PREDICTION: A LITERATURE REVIEW
+SEMAN5;2011;Predicting climate change effects on wildfires requires linking processes across scales
+SEMAN5;2025;A Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model
+SEMAN5;2024;CNN-BiLSTM: A Novel Deep Learning Model for Near-Real-Time Daily Wildfire Spread Prediction
+SEMAN5;2025;Assessing WildfireGPT: a comparative analysis of AI models for quantitative wildfire spread prediction
+SEMAN5;2025;Assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 Maui fires
+SEMAN5;2025;Probabilistic Wildfire Spread Prediction Using an Autoregressive Conditional Generative Adversarial Network
+SEMAN5;2025;Vi-Net: A Hybrid Semantic Segmentation Approach for Enhanced Wildfire Spread Prediction
+SEMAN5;2025;Improved Wildfire Spread Prediction with Time-Series Data and the WSTS+ Benchmark
+SEMAN5;2025;An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
+SEMAN5;2024;Wildfire spread prediction using geostationary satellite observation data and directional ROS adjustment factor
+SEMAN5;2024;Wildfire Spread Prediction in North America Using Satellite Imagery and Vision Transformer
+SEMAN5;2024;Comparing Accuracy of Wildfire Spread Prediction Models under Different Data Deficiency Conditions
+SEMAN5;2024;Adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of sprinkler systems
+SEMAN5;2024;Wildfire Spread Prediction Through Remote Sensing and UAV Imagery-Driven Machine Learning Models
+SEMAN5;2023;THE LARGE-SCALE WILDFIRE SPREAD PREDICTION USING A MULTI-KERNEL CONVOLUTIONAL NEURAL NETWORK
+SEMAN5;2023;WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
+SEMAN5;2026;U-Net with Hadamard Transform and DCT Latent Spaces for Next-day Wildfire Spread Prediction
+SEMAN5;2024;Metaheuristic algorithms for calibration of two-dimensional wildfire spread prediction model
+SEMAN5;2024;Wildfire Spread Prediction Using Attention Mechanisms in U2-NET
+SEMAN5;2023;FirePred: A hybrid multi-temporal convolutional neural network model for wildfire spread prediction
+SEMAN5;2026;Incorporating Short-Term Forecast Mean Winds and NWP Maximum Gusts into Effective Wind Speed for Extreme Weather-Aware Wildfire Spread Prediction
+SEMAN5;2023;WFNet: A hierarchical convolutional neural network for wildfire spread prediction
+SEMAN5;2023;Incorporating Stochastic Wind Vectors in Wildfire Spread Prediction
+SEMAN5;2023;Wildfire Spread Prediction Using Attention Mechanisms in U-NET
+SEMAN5;2023;Wildfire Spread Prediction using Machine Learning Algorithms
+SEMAN5;2023;Real Time Monitoring of Forest Fires and Wildfire Spread Prediction
+SEMAN5;2022;Evolutionary Statistical System Based on Novelty Search: A Parallel Metaheuristic for Uncertainty Reduction Applied to Wildfire Spread Prediction
+SEMAN5;2022;Wildfire Spread Prediction Model Calibration Using Metaheuristic Algorithms
+SEMAN5;2025;CNN-Based Satellite Imagery Framework for Wildfire Detection and Spread Prediction
+SEMAN5;2019;Crowd-Sourced Wildfire Spread Prediction With Remote Georeferencing Using Smartphones
+SEMAN5;2016;Wildfire Spread Prediction and Assimilation for FARSITE Using Ensemble Kalman Filtering
+SEMAN5;2025;Robust Prediction of Wildfire Spread in Australia
+SEMAN5;2018;California Wildfire Spread Prediction using FARSITE and the Comparison with the Actual Wildfire Maps using Statistical Methods
+SEMAN5;2025;Wildfire Prediction and Spread Detection
+SEMAN5;2024;Exploring Directions for Establishing Forest Fire Containment Lines through Forest Fire Spread Prediction Simulations: A Case Study of 2022 Uljin-Samcheok Wildfire
+SEMAN5;2024;Shapley-based interpretation of deep learning models for wildfire spread rate prediction
+SEMAN5;2024;Experimental and numerical study on data-driven prediction for wildfire spread incorporating adaptive observation error adjustment
+SEMAN5;????;A probabilistic approach to wild fi re spread prediction using a denoising diffusion surrogate model
+SEMAN5;2025;Conceptual Clarity in Fire Science: A Systematic Review Linking Climatic Factors to Wildfire Occurrence and Spread
+SEMAN5;2013;Applying Probability Theory for the Quality Assessment of a Wildfire Spread Prediction Framework Based on Genetic Algorithms
+SEMAN5;2026;RCDA-Net: a residual contextual dual attention network for wildfire spread region prediction
+SEMAN5;2023;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
+SEMAN5;2024;Wildfire Risk Prediction: A Review
+SEMAN5;2025;Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data
+SEMAN5;2021;Multifidelity prediction in wildfire spread simulation: Modeling, uncertainty quantification and sensitivity analysis
+SEMAN5;2024;Advancements in Wildfire Prediction and Detection: A Systematic Review
+SEMAN5;2025;FireSentry: A Multi-Modal Spatio-temporal Benchmark Dataset for Fine-Grained Wildfire Spread Forecasting
+SEMAN5;2025;LinU-Mamba: Visual Mamba U-Net with Linear Attention to Predict Wildfire Spread
+SEMAN5;2025;Deep-learning-based dynamic early warning and spread prediction model for wildfires along transmission lines
+SEMAN5;2025;MFiSP: A Multimodal Fire Spread Prediction Framework
+SEMAN5;2025;Simulating wildfire spread based on continuous time series remote sensing images and cellular automata
+SEMAN5;2024;Application of Explainable Artificial Intelligence in Predicting Wildfire Spread: An ASPP-Enabled CNN Approach
+SEMAN5;2025;Wildfire spread forecasting with Deep Learning
+SEMAN5;2025;From Convolution to Attention: Transformer-Based Modeling for Multi-Day Wildfire Spread Forecasting
+SEMAN5;2022;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
+SEMAN5;2024;Advancements in Wildfire Detection and Prediction: An In-Depth Review
+SEMAN5;2022;Prediction of wildfire rate of spread in grasslands using machine learning methods
+SEMAN5;2020;Learning-based prediction of wildfire spread with real-time rate of spread measurement
+SEMAN5;2022;Wildfire Path Prediction Spread using Machine Learning
+SEMAN5;2025;Exploration of geo-spatial data and machine learning algorithms for robust wildfire occurrence prediction
+SEMAN5;2024;Fire spread prediction model based on multi-scale convolutional neural network
+SEMAN5;2024;A Deep Learning Framework: Predicting Fire Radiative Power From the Combination of Polar-Orbiting and Geostationary Satellite Data During Wildfire Spread
+SEMAN5;2024;Advancing Wildfire Predictive Models: A Novel Dataset for Next-Day Wildfire Spread
+SEMAN5;2024;Assimilating UAV-Based Observation Data for Wildfire Spread Simulation
+SEMAN5;2024;The distributed strategy for asynchronous observations in data-driven wildland fire spread prediction
+SEMAN5;2024;Wildfire spreading prediction using multimodal data and deep neural network approach
+SEMAN5;2024;Evaluation of an In-Canopy Wind and Wind Adjustment Factor Model for Wildfire Spread Applications Across Scales
+SEMAN5;2025;Bridging spatiotemporal wildfire prediction and decision modeling using transformer networks and fuzzy inference systems
+SEMAN5;2025;An integrated framework for wildfire emergency response and post-fire debris flow prediction: a case study from the wildfire event on 20 April 2021 in Mianning, Sichuan, China
+SEMAN5;2025;An Intelligent Hybrid Model for Wildfire Prediction and Environmental Risk Management
+SEMAN5;2023;Facing the Wildfire Spread Risk Challenge: Where Are We Now and Where Are We Going?
+SEMAN5;2025;AI-Driven Approaches to Wildfire Prediction and Control: Methods, Challenges, and Future Direction
+SEMAN5;2019;Predicting fire spread and behaviour on the fireline. Wildfire analyst pocket: A mobile app for wildland fire prediction
+SEMAN5;2025;Modeling Neighborhoods as Fuel for Wildfire: A Review
+SEMAN5;2023;Advances in the prediction of spread through air spaces with imaging in lung cancer: a narrative review
+SEMAN5;2024;Forecasting Hourly Wildfire Risk: Enhancing Fire Danger Assessment using Numerical Weather Prediction
+SEMAN5;2024;Firecast Zigzag Convolutional Network for Wildfire Prediction
+SEMAN5;2024;Wildfire Autonomous Response and Prediction Using Cellular Automata (WARP-CA)
+SEMAN5;2024;PyroScan: Wildfire Behavior Prediction System using Unmanned Aerial Vehicles (UAV)
+SEMAN5;2025;Wildfire Detection: Review of Emerging Technologies and Methodologies
+SEMAN5;2024;Predicting the rate of spread of mixed-fuel surface fires in northeastern China using the Rothermel wildfire behaviour model: a laboratory study
+SEMAN5;2024;Enhancing Alaskan wildfire prediction and carbon flux estimation: a two-stage deep learning approach within a process-based model
+SEMAN5;2025;Predicting Wildfire Spread with Machine Learning and a Socio-Ecological Approach to Identify Areas of High Vulnerability
+SEMAN5;2023;A new paradigm forest fire spread prediction: Faster decisions at high resolution
+SEMAN5;2025;A Neural Network Model of Wildfire Spread for Arbitrary Topography, Fuel Load Distribution, and Wind Field
+SEMAN5;2025;Asymmetric Cell-DEVS Wildfire Spread Using GIS Data
+SEMAN5;2025;Fire-EnSF: Wildfire Spread Data Assimilation using Ensemble Score Filter
+SEMAN5;2025;Systematic Literature Review on the Application of Mathematics, Statistics, and Computer Science in Wildfire Analysis
+SEMAN5;2024;Deep Learning for Wildfire Risk Prediction: Integrating Remote Sensing and Environmental Data
+SEMAN5;2016;Prediction of Wildfire Spread and Propagation Algorithm for Disaster Area
+SEMAN5;2026;Robust Wildfire Forecasting under Partial Observability: From Reconstruction to Prediction
+SEMAN5;2022;Modeling Wildfire Spread with an Irregular Graph Network
+SEMAN5;2023;Prediction capability of the MCDA-AHP model in wildfire risk zonation of a protected area in the Southern Western Ghats
+SEMAN5;2025;Sensitivity to the Representation of Wind for Wildfire Rate of Spread: Case Studies with the Community Fire Behavior Model
+SEMAN5;2026;Trustworthy Data-Driven Wildfire Risk Prediction and Understanding in Western Canada
+SEMAN5;2023;Paying Attention to Wildfire: Using U-Net with Attention Blocks on Multimodal Data for Next Day Prediction
+SEMAN5;2025;Explainable AI-Driven Wildfire Prediction in Australia: SHAP and Feature Importance to Identify Environmental Drivers in the Age of Climate Change
+SEMAN5;2022;Efficient Cloud-Based Calibration of Input Data for Forest Fire Spread Prediction
+SEMAN5;2021;Forest fire spread prediction using deep learning
+SEMAN5;2024;Dynamic correction of forest fire spread prediction using observation error covariance matrix estimation technique based on FLC-GRU
+SEMAN5;2026;A Review of Two-Dimensional Cellular Automata Models for Wildfire Simulation: Methods, Capabilities, and Limitations
+SEMAN5;2019;FireCast: Leveraging Deep Learning to Predict Wildfire Spread
+SEMAN5;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN5;2021;Uncertainty quantification of forecast error in coupled fire-atmosphere wildfire spread simulations: sensitivity to the spatial resolution
+SEMAN5;2026;Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods
+SEMAN5;2026;Stochastic modeling of wildfire spread using deep recurrent neural networks: a data-driven computational approach for analyzing natural hazards
+SEMAN5;2021;Cloud-Based Urgent Computing for Forest Fire Spread Prediction under Data Uncertainties
+SEMAN5;2023;Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts
+SEMAN5;2026;Wind Speed Prediction Based on AM-BiLSTM Improved by PSO-VMD for Forest Fire Spread
+SEMAN5;2019;Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
+SEMAN5;2024;Assessment and Validation of a Computer Vision Algorithm for Wildfire Rate of Spread Estimation
+SEMAN5;2020;Enhancing wildfire spread modelling by building a gridded fuel moisture content product with machine learning
+SEMAN5;2024;Prediction of Wildfire Occurrence in the Southern Forest Regions of China in the Future Scenario
+SEMAN5;2025;A Systematic Review of Models for Fire Spread in Wildfires by Spotting
+SEMAN5;2020;Early Adaptive Evaluation Scheme for Data-Driven Calibration in Forest Fire Spread Prediction
+SEMAN5;2021;Derivation of a Bayesian fire spread model using large-scale wildfire observations
+SEMAN5;2019;A novel wildfire digital-twin framework using interactive wildfire spread simulator
+SEMAN5;2019;Coupling wildfire spread and erosion models to quantify post-fire erosion before and after fuel treatments
+SEMAN5;2022;Towards a Comprehensive Dataset for Next-Day Wildfire Prediction
+SEMAN5;2023;Impacts of estimated plume rise on PM2.5 exceedance prediction during extreme wildfire events: a comparison of three schemes (Briggs, Freitas, and Sofiev)
+SEMAN5;????;Application of Arti fi cial Intelligence-Based Regression Methods in the Problem of COVID-19 Spread Prediction: A Systematic Review
+SEMAN5;2020;Coupling wildfire spread and erosion models to quantify post-fire erosion in Northern Sardinia, Italy
+SEMAN5;2024;Wildfire smoke and health impacts: a narrative review
+SEMAN5;2026;Spatio-temporal patterns and drivers of fire spread and severity: a case study of an extreme wildfire in China's boreal forests
+SEMAN5;2022;Recurrent Convolutional Deep Neural Networks for Modeling Time-Resolved Wildfire Spread Behavior
+SEMAN5;2022;Software-Based Simulations of Wildfire Spread and Wind-Fire Interaction
+SEMAN5;2023;Wildfire Progression Prediction and Validation Using Satellite Data and Remote Sensing in Sonoma, California
+SEMAN5;2019;Delft University of Technology Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
+SEMAN5;2020;A review of machine learning applications in wildfire science and management
+SEMAN5;2017;Spatial Partition-Based Particle Filtering for Data Assimilation in Wildfire Spread Simulation
+SEMAN5;2016;Short-term fire front spread prediction using inverse modelling and airborne infrared images
+SEMAN5;2018;Generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
+SEMAN5;2023;Integrated wildfire danger models and factors: A review
+SEMAN5;2018;DATA-DRIVEN SIMULATIONS OF WILDFIRE SPREAD AT REGIONAL SCALES
+SEMAN5;2018;Inverse modelling in wildfire spread forecasting: towards a data-driven system
+SEMAN5;2023;FireSight: Utilizing Deep Learning for Wildfire Prediction And Determining Escape Routes
+SEMAN5;2008;A cellular automata model forest fire spread prediction: The case of the wildfire that swept through Spetses Island in 1990
+SEMAN5;2020;Evaluating the 10% wind speed rule of thumb for estimating a wildfire's forward rate of spread against an extensive independent set of observations
+SEMAN5;2020;Review of Wildfire Management Techniques-Part I: Causes, Prevention, Detection, Suppression, and Data Analytics
+SEMAN5;2021;Statistical Modeling for the Prediction of Infectious Disease Dissemination With Special Reference to COVID-19 Spread
+SEMAN5;2016;Indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
+SEMAN5;2015;Role of buoyant flame dynamics in wildfire spread
+SEMAN5;2020;Wildfire Prediction: Handling Uncertainties Using Integrated Bayesian Networks and Fuzzy Logic
+SEMAN5;2025;Wildfire Detection Based on Satellite Images Using Deep Learning
+SEMAN5;2025;Machine Learning based Wildfire Area Estimation Leveraging Weather Forecast Data
+SEMAN5;2025;Green Firebreaks: Potential to Proactively Complement Wildfire Management
+SEMAN5;2015;Effects of spatial and temporal variation in environmental conditions on simulation of wildfire spread
+SEMAN5;2025;Generative Algorithms for Wildfire Progression Reconstruction from Multi-Modal Satellite Active Fire Measurements and Terrain Height
+SEMAN5;2022;Prediction of Wildfire Fuel Load for Pinus densiflora Stands in South Korea Based on the Forest-Growth Model
+SEMAN5;2025;Dynamic UAV Path Planning Under Wildfire Scenarios Using PPO Algorithm
+SEMAN5;2025;A Semi-Supervised Wildfire Image Segmentation Network with Multi-Scale Structural Fusion and Pixel-Level Contrastive Consistency
+SEMAN5;2020;Agent-based modelling for wildfire behaviour prediction
+SEMAN5;2025;Comparing Satellite Data for Next-Day Wildfire Predictability
+SEMAN5;2025;Comparing Next-Day Wildfire Predictability of MODIS and VIIRS Satellite Data
+SEMAN5;2025;The Missing Wind in Wildfire Science
+SEMAN5;2025;Spatial Uncertainty Quantification in Wildfire Forecasting for Climate-Resilient Emergency Planning
+SEMAN5;2025;Machine learning methods for wildfire risk assessment
+SEMAN5;2022;Urban traffic flow prediction techniques: A review
+SEMAN5;2020;Abstract Submitted for the DFD20 Meeting of The American Physical Society Ensemble Predictions of Wildfire Spread Through TPU-Compatible TensorFlow Acceleration1
+SEMAN5;2024;Firefighting Drone Configuration and Scheduling for Wildfire Based on Loss Estimation and Minimization
+SEMAN5;2018;Real-time fire segmentation via Active Contours for UAV integrated wildfire propagation prediction
+SEMAN5;2025;Rapid simulation of grassland fire spread with parameterized flame plume entrainment effects
+SEMAN5;2021;A Statistical Investigation of how Slope affects a Wildfire's Rate of Spread
+SEMAN5;2016;Deciphering the impact of uncertainty on the accuracy of large wildfire spread simulations
+SEMAN5;2018;Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings
+SEMAN5;2022;A systematic review on machine learning and deep learning techniques in cancer survival prediction
+SEMAN5;2016;Predicting wildfire spread and behaviour in Mediterranean landscapes
+SEMAN5;2025;AI-Powered Plant Science: Transforming Forestry Monitoring, Disease Prediction, and Climate Adaptation
+SEMAN5;2021;A review of the effects of wildfire smoke on the health and behavior of wildlife
+SEMAN5;2021;A review of the effects of wildfire smoke on the health and behavior of wildlife
+SEMAN5;2018;AdriaFirePropagator and AdriaFireRisk: user friendly Web based wildfire propagation and wildfire risk prediction software
+SEMAN5;2024;Using Drone Swarm to Stop Wildfire: A Predict-then-optimize Approach
+SEMAN5;2014;Coupled Dynamic Data-Driven Framework for Forest Fire Spread Prediction
+SEMAN5;2026;Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning
+SEMAN5;2026;Generative Algorithms for Wildfire Progression Reconstruction from Multi-Modal Satellite Active Fire Measurements and Terrain Height
+SEMAN5;2026;Conformal Risk Control for Safety-Critical Wildfire Evacuation Mapping: A Comparative Study of Tabular, Spatial, and Graph-Based Models
+SEMAN5;2026;Investigating post-wildfire effects in contrasted Mediterranean ecosystems
+SEMAN5;2023;Systematic Review on Prediction and Monitoring of Climate Change
+SEMAN5;2026;Experimental and Numerical Study of Vegetation Moisture Content on Wildfire Intensity: The Seasonal Effect
+SEMAN5;2025;Next-Generation AI for Firefighter Hazard Prediction: Exploring BERT and Doc2Vec to Advance Safety and Risk Intelligence
+SEMAN5;2025;Convective potential and fuel availability complement near-surface weather in regulating global wildfire activity
+SEMAN5;2024;Using cellular automata and multi-criteria evaluation to simulate the wildfire expansion in Prince George, British Co-lumbia
+SEMAN5;2025;Advancements in Artificial Intelligence Applications for Forest Fire Prediction
+SEMAN5;2024;Assessment of Wildfire Risk on Transmission Assets
+SEMAN5;2017;Using Wind Data to Predict Wildfire Spread in Central California
+SEMAN5;????;Forecasting and Surveillance of COVID-19 Spread Using Google Trends: Literature Review
+SEMAN5;2021;The roles of machine learning methods in limiting the spread of deadly diseases: A systematic review
+SEMAN5;2021;Application of machine learning in the prediction of COVID-19 daily new cases: A scoping review
+SEMAN5;2025;A Conceptual High Level Multiagent System for Wildfire Management
+SEMAN6;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN6;2024;Machine Learning and Deep Learning for Wildfire Spread Prediction: A Review
+SEMAN6;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN6;2025;A Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model
+SEMAN6;2025;Mapping wildfire dynamics: GeoAI-driven comparative analysis of deep and machine learning ensembles for susceptibility prediction in California
+SEMAN6;2025;Wildfire Susceptibility Mapping Using Deep Learning and Machine Learning Models Based on Multi-Sensor Satellite Data Fusion: A Case Study of Serbia
+SEMAN6;2025;Applications and Advancements of Spaceborne InSAR in Landslide Monitoring and Susceptibility Mapping: A Systematic Review
+SEMAN6;2025;A review of geological and triggering factors influencing landslide susceptibility: artificial intelligence-based trends in mapping and prediction
+SEMAN6;2022;A Review of Genetic Algorithm Approaches for Wildfire Spread Prediction Calibration
+SEMAN6;2025;Benchmarking Artificial Neural Networks and U-Net Convolutional Architectures for Wildfire Susceptibility Prediction: Innovations in Geospatial Intelligence
+SEMAN6;2025;Wildfire Susceptibility Mapping through Machine Learning and Remote Sensing Data with Distance Based Sampling for Fire-Free Points
+SEMAN6;2025;Evolution and critical evaluation of deterministic physically based rainfall-induced landslide susceptibility mapping: a mixed review
+SEMAN6;2025;Correction: A review of geological and triggering factors influencing landslide susceptibility: artificial intelligence-based trends in mapping and prediction
+SEMAN6;2025;A review paper on Landslide Susceptibility Mapping using Geospatial Technology and Machine Learning Techniques
+SEMAN6;2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
+SEMAN6;2025;Multi-Hazard Susceptibility Mapping Using Machine Learning Approaches: A Case Study of South Korea
+SEMAN6;2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+SEMAN6;2023;Spatial Prediction of Wildfire Susceptibility Using Hybrid Machine Learning Models Based on Support Vector Regression in Sydney, Australia
+SEMAN6;2023;ENSEMBLING OF DECISION TREES, KNN, AND LOGISTIC REGRESSION WITH SOFT-VOTING METHOD FOR WILDFIRE SUSCEPTIBILITY MAPPING
+SEMAN6;2025;Harnessing Geospatial Intelligence for Wildfire Risk Mapping Using Machine Learning Techniques
+SEMAN6;2019;Methods for Wildfire Spread Prediction and Their Integration With Remote Sensing Data
+SEMAN6;2022;Global Wildfire Susceptibility Mapping Based on Machine Learning Models
+SEMAN6;2025;Wildfire Susceptibility Mapping in Greece Using Ensemble Machine Learning
+SEMAN6;2021;A deep learning ensemble model for wildfire susceptibility mapping
+SEMAN6;2025;Machine Learning-Based Wildfire Susceptibility Mapping: A GIS-Integrated Predictive Framework
+SEMAN6;2025;Modeling Neighborhoods as Fuel for Wildfire: A Review
+SEMAN6;2025;Systematic Review of Post-Wildfire Landslides
+SEMAN6;2024;Reviewing Flood Susceptibility Mapping Utilizing Machine Learning: Insights and Prospects for Future Research
+SEMAN6;2025;Mapping wildfire susceptibility in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote sensing data
+SEMAN6;2024;Wildfire susceptibility mapping by incorporating damage proxy maps, differenced normalized burn Ratio, and deep learning algorithms based on sentinel-1/2 data: a case study on Maui Island, Hawaii
+SEMAN6;2026;Artificial Intelligence for Geospatial Decision Support in Rural Wildfire Management: A Configurational Mapping Review
+SEMAN6;2026;Conformal Risk Control for Safety-Critical Wildfire Evacuation Mapping: A Comparative Study of Tabular, Spatial, and Graph-Based Models
+SEMAN6;2025;Systematic Literature Review on the Application of Mathematics, Statistics, and Computer Science in Wildfire Analysis
+SEMAN6;2026;Harnessing geospatial intelligence for wildfire risk mapping using ML and DL techniques
+SEMAN6;2024;Mapping vulnerability for increased COVID-19 susceptibility and worse outcomes: a scoping review
+SEMAN6;2024;A Review of Various Landslide Susceptibility Mapping Techniques Used in Nepal
+SEMAN6;2023;Deep Learning Approaches for Wildland Fires Using Satellite Remote Sensing Data: Detection, Mapping, and Prediction
+SEMAN6;2024;Application of Explainable Artificial Intelligence in Predicting Wildfire Spread: An ASPP-Enabled CNN Approach
+SEMAN6;2024;Shapley-based interpretation of deep learning models for wildfire spread rate prediction
+SEMAN6;2023;GIS, AI, and Environmental Data in Fire Susceptibility Mapping: A Survey
+SEMAN6;2023;Explainable artificial intelligence (XAI) for interpreting the contributing factors feed into the wildfire susceptibility prediction model
+SEMAN6;2026;Hybrid SVM-XGBoost framework for wildfire susceptibility mapping in palm oasis ecosystems to enhance risk assessment in arid and semi-arid regions
+SEMAN6;2018;Review on landslide susceptibility mapping using support vector machines
+SEMAN6;2025;Assessing Pan-Canada wildfire susceptibility by integrating satellite data with novel hybrid deep learning and black widow optimizer algorithms
+SEMAN6;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN6;2025;Post-Hoc Explanation of AI Predictions in Wildfire Risk Mapping Through an Interactive Web-Based GeoXAI System
+SEMAN6;2025;An integrated framework for wildfire emergency response and post-fire debris flow prediction: a case study from the wildfire event on 20 April 2021 in Mianning, Sichuan, China
+SEMAN6;2024;Mapping the Global Spread of T. indotineae: An Update on Antifungal Resistance, Mutations, and Strategies for Effective Management
+SEMAN6;2020;A review of machine learning applications in wildfire science and management
+SEMAN6;????;A probabilistic approach to wild fi re spread prediction using a denoising diffusion surrogate model
+SEMAN6;2022;Predicting Wildfire Susceptibility in Napa County, California using Machine Learning
+SEMAN6;2025;Wildfire and power grid nexus in a changing climate
+SEMAN6;2022;Comparative analysis of multiple conventional neural networks for landslide susceptibility mapping
+SEMAN6;2025;Monitoring Wildfire Risk with a Near-Real-Time Live Fuel Moisture Content System: A Review and Roadmap for Operational Application in New Zealand
+SEMAN6;2025;A SYSTEMATIC REVIEW OF SOIL EROSION SUSCEPTIBILITY: TRENDS AND INSIGHTS FROM 2010 TO 2023
+SEMAN6;2024;PREDICTION OF FIRE SPREAD IN GRASSLANDS USING DEEP LEARNING TECHNIQUES
+SEMAN6;2020;Prediction of global spread of COVID-19 pandemic: a review and research challenges
+SEMAN6;2025;Modeling Wildfire Risk Using GIS-Integrated Analytical Hierarchy Process Method: A Case Study of Zouagha Forest (Northeastern Algeria)
+SEMAN6;2025;Pre-Ignition Wildfire Burn Severity Modeling with Polarimetric UAVSAR Data and Machine Learning
+SEMAN6;2024;Advancements and Challenges in Geospatial Artificial Intelligence, Evaluating Support Vector Machines Models for Dengue Fever Prediction: A Structured Literature Review
+SEMAN6;2017;Recent developments in machine learning applications in landslide susceptibility mapping
+SEMAN6;2022;An Application of Artificial Neural Network (ANN) for Landslide Hazard Mapping, Susceptibility and Early Warning System: A Review
+SEMAN6;2024;Non-negative matrix factorization (NMF) in fire susceptibility
+SEMAN6;2017;Spatial prediction of landslide susceptibility using an adaptive neuro-fuzzy inference system combined with frequency ratio, generalized additive model, and support vector machine techniques
+SEMAN6;2020;Wildfire spreading across the urban area: definition and mapping of vegetation connectivity
+SEMAN6;2025;Distribution mapping of major invasive plant species of India and their role in ecosystem alteration: a systematic review
+SEMAN6;2022;Susceptibility Prediction of Post-Fire Debris Flows in Xichang, China, Using a Logistic Regression Model from a Spatiotemporal Perspective
+SEMAN6;2020;Comparative performance of new hybrid ANFIS models in landslide susceptibility mapping
+SEMAN6;2026;Wind and Slope Effects on Wildland Fire Spread: A Review of Experimental, Empirical, Mathematical, and Physics-Based Models
+SEMAN6;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
+SEMAN6;2021;Wildfire susceptibility assessment: evaluation of the performance of different machine learning algorithms
+SEMAN6;2020;Wildfire susceptibility mapping via machine learning: the case study of Liguria Region, Italy
+SEMAN6;2020;Review of Wildfire Management Techniques-Part I: Causes, Prevention, Detection, Suppression, and Data Analytics
+SEMAN6;2018;Wildfire susceptibility mapping in Liguria (Italy): comparison of statistical driven partitioning and machine learning approach
+SEMAN6;2017;Recent developments in machine learning applications in landslide susceptibility mapping
+SEMAN6;2022;An Application of Artificial Neural Network (ANN) for Landslide Hazard Mapping, Susceptibility and Early Warning System: A Review
+SEMAN6;2024;Non-negative matrix factorization (NMF) in fire susceptibility
+SEMAN6;2017;Spatial prediction of landslide susceptibility using an adaptive neuro-fuzzy inference system combined with frequency ratio, generalized additive model, and support vector machine techniques
+SEMAN6;2023;Viscum album subsp. austriacum (Santalaceae R. Br.) in Volyn Polissia and Zhytomyr Polissia (Ukraine): current distribution, ecology and prediction of future spread
+SEMAN6;2020;Wildfire spreading across the urban area: definition and mapping of vegetation connectivity
+SEMAN6;2022;Prediction of Wildfire Fuel Load for Pinus densiflora Stands in South Korea Based on the Forest-Growth Model
+SEMAN6;2025;Distribution mapping of major invasive plant species of India and their role in ecosystem alteration: a systematic review
+SEMAN6;2022;Susceptibility Prediction of Post-Fire Debris Flows in Xichang, China, Using a Logistic Regression Model from a Spatiotemporal Perspective
+SEMAN6;2020;Comparative performance of new hybrid ANFIS models in landslide susceptibility mapping
+SEMAN6;2022;Comparison of Landslide Susceptibility Mapping Based on Two Machine Learning Algorithm Models
+SEMAN6;2026;Wind and Slope Effects on Wildland Fire Spread: A Review of Experimental, Empirical, Mathematical, and Physics-Based Models
+SEMAN6;2018;Susceptibility mapping of gully erosion using GIS-based statistical bivariate models: a case study from Ali Al-Gharbi District, Maysan Governorate, southern Iraq
+SEMAN6;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
+SEMAN6;2016;Indices for the evaluation of wildfire spread simulations using contemporaneous predictions and observations of burnt area
+SEMAN6;2018;Application and comparison of logistic regression model and neural network model in earthquake-induced landslides susceptibility mapping at mountainous region, China
+SEMAN6;2024;Optimizing Emergency Response with UAV-Integrated Fire Safety for Real-Time Prediction and Decision-Making: A Performance Evaluation
+SEMAN6;2015;A Survey on Landslide Susceptibility Mapping Using Soft Computing Techniques
+SEMAN6;2020;Large-scale assessment of antimicrobial resistance marker databases for genetic phenotype prediction: a systematic review
+SEMAN6;2021;Rock fall Susceptibility Mapping Using Artificial Neural Network, Frequency Ratio, and Logistic Regression: A Case Study in Central Iran, Taft County
+SEMAN6;2017;Rapid susceptibility mapping of earthquake-triggered slope geohazards in Lushan County by combining remote sensing with the AHP model developed for the Wenchuan earthquake
+SEMAN6;2016;Predicting wildfire spread and behaviour in Mediterranean landscapes
+SEMAN6;2020;Agent-based modelling for wildfire behaviour prediction
+SEMAN6;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN6;2023;Geospatial Wildfire Risk Assessment from Social, Infrastructural and Environmental Perspectives: A Case Study in Queensland Australia
+SEMAN6;2022;Mapping Fire Susceptibility in the Brazilian Amazon Forests Using Multitemporal Remote Sensing and Time-Varying Unsupervised Anomaly Detection
+SEMAN6;2020;Landslide susceptibility evaluation and hazard zonation techniques-a review
+SEMAN6;2024;Integrating Machine Learning Models with Comprehensive Data Strategies and Optimization Techniques to Enhance Flood Prediction Accuracy: A Review
+SEMAN6;2021;Susceptibility wildfire assessment in Bolivia (Santa Cruz): an approach based on Random Forest ensemble learning algorithm
+SEMAN6;2024;Using cellular automata and multi-criteria evaluation to simulate the wildfire expansion in Prince George, British Co-lumbia
+SEMAN6;2018;Digital soil mapping for fire prediction and management in rangelands
+SEMAN6;2020;A Smart Disaster Management Framework For Wildfire Detection and Prediction
+SEMAN6;2025;GeoAI at the forefront of climate action: Mapping mitigation and adaptation with Artificial Intelligence
+SEMAN6;2021;Mapping of Motor Function with Neuronavigated Transcranial Magnetic Stimulation: A Review on Clinical Application in Brain Tumors and Methods for Ensuring Feasible Accuracy
+SEMAN6;2024;An Exploratory Bioinformatic Investigation of Cats' Susceptibility to Coronavirus-Deriving Epitopes
+SEMAN6;2021;Deep Learning Methods for Flood Mapping: A Review of Existing Applications and Future Research Directions
+SEMAN6;2024;A Synergistic Approach to Wildfire Prevention and Management using AI, Machine Learning, and 5G Technology in the United States
+SEMAN6;2022;Systematic Literature Review: Machine Learning Prediction Model for Covid-19 Spreading
+SEMAN6;2024;Advancing Public Health Surveillance: Integrating Modeling and GIS in the Wastewater-Based Epidemiology of Viruses, a Narrative Review
+SEMAN6;2022;A Systematic Review on Modeling Methods and Influential Factors for Mapping Dengue-Related Risk in Urban Settings
+SEMAN6;????;Remote Sensing for Wildfire Mapping: A Comprehensive Review of Advances, Platforms, and Algorithms
+SEMAN6;2025;Comprehensive review of remote sensing integration with deep learning in landslide forecasting and future directions
+SEMAN6;2024;Optimal statistical method selection for landslide susceptibility assessment and its scale effect
+SEMAN6;2024;Harnessing AI for Accurate Detection and Prediction of Ebola Virus Epidemics
+SEMAN6;2013;Genomic mapping and survival prediction in glioblastoma: molecular subclassification strengthened by hemodynamic imaging biomarkers
+SEMAN6;2024;Research Trends in Wildland Fire Prediction Amidst Climate Change: A Comprehensive Bibliometric Analysis
+SEMAN6;2021;Spatial prediction of shallow landslide: application of novel rotational forest-based reduced error pruning tree
+SEMAN6;2024;Flood mapping based on novel ensemble modeling involving the deep learning, Harris Hawk optimization algorithm and stacking based machine learning
+SEMAN6;2024;Deep Learning for Exploring Landslides with Remote Sensing and Geo-Environmental Data: Frameworks, Progress, Challenges, and Opportunities
+SEMAN6;2023;A novel urban vegetation mapping approach for fire risk assessment: A Mediterranean case study
+SEMAN6;2023;Differences in Canopy Cover Estimations from ALS Data and Their Effect on Fire Prediction
+SEMAN6;2025;The Silent Killer: A Review Unfolding the Mystery of Fungal Pathogens Causing Canker Diseases in Tree Crops
+SEMAN6;????;AI DRIVEN FIRE RISK INDICES INTEGRATING CLIMATE, FUEL, AND TERRAIN FOR WILDFIRE PREDICTION AND MANAGEMENT
+SEMAN6;2022;Leveraging NASA Soil Moisture Active Passive for Assessing Fire Susceptibility and Potential Impacts Over Australia and California
+SEMAN6;2023;Live fuel moisture content modeling and mapping using spectral, meteorological, and topographic data
+SEMAN6;2025;BIOINFORMATICS-DRIVEN APPROACHES IN PUBLIC HEALTH GENOMICS: A REVIEW OF COMPUTATIONAL SNP AND MUTATION ANALYSIS
+SEMAN6;2026;Forest Fire Environmental Drivers and Predictive Modeling Approaches
+SEMAN6;2024;Carbon, climate, and natural disturbance: a review of mechanisms, challenges, and tools for understanding forest carbon stability in an uncertain future
+SEMAN6;2023;FOREST FIRE SUSCEPTIBILITY ASSESSMENT WITH MACHINE LEARNING METHODS IN NORTH-EAST TURKIYE
+SEMAN6;2021;Remotely Sensed Fine-Fuel Changes from Wildfire and Prescribed Fire in a Semi-Arid Grassland
+SEMAN6;2019;A systematic review and meta-analysis of artificial neural network application in geotechnical engineering: theory and applications
+SEMAN6;????;USING IOT AND ML FOR FOREST FIRE DETECTION, MONITORING, AND PREDICTION: A LITERATURE REVIEW
+SEMAN6;2024;Analyzing the posterior predictive capability and usability of landslide susceptibility maps: a case of Kerala, India
+SEMAN6;2019;Cloud-assisted green IoT-enabled comprehensive framework for wildfire monitoring
+SEMAN6;2014;Large-scale risk mapping of an eruptive bark beetle-Importance of forest susceptibility and beetle pressure
+SEMAN6;2024;Wildfire risk exploration: leveraging SHAP and TabNet for precise factor analysis
+SEMAN6;2019;Cloud-assisted green IoT-enabled comprehensive framework for wildfire monitoring
+SEMAN6;2014;Large-scale risk mapping of an eruptive bark beetle-Importance of forest susceptibility and beetle pressure
+SEMAN6;2024;Wildfire risk exploration: leveraging SHAP and TabNet for precise factor analysis
+SEMAN6;2023;Connectome-based modelling of neurodegenerative diseases: towards precision medicine and mechanistic insight
+SEMAN6;2021;Application of an Ensemble Statistical Approach in Spatial Predictions of Bushfire Probability and Risk Mapping
+SEMAN6;2021;Role of Machine Learning Algorithms in Forest Fire Management: A Literature Review
+SEMAN6;2023;Emerging trends in topobathymetric LiDAR technology and mapping
+SEMAN6;2019;Assessment of Landslide Susceptibility Using Statistical-and Artificial Intelligence-Based FR-RF Integrated Model and Multiresolution DEMs
+SEMAN6;2024;Vector Borne Disease Ecology and Environment: Remote Sensing and GIS for Control and Management: A Systematic Review
+SEMAN6;2022;IoT-inspired Framework for Real-time Prediction of Forest Fire
+SEMAN6;2022;Genetic Bases of Complex Traits: From Quantitative Trait Loci to Prediction
+SEMAN6;2026;Spatiotemporal Prediction of Ground Surface Deformation Using TPE-Optimized Deep Learning
+SEMAN6;2024;Progress and Implications from Genetic Studies of Bipolar Disorder
+SEMAN6;2025;Environmental and anthropogenic influences on fire patterns in tropical dry deciduous forests
+SEMAN6;2026;Conventional and advanced geospatial techniques for landslide detection and modeling: a comprehensive overview
+SEMAN6;2017;Modelling malaria susceptibility using geographic information system
+SEMAN6;2025;Peak discharge estimation for ungauged basins: a review
+SEMAN6;2025;Review of Machine Learning and Deep Learning Techniques for Flood Forecasting
+SEMAN6;2025;Crown rot in wheat: pathogen biology, host responses, and management strategies
+SEMAN6;2026;Regulatory QTLs affecting miRNA-mRNA interactions in cancer: mechanisms, methods, and clinical implications
+SEMAN6;2018;A data-based landslide susceptibility map of Africa
+SEMAN6;2021;Considerations on the prediction of hazards (mainly landslides) and their consequences
+SEMAN6;2025;Thermal conductivity limits of MoS2 and MoSe2: Revisiting high-order anharmonic lattice dynamics with machine learning potentials
+SEMAN6;2004;Mapping the risk of establishment and spread of sudden oak death in California
+SEMAN6;2020;An Overview of GIS-Based Assessment and Mapping of Mining-Induced Subsidence
+SEMAN6;2017;Landslide susceptibility modeling in a landslide prone area in Mazandarn Province, north of Iran: a comparison between GLM, GAM, MARS, and M-AHP methods
+SEMAN6;????;Next generation antimicrobial peptide disinfectant targeting biocide and vancomycin resistant staphylococcus aureus through integrated in Silico and in vitro validation
+SEMAN6;2015;Empirical-based models for predicting head-fire rate of spread in Australian fuel types
+SEMAN6;????;A Review of the use of GIS and Remote Sensing Technologies in Monitoring, Prediction, and Response to Natural Disasters in the U.S
+SEMAN6;2026;Edge Vision for Wildfires: A Comprehensive Investigation
+SEMAN6;2021;Application of Geographical Information System in Animal Disease Surveillance and Control: A Review
+SEMAN6;2016;Modelling malaria susceptibility using geographic information system
+SEMAN6;2016;Fuel Classes in Conifer Forests of Southwest Sichuan, China, and Their Implications for Fire Susceptibility
+SEMAN6;2024;Evaluating the Impact of Recursive Feature Elimination on Machine Learning Models for Predicting Forest Fire-Prone Zones
+SEMAN6;2021;HLA-DRB1 Alleles Associated with Lower Leishmaniasis Susceptibility Share Common Amino Acid Polymorphisms and Epitope Binding Repertoires
+SEMAN6;2024;Melioidosis in India: Epidemiological Insights and Predictions from 20-Year Review of Literature with Note on Inclusive Capacity Building
+SEMAN6;2023;PREdiction and Diagnosis using Imaging and Clinical biomarkers Trial in Traumatic Brain Injury (PREDICT-TBI) study protocol: an observational, prospective, multicentre cohort study for the prediction
+SEMAN6;2023;A systematic review of the data, methods and environmental covariates used to map Aedes-borne arbovirus transmission risk
+SEMAN6;2021;GIS-based support vector machine model in shallow landslide hazards prediction: A case study on Ilam dam watershed, Iran
+SEMAN6;2025;Hybrid Models and Causal Inference Techniques for Optimizing Climate Science: A Comprehensive Review
+SEMAN6;2018;Statistical models for the location of lightning-caused wildfire ignitions
+SEMAN6;2026;Systematic Literature Review of Graph Neural Networks in Disaster Management: Methods, Applications, and Future Directions
+SEMAN6;2016;LAND-SE: a software for statistically based landslide susceptibilityzonation, version 1.0
+SEMAN6;2026;State of Knowledge in the Field of Regenerative Hardfacing Methods in the Context of the Circular Economy
+SEMAN6;2014;A LANDSLIDE SUSCEPTIBILITY ANALYSIS FOR BUZAU COUNTY, ROMANIA
+SEMAN6;2020;Spatial Bayesian belief networks: a participatory approach for mapping environmental vulnerability at the Itatiaia National Park, Brazil
+SEMAN6;2025;An Overview of Oil Spill Modeling and Simulation for Surface and Subsurface Applications
+SEMAN6;2013;Inherited genetic susceptibility to breast cancer: the beginning of the end or the end of the beginning?
+SEMAN6;2024;Advances in retrogressive thaw slump research in permafrost regions
+SEMAN6;2021;What influences people's responses to public health messages for managing risks and preventing infectious diseases? A rapid systematic review of the evidence and recommendations
+SEMAN6;2023;A systematic review of the data, methods and environmental covariates used to map Aedes-borne arbovirus transmission risk
+SEMAN6;2014;Genetic-based prediction of disease traits: prediction is very difficult, especially about the future†
+SEMAN6;2021;Review of Geoinformatics-Based Forest Fire Management Tools for Integrated Fire Analysis
+SEMAN6;2013;Do Bark Beetle Outbreaks Increase Wildfire Risks in the Central U.S. Rocky Mountains? Implications from Recent Research
+SEMAN6;2022;Application of Next Generation Sequencing for Diagnosis and Clinical Management of Drug-Resistant Tuberculosis: Updates on Recent Developments in the Field
+SEMAN6;2020;Implementation of geographical information systems for the study of diseases caused by vector-borne arboviruses in Southeast Asia: A review based on the publication record
+SEMAN6;2012;Landslides in the Andes and the need to communicate on an interandean level on landslide mapping and research
+SEMAN6;2024;Leveraging genome-wide association studies to better understand the etiology of cancers
+SEMAN6;2004;LANDSLIDE HAZARD AND RISK MAPPING-A REVIEW AND CLASSIFICATION
+SEMAN6;2020;Mapping insecticide resistance in mosquitoes to aid malaria control
+SEMAN7;2025;Systematic Review of Post-Wildfire Landslides
+SEMAN7;2023;GIS, AI, and Environmental Data in Fire Susceptibility Mapping: A Survey
+SEMAN7;2020;A review of machine learning applications in wildfire science and management
+SEMAN7;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN7;2023;Geostatistical Modeling of Wildfire Occurrence Probability: The Case Study of Monte Catillo Natural Reserve in Italy
+SEMAN7;2025;Wildfire Susceptibility Mapping Using Deep Learning and Machine Learning Models Based on Multi-Sensor Satellite Data Fusion: A Case Study of Serbia
+SEMAN7;2025;Machine learning wildfire susceptibility mapping for Germany
+SEMAN7;2025;Wildfire Susceptibility Mapping in Greece Using Ensemble Machine Learning
+SEMAN7;2024;SHAP-Driven Explainable Artificial Intelligence Framework for Wildfire Susceptibility Mapping Using MODIS Active Fire Pixels: An In-Depth Interpretation of Contributing Factors in Izmir, Turkiye
+SEMAN7;2025;Machine Learning-Based Wildfire Susceptibility Mapping: A GIS-Integrated Predictive Framework
+SEMAN7;2025;Machine learning-driven wildfire susceptibility mapping in New South Wales, Australia using remote sensing and explainable artificial intelligence
+SEMAN7;2025;Advancing wildfire susceptibility mapping through maching learning and SHapley Additive exPlanations-integrated geospatial analysis in Northern Morocco's Mediterranean region
+SEMAN7;2025;Wildfire Susceptibility Mapping through Machine Learning and Remote Sensing Data with Distance Based Sampling for Fire-Free Points
+SEMAN7;2025;A machine learning-based wildfire susceptibility mapping framework for China's three-north shelterbelt region
+SEMAN7;2024;Wildfire susceptibility mapping by incorporating damage proxy maps, differenced normalized burn Ratio, and deep learning algorithms based on sentinel-1/2 data: a case study on Maui Island, Hawaii
+SEMAN7;2024;Wildfire Susceptibility Mapping in Baikal Natural Territory Using Random Forest
+SEMAN7;2026;Machine-learning wildfire susceptibility mapping with SHAP-based explainability in Turkiye's fire-prone regions
+SEMAN7;2026;Hybrid SVM-XGBoost framework for wildfire susceptibility mapping in palm oasis ecosystems to enhance risk assessment in arid and semi-arid regions
+SEMAN7;2026;Wildfire Susceptibility Mapping in Karabuk Province, Turkiye Using Machine Learning Algorithms
+SEMAN7;2023;Wildfire Susceptibility Mapping Using Deep Learning Algorithms in Two Satellite Imagery Dataset
+SEMAN7;2022;Machine learning based wildfire susceptibility mapping using remotely sensed fire data and GIS: A case study of Adana and Mersin provinces, Turkey
+SEMAN7;2026;Wildfire susceptibility mapping with multiple machine learning algorithms utilizing forest inventory and FIRMS data: A case study in Arsin, Trabzon, Turkiye
+SEMAN7;2023;A Comparative Study of Genetic Algorithm-Based Ensemble Models and Knowledge-Based Models for Wildfire Susceptibility Mapping
+SEMAN7;2026;Application of a burned area Spatio-Temporal Stratification-Based positive sample augmentation strategy in Fine-Scale wildfire susceptibility mapping
+SEMAN7;2026;Integrating Geo-Spatial Analysis and Gray Relational Approach for Wildfire Susceptibility Mapping in Bale Mountain National Park, Ethiopia
+SEMAN7;2022;Global Wildfire Susceptibility Mapping Based on Machine Learning Models
+SEMAN7;2021;A deep learning ensemble model for wildfire susceptibility mapping
+SEMAN7;????;An integrated GIS-based multivariate adaptive regression splines-cat swarm optimization for improving the accuracy of wildfire susceptibility mapping
+SEMAN7;2023;Enhancing predictive ability of optimized group method of data handling (GMDH) method for wildfire susceptibility mapping
+SEMAN7;2023;ENSEMBLING OF DECISION TREES, KNN, AND LOGISTIC REGRESSION WITH SOFT-VOTING METHOD FOR WILDFIRE SUSCEPTIBILITY MAPPING
+SEMAN7;2022;Wildfire Susceptibility Mapping Using Five Boosting Machine Learning Algorithms: The Case Study of the Mediterranean Region of Turkey
+SEMAN7;2022;Wildfire susceptibility mapping using two empowered machine learning algorithms
+SEMAN7;2020;Comparisons of Diverse Machine Learning Approaches for Wildfire Susceptibility Mapping
+SEMAN7;2020;A Machine Learning-Based Approach for Wildfire Susceptibility Mapping. The Case Study of the Liguria Region in Italy
+SEMAN7;2022;Performance and Efficiency of Machine Learning Based Approaches for Wildfire Susceptibility Mapping
+SEMAN7;2018;Wildfire susceptibility mapping: Deterministic vs. stochastic approaches
+SEMAN7;2025;A Systematic Review of Urban Flood Susceptibility Mapping: Remote Sensing, Machine Learning, and Other Modeling Approaches
+SEMAN7;2025;Applications and Advancements of Spaceborne InSAR in Landslide Monitoring and Susceptibility Mapping: A Systematic Review
+SEMAN7;2021;Wildfire Susceptibility Mapping for South-eastern Australia by Evolutionary Algorithms and Statistical Methods
+SEMAN7;2020;Wildfire susceptibility mapping via machine learning: the case study of Liguria Region, Italy
+SEMAN7;2025;Mapping wildfire susceptibility in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote sensing data
+SEMAN7;2018;Wildfire susceptibility mapping in Liguria (Italy): comparison of statistical driven partitioning and machine learning approach
+SEMAN7;2025;Dual-stage wildfire risk analysis in South Korea: Susceptibility mapping from a decade of FIRMS data and 2025 burn area detection with multi-sensor classification
+SEMAN7;2025;Using of Analytical Hierarchy Process (AHP) in Disaster Management: A Review of Flooding and Landslide Susceptibility Mapping
+SEMAN7;2025;Thalamic Magnetic Susceptibility (χ) Alterations in Neurodegenerative Diseases: A Systematic Review and Meta-Analysis of Quantitative Susceptibility Mapping Studies
+SEMAN7;2025;Evolution and critical evaluation of deterministic physically based rainfall-induced landslide susceptibility mapping: a mixed review
+SEMAN7;2025;Landslide susceptibility mapping and assessment: a review
+SEMAN7;2025;A review paper on Landslide Susceptibility Mapping using Geospatial Technology and Machine Learning Techniques
+SEMAN7;2025;Mapping wildfire dynamics: GeoAI-driven comparative analysis of deep and machine learning ensembles for susceptibility prediction in California
+SEMAN7;2024;A Soil Moisture and Vegetation-Based Susceptibility Mapping Approach to Wildfire Events in Greece
+SEMAN7;2024;Landslide susceptibility mapping core-base factors and models' performance variability: a systematic review
+SEMAN7;2024;Iron quantification in basal ganglia: quantitative susceptibility mapping as a potential biomarker for Alzheimer's disease-a systematic review and meta-analysis
+SEMAN7;2025;A Review of Open Access High-Resolution Data for Machine Learning-Based Landslide Susceptibility Mapping
+SEMAN7;2025;A Comprehensive Review: Analyzing Machine Learning Approaches for Landslide Susceptibility Mapping
+SEMAN7;2024;Hazard Susceptibility Mapping with Machine and Deep Learning: A Literature Review
+SEMAN7;2024;A review on landslide susceptibility mapping methods: Needs and challenges
+SEMAN7;2024;Quantitative Susceptibility Mapping Values Quantification in Deep Gray Matter Structures for Relapsing-Remitting Multiple Sclerosis: A Systematic Review and Meta-Analysis
+SEMAN7;2024;Quantitative susceptibility mapping as an early neuroimaging biomarker for amyotrophic lateral sclerosis: A review
+SEMAN7;2024;Quantitative susceptibility mapping for iron monitoring of multiple subcortical nuclei in type 2 diabetes mellitus: a systematic review and meta-analysis
+SEMAN7;2013;Accelerating wildfire susceptibility mapping through GPGPU
+SEMAN7;2016;Wildfire susceptibility mapping: comparing deterministic and stochastic approaches
+SEMAN7;2024;Quantitative susceptibility mapping in multiple sclerosis: A systematic review and meta-analysis
+SEMAN7;2024;GIS-Based Multi-Criteria Evaluation (MCE) for Landslide Susceptibility Mapping: A Review
+SEMAN7;2024;A Review of Various Landslide Susceptibility Mapping Techniques Used in Nepal
+SEMAN7;2024;Understanding the impact of land use change on urban flood susceptibility mapping assessment: A review
+SEMAN7;2025;A review of geological and triggering factors influencing landslide susceptibility: artificial intelligence-based trends in mapping and prediction
+SEMAN7;2024;A Systematic review of machine learning based landslide susceptibility mapping
+SEMAN7;2023;Investigating the Use of Sentinel-1 for Improved Mapping of Small Peatland Water Bodies: Towards Wildfire Susceptibility Monitoring in Canada's Boreal Forest
+SEMAN7;2024;What ecological factors to integrate in landslide susceptibility mapping? An exploratory review of current trends in support of eco-DRR
+SEMAN7;2023;A comprehensive review of machine learning-based methods in landslide susceptibility mapping
+SEMAN7;2023;Parameters and methods used in flood susceptibility mapping: a review
+SEMAN7;2025;Wildfire fuels mapping through artificial intelligence-based methods: A review
+SEMAN7;2023;Iron quantification in basal ganglia using quantitative susceptibility mapping in a patient with ALS: a case report and literature review
+SEMAN7;2023;A review on landslide susceptibility mapping research in Bangladesh
+SEMAN7;2025;Benchmarking Artificial Neural Networks and U-Net Convolutional Architectures for Wildfire Susceptibility Prediction: Innovations in Geospatial Intelligence
+SEMAN7;2023;Reliability of paramagnetic rim lesion classification on quantitative susceptibility mapping (QSM) in people with multiple sclerosis: Single-site experience and systematic review
+SEMAN7;????;Decoding Vegetation's Role in Landslide Susceptibility Mapping: An Integrated Review of Techniques and Future Directions
+SEMAN7;2023;Application of environmental variables in statistically-based landslide susceptibility mapping: A review
+SEMAN7;2023;Geographical Information System (GIS)-Based Landslide Susceptibility Mapping in Malaysia: A Review of Past, Current and Future Trends
+SEMAN7;2025;Assessing Pan-Canada wildfire susceptibility by integrating satellite data with novel hybrid deep learning and black widow optimizer algorithms
+SEMAN7;2026;Voxel-Wise Whole-Brain Analysis in Quantitative Susceptibility Mapping: A Narrative Review
+SEMAN7;2026;Susceptibility mapping of deep gray matter in Wilson's disease: A systematic review and meta-analysis
+SEMAN7;2025;Modelling Spatial-Temporal Wildfire Susceptibility Using Geospatial Techniques Over the Table Mountain Nature Reserve, South Africa
+SEMAN7;2026;Insights From Quantitative Susceptibility Mapping: An Umbrella Review of Multiple Sclerosis
+SEMAN7;2026;Quantitative susceptibility mapping in pediatric neuroimaging: a systematic review of applications and advancements
+SEMAN7;2025;Machine learning-based forest fire susceptibility mapping of Southern Mizoram, a part of Indo-Burma Biodiversity Hotspot
+SEMAN7;2023;A review of the application of support vector machines in landslide susceptibility mapping
+SEMAN7;2021;Systematic Review: Quantitative Susceptibility Mapping (QSM) of Brain Iron Profile in Neurodegenerative Diseases
+SEMAN7;2026;Ensemble learning for landslide susceptibility mapping: a review of machine learning and hybrid approaches
+SEMAN7;2025;Multi-Hazard Susceptibility Mapping Using Machine Learning Approaches: A Case Study of South Korea
+SEMAN7;2026;Flood susceptibility mapping in urban areas based on analytical hierarchy process: A decade-long systematic literature review
+SEMAN7;2022;Machine Learning Techniques for Gully Erosion Susceptibility Mapping: A Review
+SEMAN7;2020;Fire severity and soil erosion susceptibility mapping using multi-temporal Earth Observation data: The case of Mati fatal wildfire in Eastern Attica, Greece
+SEMAN7;2021;Landslide Susceptibility Mapping in Brazil: A Review
+SEMAN7;2022;Quantitative Susceptibility Mapping in Cognitive Decline: A Review of Technical Aspects and Applications
+SEMAN7;2022;Assessment on Recent Landslide Susceptibility Mapping Methods: A Review
+SEMAN7;2024;Neuroimaging of Parkinson's disease by quantitative susceptibility mapping
+SEMAN7;2022;A Review on Landslide Susceptibility Mapping in Malaysia: Recent Trend and Approaches
+SEMAN7;2021;Quantitative and semi-quantitative methods in flood hazard/susceptibility mapping: a review
+SEMAN7;2025;Automated Deep Learning-based Segmentation of the Dentate Nucleus Using Quantitative Susceptibility Mapping MRI
+SEMAN7;2025;In vivo detection of oxidative stress and iron deposition by proton exchange rate (kex) MRI and quantitative susceptibility mapping for differentiating multiple sclerosis from cerebral small vessel
+SEMAN7;2026;Artificial Intelligence for Geospatial Decision Support in Rural Wildfire Management: A Configurational Mapping Review
+SEMAN7;2024;Mapping vulnerability for increased COVID-19 susceptibility and worse outcomes: a scoping review
+SEMAN7;2019;Parameters Derived from and/or Used with Digital Elevation Models (DEMs) for Landslide Susceptibility Mapping and Landslide Risk Assessment: A Review
+SEMAN7;2025;Post-Hoc Explanation of AI Predictions in Wildfire Risk Mapping Through an Interactive Web-Based GeoXAI System
+SEMAN7;2025;Harnessing Geospatial Intelligence for Wildfire Risk Mapping Using Machine Learning Techniques
+SEMAN7;2021;Diagnostic performance of T2* gradient echo, susceptibility-weighted imaging, and quantitative susceptibility mapping for patients with multiple system atrophy-parkinsonian type: a systematic review
+SEMAN7;2023;Spatial Prediction of Wildfire Susceptibility Using Hybrid Machine Learning Models Based on Support Vector Regression in Sydney, Australia
+SEMAN7;2018;Review on landslide susceptibility mapping using support vector machines
+SEMAN7;2025;Integrating energy valley optimization with machine learning for flood susceptibility mapping in Kayseri, Turkiye
+SEMAN7;2025;Challenges and Opportunities in Remote Sensing-Based Fuel Load Estimation for Wildfire Behavior and Management: A Comprehensive Review
+SEMAN7;2021;Review on the Application of Machine Learning Methods in Landslide Susceptibility Mapping
+SEMAN7;2024;Comparative analysis of quantitative susceptibility mapping in preclinical dementia detection
+SEMAN7;2024;Comparison study of quantitative susceptibility mapping with GRAPPA and wave-CAIPI: reproducibility, consistency, and microbleeds detection
+SEMAN7;2019;Current and Future Status of GIS-based Landslide Susceptibility Mapping: A Literature Review
+SEMAN7;2020;Systematic review protocol: Quantitative susceptibility mapping of brain iron accumulation in neurodegenerative diseases
+SEMAN7;2025;Modeling Neighborhoods as Fuel for Wildfire: A Review
+SEMAN7;2022;Review of landslide susceptibility assessment based on knowledge mapping
+SEMAN7;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN7;2024;Reviewing Flood Susceptibility Mapping Utilizing Machine Learning: Insights and Prospects for Future Research
+SEMAN7;2019;Quantitative Susceptibility Mapping and Resting State Network Analyses in Parkinsonian Phenotypes-A Systematic Review of the Literature
+SEMAN7;2024;Machine Learning for Flood Susceptibility Mapping of the Chennai Floods of 2023
+SEMAN7;2025;Integrating Long Short-Term Memory Networks and Machine Learning Models for Improving Explainable Wildfire Susceptibility Assessment
+SEMAN7;2023;Quantitative susceptibility mapping of brain iron in healthy aging and cognition
+SEMAN7;2023;GIS-based landslide susceptibility mapping of Western Rwanda: an integrated artificial neural network, frequency ratio, and Shannon entropy approach
+SEMAN7;2025;Systematic Literature Review on the Application of Mathematics, Statistics, and Computer Science in Wildfire Analysis
+SEMAN7;2023;Flood susceptibility mapping using fuzzy analytical hierarchy process for Cedar Rapids, Iowa
+SEMAN7;2023;Seasonal differences in the spatial patterns of wildfire drivers and susceptibility in the southwest mountains of China
+SEMAN7;2022;Creation of Wildfire Susceptibility Maps in Plumas National Forest Using InSAR Coherence, Deep Learning, and Metaheuristic Optimization Approaches
+SEMAN7;2023;Value of Quantitative Susceptibility Mapping in Clinical Neuroradiology
+SEMAN7;2025;Landslide Susceptibility Mapping in Complex Topo-Climatic Himalayan Terrain, India Using Machine Learning Models: A Comparative Study of XGBoost, RF and ANN
+SEMAN7;2025;Identification and mapping of Urban flood susceptibility in Lega Tafo using GIS-based multi-criteria decision making and remote sensing
+SEMAN7;2026;Exploring the role of quantitative susceptibility mapping in assessing brain iron deposition in hemodialysis patients
+SEMAN7;2017;Comparing two models for post-wildfire debris flow susceptibility mapping
+SEMAN7;2022;Machine-Learning Applications in Geosciences: Comparison of Different Algorithms and Vegetation Classes' Importance Ranking in Wildfire Susceptibility
+SEMAN7;2023;The Current State of Susceptibility-Weighted Imaging and Quantitative Susceptibility Mapping in Head Trauma
+SEMAN7;2026;Harnessing geospatial intelligence for wildfire risk mapping using ML and DL techniques
+SEMAN7;2023;Landslide susceptibility mapping: application of novel hybridization of rotation forests (RF) and Java decision trees (J48)
+SEMAN7;2022;An Application of Artificial Neural Network (ANN) for Landslide Hazard Mapping, Susceptibility and Early Warning System: A Review
+SEMAN7;2023;Quantitative susceptibility mapping for differentiating multiple sclerosis from cerebral small vessel disease
+SEMAN7;2023;Badland erosion susceptibility mapping using machine learning data mining techniques, Firozkuh watershed, Iran
+SEMAN7;2025;Clinical Performance of Quantitative Susceptibility Mapping in Cerebral Microbleed Detection Relative to 2D GRE
+SEMAN7;2026;Wildfire Probability Mapping in Southeastern Europe Using Deep Learning and Machine Learning Models Based on Open Satellite Data
+SEMAN7;2023;Explainable artificial intelligence (XAI) for interpreting the contributing factors feed into the wildfire susceptibility prediction model
+SEMAN7;2023;Feature Elimination and Comparative Assessment of Machine Learning Algorithms for Flood Susceptibility Mapping in Kerala, India
+SEMAN7;2022;Comparative analysis of multiple conventional neural networks for landslide susceptibility mapping
+SEMAN7;2022;Quantitative Susceptibility Mapping: Basic Methods and Clinical Applications
+SEMAN7;2025;Comparative Analysis of Non-Negative Matrix Factorization in Fire Susceptibility Mapping: A Case Study of Semi-Mediterranean and Semi-Arid Regions
+SEMAN7;2024;A Novel Dataset Replenishment Strategy Integrating Time-Series InSAR for Refined Landslide Susceptibility Mapping in Karst Regions
+SEMAN7;2024;Putamen iron quantification in diseases with neurodegeneration: a meta-analysis of the quantitative susceptibility mapping technique
+SEMAN7;2022;Quantitative susceptibility mapping reveals brain iron deficiency in children with attention-deficit/hyperactivity disorder: a whole-brain analysis
+SEMAN7;2024;CSF Susceptibility Variation in Patient With Intracranial Hemorrhage: Implications for Quantitative Susceptibility Mapping Reference Selection
+SEMAN7;2025;A SYSTEMATIC REVIEW OF SOIL EROSION SUSCEPTIBILITY: TRENDS AND INSIGHTS FROM 2010 TO 2023
+SEMAN7;2022;Data used for GIS-based Flood Susceptibility Mapping
+SEMAN7;2024;Parkinson's disease and Parkinsonism syndromes: Evaluating iron deposition in the putamen using magnetic susceptibility MRI techniques-A systematic review and literature analysis
+SEMAN7;2021;Experts' multiple criteria evaluations of fuel management options to reduce wildfire susceptibility. The role of closer knowledge of the local socioeconomic context
+SEMAN7;2023;How the recursive feature elimination affects the SVM and RF for relative wildfire susceptibility in a certain area? A study case in Northern Iran
+SEMAN7;2021;Wildfire susceptibility assessment: evaluation of the performance of different machine learning algorithms
+SEMAN7;2023;Economic Analysis of Wildfire Impacts to Water Quality: a Review
+SEMAN7;2023;Susceptibility Risk Index Mapping of Population at Tuberculosis Epidemic Risk
+SEMAN7;2023;Susceptibility Risk Index Mapping of Population at Tuberculosis Epidemic Risk
+SEMAN7;2025;Monitoring Wildfire Risk with a Near-Real-Time Live Fuel Moisture Content System: A Review and Roadmap for Operational Application in New Zealand
+SEMAN7;2021;Landslide and Wildfire Susceptibility Assessment in Southeast Asia Using Ensemble Machine Learning Methods
+SEMAN7;2022;Response to "On the reproducibility of quantitative susceptibility mapping and its potential as a clinical biomarker: A comment on Cogswell et al. 2021
+SEMAN7;2014;Susceptibility to wildfire in a conservation unit located in the transition region of Cerrado and Atlantic Forest Biomes, Brazil
+SEMAN7;2018;GIS-based evolutionary optimized Gradient Boosted Decision Trees forest fire susceptibility mapping
+SEMAN7;2020;Quantitative Susceptibility Mapping: Technical Considerations and Clinical Applications in Neuroimaging
+SEMAN7;2021;The Calcium Versus Hemorrhage Trial: Developing Diagnostic Criteria for Chronic Intracranial Susceptibility Lesions Using Single-Energy Computed Tomography, Dual-Energy Computed Tomography, and
+SEMAN7;2021;An assessment of data mining and bivariate statistical methods for landslide susceptibility mapping
+SEMAN7;2021;Burning Susceptibility Modeling to Reduce Wildfire Impacts: A GIS and Multivariate Statistics Approach
+SEMAN7;2023;Unraveling the evolution of landslide susceptibility: a systematic review of 30-years of strategic themes and trends
+SEMAN7;2020;Comparative performance of new hybrid ANFIS models in landslide susceptibility mapping
+SEMAN7;2020;Two-Minute Quantitative Susceptibility Mapping From Three-Dimensional Echo-Planar Imaging
+SEMAN7;2025;Geo-Mapping Safety: A Geographic Information System Review of Evacuation Centers in Malolos, Bulacan
+SEMAN7;2021;A combined structural and seasonal approach to assess wildfire susceptibility and hazard in summertime
+SEMAN7;2017;Overview of quantitative susceptibility mapping
+SEMAN7;2017;Clinical quantitative susceptibility mapping (QSM): Biometal imaging and its emerging roles in patient care
+SEMAN7;2022;Quantitative susceptibility mapping as an imaging biomarker for Alzheimer's disease: The expectations and limitations
+SEMAN7;2019;Clinical Integration of Automated Processing for Brain Quantitative Susceptibility Mapping: Multi-Site Reproducibility and Single-Site Robustness
+SEMAN7;2022;Mapping soil liquefaction susceptibility across Europe using the analytic hierarchy process
+SEMAN7;2017;Overview of quantitative susceptibility mapping
+SEMAN7;2017;Clinical quantitative susceptibility mapping (QSM): Biometal imaging and its emerging roles in patient care
+SEMAN7;2022;Quantitative susceptibility mapping as an imaging biomarker for Alzheimer's disease: The expectations and limitations
+SEMAN7;2019;Clinical Integration of Automated Processing for Brain Quantitative Susceptibility Mapping: Multi-Site Reproducibility and Single-Site Robustness
+SEMAN7;2022;Mapping soil liquefaction susceptibility across Europe using the analytic hierarchy process
+SEMAN7;2024;MAPPING OF FIRE SUSCEPTIBILITY IN THE HYDROGRAPHIC SUB-BASIN OF THE MEDIO JAGUARIBE, CEARA, BRAZIL
+SEMAN7;2024;Mapping genetic susceptibility to spontaneous preterm birth: Analysis of Utah pedigrees to find inherited genetic factors
+SEMAN7;2012;Review of Researches on Regional Landslide Susceptibility Mapping Model
+SEMAN7;2023;Dynamic association of slope movements in the Uttarakhand Himalaya: a critical review on the landslide susceptibility assessment
+SEMAN7;2020;Landslide Susceptibility Mapping: Development Towards a Machine Learning-Based Model
+SEMAN7;2022;Genetic mapping of determinants in drug resistance, virulence, disease susceptibility, and interaction of host-rodent malaria parasites
+SEMAN7;2018;Susceptibility mapping of gully erosion using GIS-based statistical bivariate models: a case study from Ali Al-Gharbi District, Maysan Governorate, southern Iraq
+SEMAN7;2019;Linking Flood Susceptibility Mapping and Governance in Mexico for Flood Mitigation: A Participatory Approach Model
+SEMAN7;2020;Assessment of landslide susceptibility mapping based on Bayesian hyperparameter optimization: A comparison between logistic regression and random forest
+SEMAN7;2019;Measurements of cerebral blood volume using quantitative susceptibility mapping, R2* relaxometry, and ferumoxytol-enhanced MRI
+SEMAN7;2022;Higher magnetic susceptibility of globus pallidus in patients after macrocyclic GBCAs: assessment using quantitative susceptibility mapping
+SEMAN7;2022;Methods Used in Flood Susceptibility Mapping
+SEMAN7;2020;Review of Wildfire Management Techniques-Part I: Causes, Prevention, Detection, Suppression, and Data Analytics
+SEMAN7;2021;Geo-spatial Analysis for Flash Flood Susceptibility Mapping in the North-East Haor (Wetland) Region in Bangladesh
+SEMAN7;2022;Comparison of Landslide Susceptibility Mapping Based on Two Machine Learning Algorithm Models
+SEMAN8;2024;CNN-BiLSTM: A Novel Deep Learning Model for Near-Real-Time Daily Wildfire Spread Prediction
+SEMAN8;2024;Machine Learning and Deep Learning for Wildfire Spread Prediction: A Review
+SEMAN8;2025;A Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model
+SEMAN8;2025;Assessing WildfireGPT: a comparative analysis of AI models for quantitative wildfire spread prediction
+SEMAN8;2024;Wildfire spread prediction using geostationary satellite observation data and directional ROS adjustment factor
+SEMAN8;2025;An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
+SEMAN8;2025;Vi-Net: A Hybrid Semantic Segmentation Approach for Enhanced Wildfire Spread Prediction
+SEMAN8;2025;Probabilistic Wildfire Spread Prediction Using an Autoregressive Conditional Generative Adversarial Network
+SEMAN8;2025;Assessment of deep learning models integrated with weather and environmental variables for wildfire spread prediction and a case study of the 2023 Maui fires
+SEMAN8;2024;Wildfire Spread Prediction in North America Using Satellite Imagery and Vision Transformer
+SEMAN8;2022;A Review of Genetic Algorithm Approaches for Wildfire Spread Prediction Calibration
+SEMAN8;2024;Comparing Accuracy of Wildfire Spread Prediction Models under Different Data Deficiency Conditions
+SEMAN8;2025;Improved Wildfire Spread Prediction with Time-Series Data and the WSTS+ Benchmark
+SEMAN8;2023;WildfireSpreadTS: A dataset of multi-modal time series for wildfire spread prediction
+SEMAN8;2023;THE LARGE-SCALE WILDFIRE SPREAD PREDICTION USING A MULTI-KERNEL CONVOLUTIONAL NEURAL NETWORK
+SEMAN8;2023;FirePred: A hybrid multi-temporal convolutional neural network model for wildfire spread prediction
+SEMAN8;2024;Adaptive wildfire spread prediction for complex terrain: modeling the effectiveness of sprinkler systems
+SEMAN8;2024;Wildfire Spread Prediction Through Remote Sensing and UAV Imagery-Driven Machine Learning Models
+SEMAN8;2023;WFNet: A hierarchical convolutional neural network for wildfire spread prediction
+SEMAN8;2025;Driving wildfire spread prediction by multi-source real-time observations
+SEMAN8;2024;Metaheuristic algorithms for calibration of two-dimensional wildfire spread prediction model
+SEMAN8;2024;Wildfire Spread Prediction Using Attention Mechanisms in U2-NET
+SEMAN8;2026;U-Net with Hadamard Transform and DCT Latent Spaces for Next-day Wildfire Spread Prediction
+SEMAN8;2023;Incorporating Stochastic Wind Vectors in Wildfire Spread Prediction
+SEMAN8;2023;Wildfire Spread Prediction Using Attention Mechanisms in U-NET
+SEMAN8;2023;Wildfire Spread Prediction using Machine Learning Algorithms
+SEMAN8;????;Incorporating Short-Term Forecast Mean Winds and NWP Maximum Gusts into Effective Wind Speed for Extreme Weather-Aware Wildfire Spread Prediction
+SEMAN8;2022;Evolutionary Statistical System Based on Novelty Search: A Parallel Metaheuristic for Uncertainty Reduction Applied to Wildfire Spread Prediction
+SEMAN8;2022;Wildfire Spread Prediction Model Calibration Using Metaheuristic Algorithms
+SEMAN8;2026;Accelerating Wildfire Spread Prediction for Guidance: A ConvLSTM Deep Learning Approach
+SEMAN8;2024;Application of Interpretable Convolutional Neural Networks Incorporating ASPP Mechanism in Wildfire Spread Prediction
+SEMAN8;2023;Real Time Monitoring of Forest Fires and Wildfire Spread Prediction
+SEMAN8;2016;Wildfire Spread Prediction and Assimilation for FARSITE Using Ensemble Kalman Filtering
+SEMAN8;2019;Crowd-Sourced Wildfire Spread Prediction With Remote Georeferencing Using Smartphones
+SEMAN8;2019;Methods for Wildfire Spread Prediction and Their Integration With Remote Sensing Data
+SEMAN8;2018;California Wildfire Spread Prediction using FARSITE and the Comparison with the Actual Wildfire Maps using Statistical Methods
+SEMAN8;????;A probabilistic approach to wild fi re spread prediction using a denoising diffusion surrogate model
+SEMAN8;2013;Applying Probability Theory for the Quality Assessment of a Wildfire Spread Prediction Framework Based on Genetic Algorithms
+SEMAN8;2025;CNN-Based Satellite Imagery Framework for Wildfire Detection and Spread Prediction
+SEMAN8;????;Probabilistic Approach to Wildfire Spread Prediction Using a Denoising Diffusion Surrogate Model
+SEMAN8;2025;Robust Prediction of Wildfire Spread in Australia
+SEMAN8;2024;Exploring Directions for Establishing Forest Fire Containment Lines through Forest Fire Spread Prediction Simulations: A Case Study of 2022 Uljin-Samcheok Wildfire
+SEMAN8;2025;Wildfire Spread Modeling and Prediction via Reinforcement Learning
+SEMAN8;2025;Wildfire Prediction and Spread Detection
+SEMAN8;2024;Shapley-based interpretation of deep learning models for wildfire spread rate prediction
+SEMAN8;2024;Experimental and numerical study on data-driven prediction for wildfire spread incorporating adaptive observation error adjustment
+SEMAN8;2025;Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning
+SEMAN8;2025;Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data
+SEMAN8;2024;Trending and emerging prospects of physics-based and ML-based wildfire spread models: a comprehensive review
+SEMAN8;2024;Application of Explainable Artificial Intelligence in Predicting Wildfire Spread: An ASPP-Enabled CNN Approach
+SEMAN8;2025;FireSentry: A Multi-Modal Spatio-temporal Benchmark Dataset for Fine-Grained Wildfire Spread Forecasting
+SEMAN8;2025;LinU-Mamba: Visual Mamba U-Net with Linear Attention to Predict Wildfire Spread
+SEMAN8;2025;MFiSP: A Multimodal Fire Spread Prediction Framework
+SEMAN8;2025;Deep-learning-based dynamic early warning and spread prediction model for wildfires along transmission lines
+SEMAN8;2026;RCDA-Net: a residual contextual dual attention network for wildfire spread region prediction
+SEMAN8;2025;Simulating wildfire spread based on continuous time series remote sensing images and cellular automata
+SEMAN8;2025;Wildfire spread forecasting with Deep Learning
+SEMAN8;2025;From Convolution to Attention: Transformer-Based Modeling for Multi-Day Wildfire Spread Forecasting
+SEMAN8;2021;Multifidelity prediction in wildfire spread simulation: Modeling, uncertainty quantification and sensitivity analysis
+SEMAN8;2023;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
+SEMAN8;2023;Improving Geostationary Satellite-Based Prediction of Wildfire Spread by Directional Rate of Spread Adjustment Factor
+SEMAN8;2024;A Deep Learning Framework: Predicting Fire Radiative Power From the Combination of Polar-Orbiting and Geostationary Satellite Data During Wildfire Spread
+SEMAN8;2024;Fire spread prediction model based on multi-scale convolutional neural network
+SEMAN8;2024;Advancing Wildfire Predictive Models: A Novel Dataset for Next-Day Wildfire Spread
+SEMAN8;2024;Assimilating UAV-Based Observation Data for Wildfire Spread Simulation
+SEMAN8;2024;The distributed strategy for asynchronous observations in data-driven wildland fire spread prediction
+SEMAN8;????;Learning-based prediction of wildfire spread with real-time rate of spread measurement
+SEMAN8;2025;A Comprehensive Review of Empirical and Dynamic Wildfire Simulators and Machine Learning Techniques used for the Prediction of Wildfire in Australia
+SEMAN8;2022;Rapid prediction of wildfire spread using ensemble Kalman filter and polyline simplification
+SEMAN8;2024;Evaluation of an In-Canopy Wind and Wind Adjustment Factor Model for Wildfire Spread Applications Across Scales
+SEMAN8;2025;Exploration of geo-spatial data and machine learning algorithms for robust wildfire occurrence prediction
+SEMAN8;2024;Wildfire spreading prediction using multimodal data and deep neural network approach
+SEMAN8;2025;AI for Wildfire Management: From Prediction to Detection, Simulation, and Impact Analysis-Bridging Lab Metrics and Real-World Validation
+SEMAN8;2022;Prediction of wildfire rate of spread in grasslands using machine learning methods
+SEMAN8;2023;Facing the Wildfire Spread Risk Challenge: Where Are We Now and Where Are We Going?
+SEMAN8;2022;Wildfire Path Prediction Spread using Machine Learning
+SEMAN8;????;Bridging spatiotemporal wildfire prediction and decision modeling using transformer networks and fuzzy inference systems
+SEMAN8;2025;An integrated framework for wildfire emergency response and post-fire debris flow prediction: a case study from the wildfire event on 20 April 2021 in Mianning, Sichuan, China
+SEMAN8;2025;An Intelligent Hybrid Model for Wildfire Prediction and Environmental Risk Management
+SEMAN8;2023;A new paradigm forest fire spread prediction: Faster decisions at high resolution
+SEMAN8;2024;Firecast Zigzag Convolutional Network for Wildfire Prediction
+SEMAN8;2024;Forecasting Hourly Wildfire Risk: Enhancing Fire Danger Assessment using Numerical Weather Prediction
+SEMAN8;2024;Wildfire Autonomous Response and Prediction Using Cellular Automata (WARP-CA)
+SEMAN8;2024;PyroScan: Wildfire Behavior Prediction System using Unmanned Aerial Vehicles (UAV)
+SEMAN8;2019;Predicting fire spread and behaviour on the fireline. Wildfire analyst pocket: A mobile app for wildland fire prediction
+SEMAN8;2024;Predicting the rate of spread of mixed-fuel surface fires in northeastern China using the Rothermel wildfire behaviour model: a laboratory study
+SEMAN8;2022;Modeling Wildfire Spread with an Irregular Graph Network
+SEMAN8;2024;Enhancing Alaskan wildfire prediction and carbon flux estimation: a two-stage deep learning approach within a process-based model
+SEMAN8;2022;Efficient Cloud-Based Calibration of Input Data for Forest Fire Spread Prediction
+SEMAN8;2021;Forest fire spread prediction using deep learning
+SEMAN8;2023;Prediction capability of the MCDA-AHP model in wildfire risk zonation of a protected area in the Southern Western Ghats
+SEMAN8;2016;Prediction of Wildfire Spread and Propagation Algorithm for Disaster Area
+SEMAN8;2019;FireCast: Leveraging Deep Learning to Predict Wildfire Spread
+SEMAN8;2023;Paying Attention to Wildfire: Using U-Net with Attention Blocks on Multimodal Data for Next Day Prediction
+SEMAN8;2021;Uncertainty quantification of forecast error in coupled fire-atmosphere wildfire spread simulations: sensitivity to the spatial resolution
+SEMAN8;2021;Cloud-Based Urgent Computing for Forest Fire Spread Prediction under Data Uncertainties
+SEMAN8;2019;Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
+SEMAN8;2026;Robust Wildfire Forecasting under Partial Observability: From Reconstruction to Prediction
+SEMAN8;2026;Trustworthy Data-Driven Wildfire Risk Prediction and Understanding in Western Canada
+SEMAN8;2020;Enhancing wildfire spread modelling by building a gridded fuel moisture content product with machine learning
+SEMAN8;2020;Early Adaptive Evaluation Scheme for Data-Driven Calibration in Forest Fire Spread Prediction
+SEMAN8;2019;A novel wildfire digital-twin framework using interactive wildfire spread simulator
+SEMAN8;2019;Coupling wildfire spread and erosion models to quantify post-fire erosion before and after fuel treatments
+SEMAN8;2020;Coupling wildfire spread and erosion models to quantify post-fire erosion in Northern Sardinia, Italy
+SEMAN8;2021;Derivation of a Bayesian fire spread model using large-scale wildfire observations
+SEMAN8;2019;Delft University of Technology Modeling wildfire spread in wildland-industrial interfaces using dynamic Bayesian network
+SEMAN8;2022;Towards a Comprehensive Dataset for Next-Day Wildfire Prediction
+SEMAN8;2017;Spatial Partition-Based Particle Filtering for Data Assimilation in Wildfire Spread Simulation
+SEMAN8;2018;Generation and evaluation of ensemble simulations of wildfire spread for probabilistic forecast
+SEMAN8;2018;DATA-DRIVEN SIMULATIONS OF WILDFIRE SPREAD AT REGIONAL SCALES
+SEMAN8;2026;Wind Speed Prediction Based on AM-BiLSTM Improved by PSO-VMD for Forest Fire Spread
+SEMAN8;2016;Short-term fire front spread prediction using inverse modelling and airborne infrared images
+SEMAN8;2018;Inverse modelling in wildfire spread forecasting: towards a data-driven system
+SEMAN8;2015;Role of buoyant flame dynamics in wildfire spread
+SEMAN8;2020;Evaluating the 10% wind speed rule of thumb for estimating a wildfire's forward rate of spread against an extensive independent set of observations
+SEMAN8;2025;Wildfire and power grid nexus in a changing climate
+SEMAN8;2015;Effects of spatial and temporal variation in environmental conditions on simulation of wildfire spread
+SEMAN8;2020;Wildfire Prediction: Handling Uncertainties Using Integrated Bayesian Networks and Fuzzy Logic
+SEMAN8;2008;A cellular automata model forest fire spread prediction: The case of the wildfire that swept through Spetses Island in 1990
+SEMAN8;2020;Agent-based modelling for wildfire behaviour prediction
+SEMAN8;2014;Coupled Dynamic Data-Driven Framework for Forest Fire Spread Prediction
+SEMAN8;2018;Real-time fire segmentation via Active Contours for UAV integrated wildfire propagation prediction
+SEMAN8;2018;Combining MCTS and A3C for Prediction of Spatially Spreading Processes in Forest Wildfire Settings
+SEMAN8;2018;AdriaFirePropagator and AdriaFireRisk: user friendly Web based wildfire propagation and wildfire risk prediction software
+SEMAN8;2025;Machine Learning based Wildfire Area Estimation Leveraging Weather Forecast Data
+SEMAN8;2025;Wildfire Detection Based on Satellite Images Using Deep Learning
+SEMAN8;????;Fusion of Physics-Based Wildfire Spread Models with Satellite Data using Generative Algorithms
+SEMAN8;2025;Generative Algorithms for Wildfire Progression Reconstruction from Multi-Modal Satellite Active Fire Measurements and Terrain Height
+SEMAN8;2025;Dynamic UAV Path Planning Under Wildfire Scenarios Using PPO Algorithm
+SEMAN8;2025;A Semi-Supervised Wildfire Image Segmentation Network with Multi-Scale Structural Fusion and Pixel-Level Contrastive Consistency
+SEMAN8;2025;Spatial Uncertainty Quantification in Wildfire Forecasting for Climate-Resilient Emergency Planning
+SEMAN8;2025;Comparing Satellite Data for Next-Day Wildfire Predictability
+SEMAN8;2025;Comparing Next-Day Wildfire Predictability of MODIS and VIIRS Satellite Data
+SEMAN8;2025;The Missing Wind in Wildfire Science
+SEMAN8;2025;Modeling Information Diffusion in Social Media with a Wildfire-Inspired PDE System
+SEMAN8;2025;Pre-Ignition Wildfire Burn Severity Modeling with Polarimetric UAVSAR Data and Machine Learning
+SEMAN8;????;Firefighting Drone Configuration and Scheduling for Wildfire Based on Loss Estimation and Minimization
+SEMAN8;2025;Temporal patterns of wildfire occurrence in forests disturbed by pests in the subtaiga zone of Central Siberia
+SEMAN8;2024;Wildfire Detection With Deep Learning-A Case Study for the CICLOPE Project
+SEMAN8;2020;Prediction of global spread of COVID-19 pandemic: a review and research challenges
+SEMAN8;2024;Using Drone Swarm to Stop Wildfire: A Predict-then-optimize Approach
+SEMAN8;2025;Rapid simulation of grassland fire spread with parameterized flame plume entrainment effects
+SEMAN8;2025;Soil Moisture is a Stronger Predictor of Forest Fire Spread Potential Than Weather in the U.S. Northern Rocky Mountains
+SEMAN8;2025;Numerical simulation of wind-driven shrubland-fire spread: A parametric study
+SEMAN8;2010;Data Injection at Execution Time in Grid Environments Using Dynamic Data Driven Application System for Wildland Fire Spread Prediction
+SEMAN8;2024;Using cellular automata and multi-criteria evaluation to simulate the wildfire expansion in Prince George, British Co-lumbia
+SEMAN8;2024;Assessment of Wildfire Risk on Transmission Assets
+SEMAN8;2026;Generative Algorithms for Wildfire Progression Reconstruction from Multi-Modal Satellite Active Fire Measurements and Terrain Height
+SEMAN8;2026;Conformal Risk Control for Safety-Critical Wildfire Evacuation Mapping: A Comparative Study of Tabular, Spatial, and Graph-Based Models
+SEMAN8;2026;Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning
+SEMAN8;2008;Towards applications of particle filters in wildfire spread simulation
+SEMAN8;2023;Spain on Fire: A novel wildfire risk assessment model based on image satellite processing and atmospheric information
+SEMAN8;2024;Modeling wildfires' spread based on low-cost sensors measuring real-time moisture content
+SEMAN8;2026;Predicting Wildfires Before They Spread Using Multimodal Foundation Models
+SEMAN8;2023;A Generative Model for Surrogates of Spatial-Temporal Wildfire Nowcasting
+SEMAN8;2023;Using Satellite-Derived Fire Arrival Times for Coupled Wildfire-Air Quality Simulations at Regional Scales of the 2020 California Wildfire Season
+SEMAN8;2024;Optimizing Emergency Response with UAV-Integrated Fire Safety for Real-Time Prediction and Decision-Making: A Performance Evaluation
+SEMAN8;2023;Predicting the Wildland Fire Spread Using a Mixed-Input CNN Model with Both Channel and Spatial Attention Mechanisms
+SEMAN8;2026;A Divide-and-Conquer Deep Learning Framework for High-Resolution Burn Map Prediction Under Low Computational Memory Condition
+SEMAN8;2022;Data-driven spatio-temporal analysis of wildfire risk to power systems operation
+SEMAN8;????;Image Segmentation For Wildfire Prediction
+SEMAN8;2021;Wildfire Segmentation Using Deep Vision Transformers
+SEMAN8;2014;Towards a Dynamic Data Driven Wildfire Behavior Prediction System at European Level
+SEMAN8;2013;International Conference on Computational Science, ICCS 2013 A data-driven model for large wildfire behaviour prediction in Europe
+SEMAN8;2023;Differences in Canopy Cover Estimations from ALS Data and Their Effect on Fire Prediction
+SEMAN8;2021;Deep Learning Methods for Daily Wildfire Danger Forecasting
+SEMAN8;2023;Prediction of Bushfire Area Using Machine Learning Techniques
+SEMAN8;2013;Title: Improved Wildfire Prediction Using Remote Sensing Technology on Guinea Grasslands in Hawaii Project
+SEMAN8;2019;Severe Fire Danger Index: A Forecastable Metric to Inform Firefighter and Community Wildfire Risk Management
+SEMAN8;2023;BURNED AREA PREDICTION USING SMOKE PLUME DETECTION FROM HIGH SPATIAL RESOLUTION IMAGERY
+SEMAN8;2021;An empirical-based model for predicting the forward spread rate of wildfires in eucalypt forests
+SEMAN8;2021;Remotely Sensed Fine-Fuel Changes from Wildfire and Prescribed Fire in a Semi-Arid Grassland
+SEMAN8;2020;Global Wildfire Outlook Forecast with Neural Networks
+SEMAN8;2021;Effect of fuel spatial resolution on predictive wildfire models
+SEMAN8;2022;Evaluating the Performance of Fire Rate of Spread Models in Northern-European Calluna vulgaris Heathlands
+SEMAN8;2019;Cloud-assisted green IoT-enabled comprehensive framework for wildfire monitoring
+SEMAN8;????;Predicting Wildfire Susceptibility in Napa County, California using Machine Learning
+SEMAN8;2022;Deep learning approach for uav-based wildfire detection and segmentation
+SEMAN8;2018;Using Spatial Reinforcement Learning to Build Forest Wildfire Dynamics Models From Satellite Images
+SEMAN8;2018;Analyzing fine-scale spatiotemporal drivers of wildfire in a forest landscape model
+SEMAN8;2017;Parallel fuzzy cellular automata for data-driven simulation of wildfire spreading
+SEMAN8;2009;Spatial Data in Information System for Operational Prediction of Wildfire Behaviour and their Cartographic Visualization
+SEMAN8;2019;Ensemble transform Kalman filter (ETKF) for large-scale wildland fire spread simulation using FARSITE tool and state estimation method
+SEMAN8;2020;Physics-Informed Machine Learning Simulator for Wildfire Propagation
+SEMAN8;2019;IRIS-Rapid response fire spread forecasting system: Development, calibration and evaluation
+SEMAN8;2017;An integrated approach for tactical monitoring and data-driven spread forecasting of wildfires
+SEMAN8;2020;Modeling wildfire using evolutionary cellular automata
+SEMAN8;2022;A machine learning-based prediction model for preterm birth in rural areas
+SEMAN8;2021;Application of neural networks to rate of spread estimation in shrublands
+SEMAN8;2010;Monte Carlo-based ensemble method for prediction of grassland fire spread
