@@ -5,14 +5,14 @@ Inputs:
 - src/dataout/02-TITLES_REVIEW_WF.csv (target curated list)
 - Source database CSV files in src/dataout.
 
-Outputs (written to src/dataout by default):
-- charts/DB_COVERAGE_SUMMARY.csv
-- charts/DB_GREEDY_ORDER.csv
-- charts/YEAR_SUMMARY.csv
-- charts/DB_BY_YEAR.csv
-- charts/DB_COVERAGE_FROM_TARGET.csv
-- charts/DB_FROM_TARGET_BY_YEAR.csv
-- 03-UNMATCHED_TITLES.csv
+Outputs:
+- charts/db_coverage_top12.csv
+- charts/db_greedy_cumulative.csv
+- charts/year_coverage_gap.csv
+- charts/best_db_per_year.csv
+- charts/db_coverage_from_target.csv
+- charts/db_from_target_by_year.csv
+- src/dataout/03-UNMATCHED_TITLES.csv
 """
 
 from __future__ import annotations
@@ -32,6 +32,8 @@ def normalize_title(text: str) -> str:
     text = unicodedata.normalize("NFKD", text)
     text = "".join(ch for ch in text if not unicodedata.combining(ch))
     text = text.lower()
+    # Remove apostrophes so daxing'anling/children's/likelihood's align with de-quoted variants.
+    text = re.sub(r"['’`´]", "", text)
     text = re.sub(r"[^a-z0-9\s]", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
@@ -277,13 +279,13 @@ def main() -> int:
     charts_dir = data_dir / "charts"
     charts_dir.mkdir(parents=True, exist_ok=True)
 
-    coverage_path = charts_dir / "DB_COVERAGE_SUMMARY.csv"
-    greedy_path = charts_dir / "DB_GREEDY_ORDER.csv"
-    year_path = charts_dir / "YEAR_SUMMARY.csv"
-    db_year_path = charts_dir / "DB_BY_YEAR.csv"
+    coverage_path = charts_dir / "db_coverage_top12.csv"
+    greedy_path = charts_dir / "db_greedy_cumulative.csv"
+    year_path = charts_dir / "year_coverage_gap.csv"
+    db_year_path = charts_dir / "best_db_per_year.csv"
     unmatched_path = data_dir / "03-UNMATCHED_TITLES.csv"
-    direct_cov_path = charts_dir / "DB_COVERAGE_FROM_TARGET.csv"
-    direct_by_year_path = charts_dir / "DB_FROM_TARGET_BY_YEAR.csv"
+    direct_cov_path = charts_dir / "db_coverage_from_target.csv"
+    direct_by_year_path = charts_dir / "db_from_target_by_year.csv"
 
     coverage_df.to_csv(coverage_path, sep=";", index=False, encoding="utf-8")
     greedy_df.to_csv(greedy_path, sep=";", index=False, encoding="utf-8")

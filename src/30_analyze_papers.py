@@ -3,6 +3,7 @@ import sys
 from pathlib import Path
 import pandas as pd
 import importlib
+from pandas.errors import EmptyDataError
 
 # Interactive execution from the project root needs src added before package imports.
 if "__file__" not in globals() and str(Path.cwd() / "src") not in sys.path:
@@ -32,14 +33,36 @@ if not all_csv_files:
     raise FileNotFoundError("No source CSV files found in dataout: CSV_and_Bib.csv, GoogleScholar.csv, SemanticScholar.csv")
 
 PAPERS = pd.DataFrame()
+loaded_csv_files = []
+skipped_csv_files = []
 # idx_file=0; csv_file=all_csv_files[idx_file]
 for idx_file, csv_file in enumerate(all_csv_files):
     file_path = os.path.join(DIR_DATA_IN, csv_file)
-    df = pd.read_csv(file_path, sep=";", header=None, encoding="UTF-8")
+    try:
+        df = pd.read_csv(file_path, sep=";", header=None, encoding="UTF-8")
+    except EmptyDataError:
+        print(f"[warn] skipped empty CSV: {csv_file}")
+        skipped_csv_files.append(csv_file)
+        continue
+
+    if df.empty:
+        print(f"[warn] skipped empty CSV: {csv_file}")
+        skipped_csv_files.append(csv_file)
+        continue
+
     print(csv_file, len(df))
     PAPERS = pd.concat([PAPERS, df], ignore_index=True)
+    loaded_csv_files.append(csv_file)
 #
+if PAPERS.empty:
+    raise FileNotFoundError(
+        "No readable source CSV data found in dataout: " + ", ".join(all_csv_files)
+    )
+
 PAPERS.columns = ['DB', 'YEAR', 'TITLE']
+
+if skipped_csv_files:
+    print("[warn] skipped source CSV files:", ", ".join(skipped_csv_files))
 
 print("Original size:", len(PAPERS))
 

@@ -22,12 +22,10 @@ Note:
 from __future__ import annotations
 
 import argparse
-import csv
 import random
 import re
 import sys
 import time
-from datetime import datetime
 from pathlib import Path
 from typing import Iterable, List
 from urllib.parse import quote_plus
@@ -38,8 +36,7 @@ from playwright.sync_api import sync_playwright
 
 # Easy-to-configure default query list.
 DEFAULT_QUERIES = [
-    "wildfire spread prediction",
-    "forest fire machine learning",
+    "survey review wildfire",
 ]
 
 # Conservative defaults to reduce blocking risk.
@@ -66,7 +63,7 @@ def normalize_query_dirname(query: str) -> str:
     """
     cleaned = query.strip()
     cleaned = re.sub(r"[\\/]+", "-", cleaned)
-    cleaned = re.sub(r"\s+", " ", cleaned)
+    cleaned = re.sub(r"\s+", "_", cleaned)
     return cleaned or "query"
 
 
@@ -118,24 +115,6 @@ def extract_total_results(page) -> int | None:
     return None
 
 
-def write_summary_rows(summary_file: Path, rows: List[dict]) -> None:
-    summary_file.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = [
-        "run_timestamp",
-        "query",
-        "query_dir",
-        "total_results",
-        "pages_target",
-    ]
-
-    write_header = not summary_file.exists()
-    with summary_file.open("a", encoding="utf-8", newline="") as fh:
-        writer = csv.DictWriter(fh, fieldnames=fieldnames)
-        if write_header:
-            writer.writeheader()
-        writer.writerows(rows)
-
-
 def human_wait(min_delay: float, max_delay: float) -> None:
     time.sleep(random.uniform(min_delay, max_delay))
 
@@ -161,8 +140,6 @@ def save_search_pages_as_pdf(
     headless: bool,
 ) -> None:
     output_root.mkdir(parents=True, exist_ok=True)
-    run_timestamp = datetime.now().isoformat(timespec="seconds")
-    summary_rows: List[dict] = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
@@ -194,10 +171,7 @@ def save_search_pages_as_pdf(
             print(f"Output dir: {query_dir}")
 
             for page_number in range(1, pages + 1):
-                pdf_file = query_dir / f"SS_page_{page_number:02d}.pdf"
-                if pdf_file.exists():
-                    print(f"  [skip] Page {page_number:02d} already exists")
-                    continue
+                pdf_file = query_dir / f"P{page_number:02d}.pdf"
 
                 url = build_search_url(query, page_number)
                 success = False
@@ -230,6 +204,10 @@ def save_search_pages_as_pdf(
                             )
                             print(f"  [info] Total results reported: {total_label}")
 
+                        if pdf_file.exists():
+                            pdf_file.unlink()
+                            print(f"  [info] Overwriting existing {pdf_file.name}")
+
                         page.pdf(
                             path=str(pdf_file),
                             format="A4",
@@ -252,23 +230,7 @@ def save_search_pages_as_pdf(
                 # Main pacing control between pages.
                 human_wait(min_delay, max_delay)
 
-            summary_rows.append(
-                {
-                    "run_timestamp": run_timestamp,
-                    "query": query,
-                    "query_dir": safe_name,
-                    "total_results": (
-                        str(total_results)
-                        if total_results is not None
-                        else "unknown"
-                    ),
-                    "pages_target": str(pages),
-                }
-            )
-
-        summary_file = output_root / "SemanticScholar_query_totals.csv"
-        write_summary_rows(summary_file, summary_rows)
-        print(f"\n[done] Query totals logged to: {summary_file}")
+        print("\n[done] Semantic Scholar page capture completed.")
 
         context.close()
         browser.close()

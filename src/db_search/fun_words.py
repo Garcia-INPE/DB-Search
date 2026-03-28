@@ -3,6 +3,8 @@ import string
 import unicodedata
 from typing import Iterable
 
+from .functions import get_db_name as get_db_name_from_prefix
+
 
 _UNICODE_REPLACEMENTS = str.maketrans(
     {
@@ -51,19 +53,6 @@ _MULTI_DOT_RE = re.compile(r"\.{2,}")
 _MULTI_COLON_RE = re.compile(r":{2,}")
 _MULTI_HYPHEN_RE = re.compile(r"-{2,}")
 
-_DB_PREFIXES = {
-    "ACM": "ACM_DL",
-    "GOOGLESCHOLAR": "SCHOLA",
-    "IEEE": "IEEE_X",
-    "SCIENCEDIRECT": "SC_DIR",
-    "SEMANTICSCHOLAR": "SEMAN",
-    "SCOPUS": "SCOPUS",
-    "SPRINGER": "SPRING",
-    "TAYLOR": "TAYFRA",
-    "WILEY": "WILEYL",
-}
-
-
 def _strip_accents(text: str) -> str:
     decomposed = unicodedata.normalize("NFKD", text)
     return "".join(char for char in decomposed if not unicodedata.combining(char))
@@ -107,8 +96,5 @@ def clean_word(word, strip_accents: bool = True):
 
 
 def get_db_name(fname):
-    db_name = str(fname).lstrip().upper()
-    for prefix, canonical_name in _DB_PREFIXES.items():
-        if db_name.startswith(prefix):
-            return canonical_name
-    return db_name
+    """Compatibility wrapper delegating to centralized DB mapping helpers."""
+    return get_db_name_from_prefix(fname)

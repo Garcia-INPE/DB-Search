@@ -20,7 +20,7 @@ import shlex
 import subprocess
 import sys
 from pathlib import Path
-from typing import List
+from typing import List, Tuple
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -67,15 +67,25 @@ def build_parser() -> argparse.ArgumentParser:
     return parser
 
 
-def run_step(command: List[str], dry_run: bool) -> int:
+def run_step(command: List[str], dry_run: bool) -> Tuple[int, bool]:
     printable = " ".join(shlex.quote(part) for part in command)
     print(f"\n[run] {printable}")
 
     if dry_run:
-        return 0
+        return 0, False
 
-    completed = subprocess.run(command)
-    return completed.returncode
+    completed = subprocess.run(command, capture_output=True, text=True)
+
+    stdout = completed.stdout.strip()
+    stderr = completed.stderr.strip()
+    if stdout:
+        print(stdout)
+    if stderr:
+        print(stderr, file=sys.stderr)
+
+    combined_output = "\n".join(part for part in [stdout, stderr] if part)
+    has_warning = "[warn]" in combined_output.lower()
+    return completed.returncode, has_warning
 
 
 def main() -> int:
@@ -94,6 +104,7 @@ def main() -> int:
     download_python = args.download_python or args.python
 
     steps: List[List[str]] = []
+    warned_steps: List[str] = []
 
     if args.with_download:
         download_cmd = [
@@ -115,18 +126,25 @@ def main() -> int:
             [args.python, str(src_dir / "11_extract_pdf_google_scholar.py")],
             [args.python, str(src_dir / "14_extract_pdf_semantic_scholar.py")],
             [args.python, str(src_dir / "30_analyze_papers.py")],
+            [args.python, str(src_dir / "31_analyze_db_completeness.py")],
+            [args.python, str(src_dir / "32_plot_db_completeness_charts.py")],
         ]
     )
 
 # idx = 1; cmd = steps[idx]
     for idx, cmd in enumerate(steps, start=1):
         print(f"[step {idx}/{len(steps)}]")
-        code = run_step(cmd, args.dry_run)
+        code, has_warning = run_step(cmd, args.dry_run)
         if code != 0:
             print(f"[error] step failed with exit code {code}")
             return code
+        if has_warning:
+            warned_steps.append(Path(cmd[1]).name)
+            print(f"[warn] step completed with warnings: {Path(cmd[1]).name}")
 
     print("\n[done] Pipeline completed successfully.")
+    if warned_steps:
+        print(f"[warn] steps with warnings: {', '.join(warned_steps)}")
     return 0
 
 

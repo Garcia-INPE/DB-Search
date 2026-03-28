@@ -107,6 +107,9 @@ semantic_dirs = sorted(
     if path.is_dir() and DIR_PATTERN.match(path.name)
 )
 
+if not semantic_dirs:
+    print(f"[warn] no Semantic Scholar PDF directories found in: {DIR_DATA_IN}")
+
 for semantic_dir in semantic_dirs:
     match = DIR_PATTERN.match(semantic_dir.name)
     dir_number = match.group(1)
@@ -132,3 +135,9 @@ for semantic_dir in semantic_dirs:
 with open(DIR_DATA_OUT / "SemanticScholar.csv", "w", encoding="utf-8") as file:
     for article in results:
         file.write(f"{article}\n")
+
+if results:
+    print(f"[ok] extracted {len(results)} Semantic Scholar records")
+    print(f"[out] {DIR_DATA_OUT / 'SemanticScholar.csv'}")
+else:
+    print(f"[warn] no Semantic Scholar records extracted; wrote empty file: {DIR_DATA_OUT / 'SemanticScholar.csv'}")

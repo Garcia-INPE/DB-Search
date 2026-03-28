@@ -9,6 +9,7 @@ import importlib
 if "__file__" not in globals():
     sys.path.insert(0, str(Path.cwd() / "src"))
 
+from db_search import functions as DBFunctions
 from db_search import fun_words as FWords
 from db_search.paths import DATA_IN_DIR, DATA_OUT_DIR, ensure_src_on_path
 
@@ -26,7 +27,7 @@ file = all_bib_files[0]
 
 # Loop over every bib files in the folder
 for file in all_bib_files:
-    db_name = FWords.get_db_name(file)  # Extract the database name from the filename
+    db_name = DBFunctions.get_db_name(file)  # Extract the database name from the filename
     print("BibTeX file: ", file, "... ", end='')
     file_path = BIB_DIR / file
     # Read the bibTex file and feed a Pandas DataFrame
@@ -47,7 +48,7 @@ all_springer_files = sorted([f.name for f in CSV_DIR.iterdir() if f.name.startsw
 file = all_springer_files[0]
 # Loop over every Springer Nature CSV files in the folder
 for file in all_springer_files:
-    db_name = FWords.get_db_name(file)  # Extract the database name from the filename
+    db_name = DBFunctions.get_db_name(file)  # Extract the database name from the filename
     print("CSV file: ", file, "... ", end='')
     file_path = CSV_DIR / file
     df = pd.read_csv(file_path, nrows=200)
@@ -63,7 +64,7 @@ all_springer_files = sorted([f.name for f in CSV_DIR.iterdir() if f.name.startsw
 file = all_springer_files[0]
 # Loop over every Springer Nature CSV files in the folder
 for file in all_springer_files:
-    db_name = FWords.get_db_name(file)  # Extract the database name from the filename
+    db_name = DBFunctions.get_db_name(file)  # Extract the database name from the filename
     print("CSV file: ", file, "... ", end='')
     file_path = CSV_DIR / file
     df = pd.read_csv(file_path, nrows=200, encoding="UTF-8")
