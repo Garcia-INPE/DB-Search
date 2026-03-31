@@ -1,0 +1,22 @@
+[info] Run log: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/logs/GoogleScholar/download_20260330_160602.log
+[info] Profile: safe
+[info] Timing profile: between-pages=8.0-16.0s, settle=2.0-4.0s, scroll=1.0-2.0s, retries=3, backoff=15.0-35.0s
+Query: (survey OR review) AND (wildfire OR ‘wild fire’ OR ‘wildland fire’ OR ‘wild land fire’ OR ‘forest fire’ OR bushfire) AND ((‘machine learning’ OR ‘artificial intelligence’ OR ‘deep learning’) OR techniques OR management)
+Output dir: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/PDF/GoogleScholar
+CSV output: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/GoogleScholar.csv
+Target: 10 pages x 20 results = up to 200 total
+  [try 1/3] Capturing page 01...
+  [warn] Page.wait_for_selector: Timeout 45000ms exceeded.
+Call log:
+  - waiting for locator("div.gs_ri, div.gsc_a_t, #gs_res_ccl_mid") to be visible
+. Backoff 23.3s before retry...
+  [try 2/3] Capturing page 01...
+  [warn] Page.wait_for_selector: Timeout 45000ms exceeded.
+Call log:
+  - waiting for locator("div.gs_ri, div.gsc_a_t, #gs_res_ccl_mid") to be visible
+. Backoff 56.7s before retry...
+  [try 3/3] Capturing page 01...
+  [warn] Page.wait_for_selector: Timeout 45000ms exceeded.
+Call log:
+  - waiting for locator("div.gs_ri, div.gsc_a_t, #gs_res_ccl_mid") to be visible
+. Backoff 90.3s before retry...

@@ -1,17 +1,15 @@
 #!/usr/bin/env python3
-"""Analyze DB completeness for curated review/survey wildfire titles.
+"""Analyze DB article presence for curated review/survey wildfire titles.
 
 Inputs:
 - src/dataout/02-TITLES_REVIEW_WF.csv (target curated list)
 - Source database CSV files in src/dataout.
 
 Outputs:
-- charts/db_coverage_top12.csv
-- charts/db_greedy_cumulative.csv
-- charts/year_coverage_gap.csv
-- charts/best_db_per_year.csv
 - charts/db_coverage_from_target.csv
 - charts/db_from_target_by_year.csv
+- charts/article_db_match_counts.csv
+- charts/article_db_match_distribution.csv
 - src/dataout/03-UNMATCHED_TITLES.csv
 """
 
@@ -19,11 +17,19 @@ from __future__ import annotations
 
 import argparse
 import re
+import sys
 import unicodedata
 from pathlib import Path
-from typing import Dict, Iterable, List, Sequence, Set, Tuple
+from typing import List, Sequence
 
 import pandas as pd
+
+# Allow interactive execution from terminals not rooted at src/.
+SRC_DIR = Path(__file__).resolve().parent if "__file__" in globals() else (Path.cwd() / "src")
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from db_search.search_scope import get_scope_dataout_dir, resolve_search_scope
 
 
 def normalize_title(text: str) -> str:
@@ -69,6 +75,23 @@ def read_semicolon_csv(path: Path) -> pd.DataFrame:
     return out
 
 
+def read_target_csv(path: Path) -> pd.DataFrame:
+    """Read target CSV (YEAR;TITLE) and return YEAR/TITLE columns."""
+    df = pd.read_csv(path, sep=";", encoding="utf-8", dtype=str)
+    expected = {"YEAR", "TITLE"}
+    if expected.issubset(df.columns):
+        out = df[["YEAR", "TITLE"]].copy()
+    elif df.shape[1] >= 2:
+        out = df.iloc[:, :2].copy()
+        out.columns = ["YEAR", "TITLE"]
+    else:
+        raise ValueError("Target CSV does not have enough columns to map YEAR;TITLE")
+
+    out["YEAR"] = out["YEAR"].fillna("").astype(str).str.strip()
+    out["TITLE"] = out["TITLE"].fillna("").astype(str).str.strip()
+    return out
+
+
 def collect_source_files(data_dir: Path, excludes: Sequence[str]) -> List[Path]:
     """Return only raw source database CSV files used by the pipeline."""
     excluded = {name.lower() for name in excludes}
@@ -85,61 +108,41 @@ def collect_source_files(data_dir: Path, excludes: Sequence[str]) -> List[Path]:
     return files
 
 
-def build_db_title_index(sources: pd.DataFrame) -> Dict[str, Set[str]]:
-    """Map DB -> normalized title set."""
-    db_to_titles: Dict[str, Set[str]] = {}
-    for db, group in sources.groupby("DB"):
-        db_clean = str(db).strip()
-        if not db_clean:
-            continue
-        title_set = set(group["TITLE_NORM"].dropna().astype(str))
-        title_set.discard("")
-        if title_set:
-            db_to_titles[db_clean] = title_set
-    return db_to_titles
+def build_target_db_matches(target_unique: pd.DataFrame, sources: pd.DataFrame) -> pd.DataFrame:
+    """Return one row per (target article, DB) match using normalized titles."""
+    source_pairs = (
+        sources[["DB", "TITLE_NORM"]]
+        .dropna()
+        .drop_duplicates()
+        .reset_index(drop=True)
+    )
 
+    matches = target_unique.merge(source_pairs, on="TITLE_NORM", how="inner")
+    if matches.empty:
+        return matches
 
-def greedy_db_order(db_to_titles: Dict[str, Set[str]], target_titles: Set[str]) -> List[Tuple[int, str, int, int, float]]:
-    """Greedy ranking: each step picks DB adding most uncovered target titles."""
-    covered: Set[str] = set()
-    remaining_dbs = set(db_to_titles)
-    out: List[Tuple[int, str, int, int, float]] = []
-    step = 1
-    total_targets = len(target_titles)
-
-    while remaining_dbs:
-        best_db = None
-        best_new = set()
-
-        for db in remaining_dbs:
-            new_titles = (db_to_titles[db] & target_titles) - covered
-            if len(new_titles) > len(best_new):
-                best_db = db
-                best_new = new_titles
-
-        if best_db is None:
-            break
-
-        covered |= best_new
-        cumulative = len(covered)
-        cumulative_pct = (100.0 * cumulative / total_targets) if total_targets else 0.0
-        out.append((step, best_db, len(best_new), cumulative, cumulative_pct))
-
-        remaining_dbs.remove(best_db)
-        step += 1
-
-        if cumulative == total_targets:
-            break
-
-    return out
+    matches = matches[["TITLE", "YEAR", "YEAR_INT", "TITLE_NORM", "DB"]].drop_duplicates()
+    return matches.reset_index(drop=True)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Analyze DB completeness against curated review/survey wildfire titles.")
     parser.add_argument(
+        "--ss-id",
+        type=int,
+        default=None,
+        help="Search-string ID from search-strings CSV. Defaults to the last ID in search-strings CSV.",
+    )
+    parser.add_argument(
+        "--config-csv",
+        type=Path,
+        default=None,
+        help="Optional search-strings CSV path (default: src/datain/search_strings.csv; fallback: src/datain/config.csv or src/datain/CSV/config.csv).",
+    )
+    parser.add_argument(
         "--data-dir",
-        default=str(Path(__file__).resolve().parent / "dataout"),
-        help="Directory with input/output CSV files (default: src/dataout).",
+        default=None,
+        help="Directory with input/output CSV files (default: src/dataout/SS{SS_ID}).",
     )
     parser.add_argument(
         "--target-file",
@@ -154,15 +157,23 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    data_dir = Path(args.data_dir).resolve()
+    try:
+        scope = resolve_search_scope(args.ss_id, args.config_csv)
+    except (FileNotFoundError, ValueError) as exc:
+        raise SystemExit(f"[error] {exc}") from exc
+
+    data_dir = Path(args.data_dir).resolve() if args.data_dir else get_scope_dataout_dir(scope.ss_id)
     target_path = data_dir / args.target_file
+
+    print(f"[info] SS_ID: {scope.ss_id}")
+    print(f"[info] Scope dir: {data_dir}")
 
     if not data_dir.is_dir():
         raise SystemExit(f"[error] data directory does not exist: {data_dir}")
     if not target_path.is_file():
         raise SystemExit(f"[error] target CSV not found: {target_path}")
 
-    target = read_semicolon_csv(target_path)
+    target = read_target_csv(target_path)
     target = target[target["TITLE"] != ""].copy()
     target["YEAR_INT"] = target["YEAR"].apply(parse_year)
     target["TITLE_NORM"] = target["TITLE"].apply(normalize_title)
@@ -173,8 +184,7 @@ def main() -> int:
         .drop_duplicates(subset=["TITLE_NORM"], keep="first")
         .reset_index(drop=True)
     )
-    target_titles_set = set(target_unique["TITLE_NORM"])
-
+    target_unique["YEAR"] = target_unique["YEAR_INT"]
     source_files = collect_source_files(data_dir, args.exclude_files)
     # Never include the target file itself as a source DB.
     source_files = [p for p in source_files if p.name != target_path.name]
@@ -199,120 +209,113 @@ def main() -> int:
         raise SystemExit("[error] all source CSV files were skipped or empty")
 
     sources = pd.concat(source_frames, ignore_index=True)
-    db_to_titles = build_db_title_index(sources)
+    target_db_matches = build_target_db_matches(target_unique, sources)
 
     total_targets = len(target_unique)
 
-    coverage_rows = []
-    for db, title_set in sorted(db_to_titles.items()):
-        matched = len(title_set & target_titles_set)
-        pct = (100.0 * matched / total_targets) if total_targets else 0.0
-        coverage_rows.append((db, matched, pct))
-
-    coverage_df = pd.DataFrame(coverage_rows, columns=["DB", "MATCHED_TITLES", "COVERAGE_PCT"])
-    coverage_df = coverage_df.sort_values(["MATCHED_TITLES", "COVERAGE_PCT", "DB"], ascending=[False, False, True]).reset_index(drop=True)
-
-    greedy_rows = greedy_db_order(db_to_titles, target_titles_set)
-    greedy_df = pd.DataFrame(
-        greedy_rows,
-        columns=["STEP", "DB", "NEW_TITLES_COVERED", "CUMULATIVE_COVERED", "CUMULATIVE_PCT"],
-    )
-
-    target_with_any = target_unique.copy()
-    all_source_titles = set(sources["TITLE_NORM"].astype(str))
-    target_with_any["FOUND_IN_ANY_DB"] = target_with_any["TITLE_NORM"].isin(all_source_titles)
-
-    year_summary = (
-        target_with_any.groupby("YEAR_INT", dropna=False)
-        .agg(
-            TARGET_TITLES=("TITLE_NORM", "count"),
-            FOUND_IN_ANY_DB=("FOUND_IN_ANY_DB", "sum"),
-        )
-        .reset_index()
-    )
-    year_summary["MISSING_IN_ANY_DB"] = year_summary["TARGET_TITLES"] - year_summary["FOUND_IN_ANY_DB"]
-    year_summary = year_summary.rename(columns={"YEAR_INT": "YEAR"})
-    year_summary = year_summary.sort_values("YEAR", na_position="last").reset_index(drop=True)
-
-    db_year_rows = []
-    for db, title_set in sorted(db_to_titles.items()):
-        matched_mask = target_unique["TITLE_NORM"].isin(title_set)
-        db_year = (
-            target_unique.loc[matched_mask]
-            .groupby("YEAR_INT", dropna=False)
-            .size()
-            .reset_index(name="MATCHED_TITLES")
-        )
-        db_year["DB"] = db
-        db_year_rows.append(db_year)
-
-    if db_year_rows:
-        db_year_df = pd.concat(db_year_rows, ignore_index=True)
-        db_year_df = db_year_df.rename(columns={"YEAR_INT": "YEAR"})
-        db_year_df = db_year_df[["YEAR", "DB", "MATCHED_TITLES"]]
-        db_year_df = db_year_df.sort_values(["YEAR", "MATCHED_TITLES", "DB"], ascending=[True, False, True]).reset_index(drop=True)
-    else:
+    if target_db_matches.empty:
+        coverage_df = pd.DataFrame(columns=["DB", "MATCHED_TITLES", "COVERAGE_PCT"])
         db_year_df = pd.DataFrame(columns=["YEAR", "DB", "MATCHED_TITLES"])
+    else:
+        coverage_df = (
+            target_db_matches.groupby("DB", as_index=False)["TITLE_NORM"]
+            .nunique()
+            .rename(columns={"TITLE_NORM": "MATCHED_TITLES"})
+        )
+        coverage_df["COVERAGE_PCT"] = (
+            100.0 * coverage_df["MATCHED_TITLES"] / total_targets if total_targets else 0.0
+        )
+        coverage_df = coverage_df.sort_values(
+            ["MATCHED_TITLES", "COVERAGE_PCT", "DB"],
+            ascending=[False, False, True],
+        ).reset_index(drop=True)
+
+        db_year_df = (
+            target_db_matches.groupby(["YEAR", "DB"], dropna=False, as_index=False)["TITLE_NORM"]
+            .nunique()
+            .rename(columns={"TITLE_NORM": "MATCHED_TITLES"})
+            .sort_values(["YEAR", "MATCHED_TITLES", "DB"], ascending=[True, False, True])
+            .reset_index(drop=True)
+        )
+
+    matched_title_set = set(target_db_matches["TITLE_NORM"].astype(str)) if not target_db_matches.empty else set()
+    target_with_any = target_unique.copy()
+    target_with_any["FOUND_IN_ANY_DB"] = target_with_any["TITLE_NORM"].isin(matched_title_set)
 
     unmatched = target_unique[~target_with_any["FOUND_IN_ANY_DB"]].copy()
     unmatched = unmatched[["YEAR", "TITLE"]] if "YEAR" in unmatched.columns else unmatched[["TITLE"]]
 
-    # --- Direct coverage from the DB column in the target file itself ----------
-    # This includes SCHOLA (Google Scholar) and any DB not present in source CSV files.
-    direct_cov = (
-        target_unique.groupby("DB")
-        .agg(TITLES_INDEXED=("TITLE_NORM", "count"))
-        .reset_index()
-    )
-    direct_cov["COVERAGE_PCT"] = (100.0 * direct_cov["TITLES_INDEXED"] / total_targets) if total_targets else 0.0
-    direct_cov = direct_cov.sort_values(["TITLES_INDEXED", "DB"], ascending=[False, True]).reset_index(drop=True)
+    if target_db_matches.empty:
+        article_db_counts = pd.DataFrame(columns=["YEAR", "TITLE", "DB_COUNT"])
+        article_db_distribution = pd.DataFrame(columns=["DB_COUNT", "ARTICLE_COUNT"])
+    else:
+        article_db_counts = (
+            target_db_matches.groupby(["TITLE_NORM", "TITLE", "YEAR"], as_index=False)["DB"]
+            .nunique()
+            .rename(columns={"DB": "DB_COUNT"})
+            .sort_values(["DB_COUNT", "YEAR", "TITLE"], ascending=[False, True, True])
+            .reset_index(drop=True)
+        )
 
-    # Per-year breakdown by DB directly from target file
-    direct_by_year = (
-        target_unique.groupby(["YEAR_INT", "DB"])
-        .size()
-        .reset_index(name="TITLES_INDEXED")
-        .rename(columns={"YEAR_INT": "YEAR"})
+        article_db_distribution = (
+            article_db_counts.groupby("DB_COUNT", as_index=False)
+            .size()
+            .rename(columns={"size": "ARTICLE_COUNT"})
+            .sort_values("DB_COUNT")
+            .reset_index(drop=True)
+        )
+
+    # --- Coverage per DB: how many target articles each DB found across ALL sources ----------
+    # Derived from the source-based match (coverage_df / db_year_df) so every DB that
+    # indexed a target article is counted, regardless of which DB "won" deduplication.
+    direct_cov = (
+        coverage_df[["DB", "MATCHED_TITLES", "COVERAGE_PCT"]]
+        .rename(columns={"MATCHED_TITLES": "TARGET_ARTICLES_FOUND"})
+        .sort_values(["TARGET_ARTICLES_FOUND", "DB"], ascending=[False, True])
+        .reset_index(drop=True)
     )
-    direct_by_year = direct_by_year.sort_values(["YEAR", "TITLES_INDEXED", "DB"], ascending=[True, False, True]).reset_index(drop=True)
+
+    # Per-year articles per DB: same source-based logic, each article counted once per DB
+    direct_by_year = (
+        db_year_df[["YEAR", "DB", "MATCHED_TITLES"]]
+        .rename(columns={"MATCHED_TITLES": "TARGET_ARTICLES_FOUND"})
+        .sort_values(["YEAR", "TARGET_ARTICLES_FOUND", "DB"], ascending=[True, False, True])
+        .reset_index(drop=True)
+    )
 
     charts_dir = data_dir / "charts"
     charts_dir.mkdir(parents=True, exist_ok=True)
 
-    coverage_path = charts_dir / "db_coverage_top12.csv"
-    greedy_path = charts_dir / "db_greedy_cumulative.csv"
-    year_path = charts_dir / "year_coverage_gap.csv"
-    db_year_path = charts_dir / "best_db_per_year.csv"
     unmatched_path = data_dir / "03-UNMATCHED_TITLES.csv"
     direct_cov_path = charts_dir / "db_coverage_from_target.csv"
     direct_by_year_path = charts_dir / "db_from_target_by_year.csv"
+    article_db_counts_path = charts_dir / "article_db_match_counts.csv"
+    article_db_distribution_path = charts_dir / "article_db_match_distribution.csv"
 
-    coverage_df.to_csv(coverage_path, sep=";", index=False, encoding="utf-8")
-    greedy_df.to_csv(greedy_path, sep=";", index=False, encoding="utf-8")
-    year_summary.to_csv(year_path, sep=";", index=False, encoding="utf-8")
-    db_year_df.to_csv(db_year_path, sep=";", index=False, encoding="utf-8")
     unmatched.to_csv(unmatched_path, sep=";", index=False, encoding="utf-8")
     direct_cov.to_csv(direct_cov_path, sep=";", index=False, encoding="utf-8")
     direct_by_year.to_csv(direct_by_year_path, sep=";", index=False, encoding="utf-8")
+    article_db_counts[["YEAR", "TITLE", "DB_COUNT"]].to_csv(
+        article_db_counts_path,
+        sep=";",
+        index=False,
+        encoding="utf-8",
+    )
+    article_db_distribution.to_csv(article_db_distribution_path, sep=";", index=False, encoding="utf-8")
 
-    top_db = coverage_df.iloc[0]["DB"] if len(coverage_df) else "N/A"
-    top_cov = coverage_df.iloc[0]["MATCHED_TITLES"] if len(coverage_df) else 0
     top_direct = direct_cov.iloc[0]["DB"] if len(direct_cov) else "N/A"
-    top_direct_n = direct_cov.iloc[0]["TITLES_INDEXED"] if len(direct_cov) else 0
+    top_direct_n = direct_cov.iloc[0]["TARGET_ARTICLES_FOUND"] if len(direct_cov) else 0
 
     print(f"[ok] target titles (unique normalized): {total_targets}")
     print(f"[ok] source files used: {len(source_files) - len(skipped_files)}")
     if skipped_files:
         print(f"[warn] skipped files (schema/read issues): {', '.join(sorted(skipped_files))}")
-    print(f"[ok] top DB by title-match in sources: {top_db} ({top_cov} titles)")
-    print(f"[ok] top DB by direct indexing (target file): {top_direct} ({top_direct_n} titles)")
-    print(f"[out] {coverage_path}")
-    print(f"[out] {greedy_path}")
-    print(f"[out] {year_path}")
-    print(f"[out] {db_year_path}")
+    print(f"[ok] top DB by target-article matches: {top_direct} ({top_direct_n} titles)")
     print(f"[out] {unmatched_path}")
     print(f"[out] {direct_cov_path}")
     print(f"[out] {direct_by_year_path}")
+    print(f"[out] {article_db_counts_path}")
+    print(f"[out] {article_db_distribution_path}")
 
     return 0
 

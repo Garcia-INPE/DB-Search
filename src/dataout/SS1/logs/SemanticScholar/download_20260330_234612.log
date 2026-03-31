@@ -1,0 +1,72 @@
+[info] Run log: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/SS1/logs/SemanticScholar/download_20260330_234612.log
+[info] SS_ID: 1
+[info] Search-strings CSV: /home/jrmgarcia/ProjDocs/DB_Search/src/datain/search_strings.csv
+
+Query: (survey OR review) AND (wildfire OR ‘wild fire’ OR ‘wildland fire’ OR ‘wild land fire’ OR ‘forest fire’ OR bushfire)
+Output dir: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/SS1/PDF/SemanticScholar
+  [try 1/3] Capturing page 01: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=1
+  [info] Total results reported: unknown
+  [warn] Extracted 0 results on page 01. Saved debug HTML: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/SS1/logs/SemanticScholar/semantic_scholar_debug_page01.html
+  [info] Extracted 0 result(s) from page 01
+  [ok] Saved P01.pdf
+  [try 1/3] Capturing page 02: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=2
+  [info] Extracted 16 result(s) from page 02
+  [ok] Saved P02.pdf
+  [try 1/3] Capturing page 03: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=3
+  [info] Extracted 0 result(s) from page 03
+  [ok] Saved P03.pdf
+  [try 1/3] Capturing page 04: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=4
+  [info] Extracted 16 result(s) from page 04
+  [ok] Saved P04.pdf
+  [try 1/3] Capturing page 05: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=5
+  [info] Extracted 19 result(s) from page 05
+  [ok] Saved P05.pdf
+  [try 1/3] Capturing page 06: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=6
+  [info] Extracted 19 result(s) from page 06
+  [ok] Saved P06.pdf
+  [try 1/3] Capturing page 07: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=7
+  [info] Extracted 18 result(s) from page 07
+  [ok] Saved P07.pdf
+  [try 1/3] Capturing page 08: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=8
+  [info] Extracted 19 result(s) from page 08
+  [ok] Saved P08.pdf
+  [try 1/3] Capturing page 09: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=9
+  [info] Extracted 20 result(s) from page 09
+  [ok] Saved P09.pdf
+  [try 1/3] Capturing page 10: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=10
+  [info] Extracted 19 result(s) from page 10
+  [ok] Saved P10.pdf
+  [try 1/3] Capturing page 11: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=11
+  [info] Extracted 20 result(s) from page 11
+  [ok] Saved P11.pdf
+  [try 1/3] Capturing page 12: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=12
+  [info] Extracted 19 result(s) from page 12
+  [ok] Saved P12.pdf
+  [try 1/3] Capturing page 13: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=13
+  [info] Extracted 20 result(s) from page 13
+  [ok] Saved P13.pdf
+  [try 1/3] Capturing page 14: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=14
+  [info] Extracted 19 result(s) from page 14
+  [ok] Saved P14.pdf
+  [try 1/3] Capturing page 15: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=15
+  [info] Extracted 18 result(s) from page 15
+  [ok] Saved P15.pdf
+  [try 1/3] Capturing page 16: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=16
+  [info] Extracted 20 result(s) from page 16
+  [ok] Saved P16.pdf
+  [try 1/3] Capturing page 17: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=17
+  [info] Extracted 19 result(s) from page 17
+  [ok] Saved P17.pdf
+  [try 1/3] Capturing page 18: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=18
+  [info] Extracted 19 result(s) from page 18
+  [ok] Saved P18.pdf
+  [try 1/3] Capturing page 19: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=19
+  [info] Extracted 20 result(s) from page 19
+  [ok] Saved P19.pdf
+  [try 1/3] Capturing page 20: https://www.semanticscholar.org/search?q=%28survey+OR+review%29+AND+%28wildfire+OR+%E2%80%98wild+fire%E2%80%99+OR+%E2%80%98wildland+fire%E2%80%99+OR+%E2%80%98wild+land+fire%E2%80%99+OR+%E2%80%98forest+fire%E2%80%99+OR+bushfire%29&sort=relevance&page=20
+  [info] Extracted 19 result(s) from page 20
+  [ok] Saved P20.pdf
+
+[info] Saved 339 records to /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/SS1/SemanticScholar.csv
+
+[done] Semantic Scholar page capture completed.

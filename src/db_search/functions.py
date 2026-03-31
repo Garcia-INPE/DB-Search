@@ -69,6 +69,6 @@ def get_db_label(db_code: str) -> str:
     # Prefix variants, e.g. SEMAN1..SEMAN9
     for prefix, label in DB_LABELS.items():
         if code.startswith(prefix):
-            return f"{label} ({code})"
+            return label
 
     return code

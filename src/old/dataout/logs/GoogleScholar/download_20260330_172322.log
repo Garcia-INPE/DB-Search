@@ -1,0 +1,8 @@
+[info] Run log: /home/jrmgarcia/ProjDocs/DB_Search/src/dataout/logs/GoogleScholar/download_20260330_172322.log
+[info] Source: openalex
+Query: wildfire machine learning review
+CSV output: src/dataout/GoogleScholar.csv
+Target via OpenAlex: up to 5 records (1 x 5)
+  [info] OpenAlex page 1: +5 raw, 5/5 kept
+[info] Saved 5 records to src/dataout/GoogleScholar.csv
+[done] OpenAlex collection completed.
